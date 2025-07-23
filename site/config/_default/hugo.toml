@@ -20,32 +20,32 @@ disableKinds = ["taxonomy", "term"]
 [menu]
 
 [[menu.main]]
-    name = "Calendar"
+    name = "カレンダー"
     weight = 1
 
  # Child of Calendar
  [[menu.main]]
-    name = "Events"
+    name = "イベント"
     url  = "/calendar/"
     weight = 1
     identifier = ""
-    parent = "Calendar"
+    parent = "カレンダー"
 
 # Child of Calendar
  [[menu.main]]
-    name = "Events (Beta)"
+    name = "イベント (Beta)"
     url  = "/events/beta/"
     weight = 1
     identifier = ""
-    parent = "Calendar"
+    parent = "カレンダー"
 
  # Child of Calendar
  [[menu.main]]
-    name = "Add Event"
+    name = "イベントを追加"
     url  = "/addevent/"
     weight = 2
     identifier = ""
-    parent = "Calendar"
+    parent = "カレンダー"
 
  # Child of Calendar
  [[menu.main]]
@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "term"]
     url  = "/bike-summer-calendar/"
     weight = 3
     identifier = ""
-    parent = "Calendar"
+    parent = "カレンダー"
 
 [[menu.main]]
     name = "Featured Events"

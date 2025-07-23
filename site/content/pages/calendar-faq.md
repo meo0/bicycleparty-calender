@@ -3,7 +3,7 @@ title: カレンダーFAQ
 weight: "4"
 menu:
   main:
-    parent: Calendar
+    parent: カレンダー
 ---
 ## イベントに参加する
 
