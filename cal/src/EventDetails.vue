@@ -113,7 +113,7 @@ export default {
       return helpers.getTimeRange(this.evt);
     },
     loopText() {
-      return this.evt.loopride && 'Ride is a loop';
+      return this.evt.loopride && 'この走行はループです';
     },
     shareableLink() {
       return this.evt.shareable;
@@ -151,13 +151,13 @@ export default {
       {{evt.title}}
     </EventHeader>
     <dl class="c-terms c-detail__terms">
-      <Term id="tags" label="Tags">
+      <Term id="tags" label="タグ">
         <CalTags :tags/>
       </Term>
-      <Term id="location" label="Location">
+      <Term id="location" label="場所">
         <LocationLink :evt="evt"></LocationLink>
       </Term>
-      <Term id="organizer"  label= "Organizer">
+      <Term id="organizer"  label= "主催者">
           <span class="c-organizer__name c-organizer__name--link" v-if="contactLink">
             <ExternalLink :href="contactLink">{{evt.organizer}}</ExternalLink>
           </span>
@@ -171,12 +171,12 @@ export default {
             class="c-organizer__phone"
           >(<a :href="'tel:' + evt.phone">{{evt.phone}}</a>)</span>
       </Term>
-      <Term id="news" :context="evt.caldaily_id" label= "Newsflash" :text="evt.newsflash"/>
-      <Term id="time"       label= "Start Time"   :text="timeRange"/>
-      <Term id="timedetails"label= "Time Details" :text="evt.timedetails"/>
-      <Term id="locend"     label= "End Location" pretext="Ending at " :text="evt.locend"/>
-      <Term id="loop"       label= "Loop"         :text="loopText"/>
-      <Term v-if="evt.weburl" label="More Info">
+      <Term id="news" :context="evt.caldaily_id" label= "ニュース速報" :text="evt.newsflash"/>
+      <Term id="time"       label= "開始時刻"   :text="timeRange"/>
+      <Term id="timedetails"label= "時間詳細" :text="evt.timedetails"/>
+      <Term id="locend"     label= "終了地点" pretext="終了地点: " :text="evt.locend"/>
+      <Term id="loop"       label= "ループ"         :text="loopText"/>
+      <Term v-if="evt.weburl" label="詳細情報">
         <ExternalLink :href="webLink">
           {{evt.webname || evt.weburl}}
         </ExternalLink>
@@ -186,9 +186,9 @@ export default {
       {{evt.details}}
     </p>
     <ul class="c-detail-links" v-if="evt.id">
-      <li><a :href="shareableLink" class="c-links__share" rel="bookmark">Sharable link</a></li>
-      <li><a :href="exportLink" class="c-links__export">Export to calendar</a></li>
-      <li><a :href="addToGoogleLink" class="c-links__google" target="_blank">Add to Google Calendar</a></li>
+      <li><a :href="shareableLink" class="c-links__share" rel="bookmark">共有可能なリンク</a></li>
+      <li><a :href="exportLink" class="c-links__export">カレンダーにエクスポート</a></li>
+      <li><a :href="addToGoogleLink" class="c-links__google" target="_blank">Googleカレンダーに追加</a></li>
     </ul>
   </article>
 </template>

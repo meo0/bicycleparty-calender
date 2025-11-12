@@ -61,16 +61,16 @@ export default {
     <RouterLink :to="eventDetailsLink">{{ evt.title }}</RouterLink>
   </EventHeader>
   <dl class="c-terms c-event__terms">
-    <Term id="time" label="Time">
+    <Term id="time" label="時刻">
        <span v-if="showDate">{{longDate}}</span>
        <div :class="showDate? 'c-time__range--indent': 'c-time__range--inline'">{{timeRange}}</div>
     </Term>
-    <Term id="news" :context="evt.caldaily_id" label="Newsflash" :text="evt.newsflash"/>
-    <Term id="location" label="Location">
+    <Term id="news" :context="evt.caldaily_id" label="ニュース速報" :text="evt.newsflash"/>
+    <Term id="location" label="場所">
       <LocationLink :evt="evt"></LocationLink>
     </Term>
-    <Term id="organizer" label="Organizer" :text="evt.organizer"/>
-    <Term id="tags" label="Tags">
+    <Term id="organizer" label="主催者" :text="evt.organizer"/>
+    <Term id="tags" label="タグ">
       <CalTags :tags="tags"/>
     </Term>
   </dl>

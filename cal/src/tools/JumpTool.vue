@@ -40,8 +40,8 @@ export default {
 </script>
 <template>
   <form method="dialog">
-  <InputText name="jump" label="Jump to date" :attrs :model />
-  <button @click.prevent="showToday()">Today</button>
-  <button @click.prevent="jumpToDate()">Go</button>
+  <InputText name="jump" label="日付にジャンプ" :attrs :model />
+  <button @click.prevent="showToday()">今日</button>
+  <button @click.prevent="jumpToDate()">移動</button>
   </form>
 </template>
