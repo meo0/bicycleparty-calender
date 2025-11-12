@@ -1,145 +1,145 @@
 ---
-title: Shift Code Of Conduct
+title: Shift行動規範
 weight: 2
 menu:
   main:
     parent: aboutmenu
 ---
-## 1. Purpose
+## 1. 目的
 
-Shift's mission is to promote inclusive bike fun. We volunteer our time towards that goal in Portland, Oregon, for those of all backgrounds. As such, we are committed to adhering to a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+Shiftの使命は、包括的な自転車の楽しみを促進することです。私たちは、オレゴン州ポートランドで、あらゆる背景を持つ人々のためにその目標に向けてボランティアで時間を提供しています。そのため、私たちは、性別、性的指向、能力、民族性、社会経済的地位、宗教（またはその欠如）に関係なく、すべての人にとってフレンドリーで安全で歓迎的な環境を維持することに尽力しています。
 
-This Code of Conduct outlines our expectations for the rides that list on the Shift calendar pertaining to both ride leaders and participants, as well as representatives and volunteers at official Shift events including board meetings.
+この行動規範は、走行リーダーと参加者の両方に関するShiftカレンダーにリストされている走行、および理事会会議を含む公式Shiftイベントでの代表者とボランティアに対する期待を概説しています。
 
-We invite all those who participate in official Shift activities, within Shift’s community, and on rides that list on the Shift calendar; to help us create safe and positive experiences for everyone.
+私たちは、公式Shiftアクティビティに参加するすべての人、Shiftのコミュニティ内、およびShiftカレンダーにリストされている走行に招待します。すべての人のために安全でポジティブな体験を作り出すのを手助けしてください。
 
-Shift listed ride participants are required to agree to the following Code of Conduct. This code will be shared with participants and the public alike, and ride leaders will enforce this code throughout the ride and during related gatherings before and after the ride.
+Shiftにリストされた走行参加者は、以下の行動規範に同意する必要があります。このコードは参加者と一般大衆に共有され、走行リーダーは走行中および走行前後の関連する集まりでこのコードを執行します。
 
-tl;dr:
+要約：
 
-Have fun, be kind to one another, keep yourself safe.
+楽しんで、お互いに親切にし、自分自身を安全に保ってください。
 
-## 2. Core Values
+## 2. コアバリュー
 
-These values come from members in our community that have all collectively agreed on in one setting or another. These are the things the community wants for itself and its legacy in Portland, and hopes to instill in others:
+これらの価値観は、あるいは別の環境で集合的に同意したコミュニティのメンバーから来ています。これらは、コミュニティが自分自身とポートランドでの遺産のために望んでいることであり、他の人々に植え付けたいと思っていることです：
 
-active transportation, community-building, inclusivity, promoting bike fun, accountability, responsibility, collective nature, collaboration, accessibility, justice, environmentalism, education, fostering leadership, equity
+積極的な交通、コミュニティ構築、包括性、自転車の楽しみの促進、説明責任、責任、集団的性質、協力、アクセシビリティ、正義、環境主義、教育、リーダーシップの育成、公平性
 
-## 3. Expected Behavior
+## 3. 期待される行動
 
-The following behaviors are expected to be used as a resource for ride leaders to know what is expected of rides that are listed on the Shift calendar, these are expected behaviors for all rides:
+以下の行動は、Shiftカレンダーにリストされている走行に期待されることを走行リーダーが知るためのリソースとして使用されることが期待されています。これらはすべての走行に期待される行動です：
 
-* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-* Be inclusive, friendly, inviting, and helpful to those around you. There may be participants who are rarely on a bicycle and it’s important to foster those people who may not be as seasoned a rider as you.
-* Exercise consideration and respect in your speech and actions, as well as in the descriptions of listings on the calendar.
-* Attempt collaboration before conflict.
-* Refrain from demeaning, discriminatory, or harassing behavior and speech.
-* Be mindful of your surroundings and of your fellow participants. Alert those who are helping you lead the ride if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. Report bad actors who violate the Code of Conduct to Shift via your ride listing if you are having issues with repeated behavior.
-* Remember that rides are open to everyone and take place in public; please be respectful to all road users, sidewalk users, and those enjoying the public spaces where rides might find themselves.
-* Refrain from insulting, harassing, demeaning, or otherwise with respect to other events and other ride leaders in the community. Report behavior if you see it and do not attack others.
+* 本物で積極的な方法で参加してください。そうすることで、このコミュニティの健康と長寿に貢献します。
+* 周りの人々に対して包括的で、フレンドリーで、誘いやすく、役立つようにしてください。まれにしか自転車に乗らない参加者がいる可能性があり、あなたほど経験豊富なライダーではない可能性がある人々を育成することが重要です。
+* あなたの発言と行動、およびカレンダーのリストの説明において、配慮と尊重を行使してください。
+* 対立の前に協力を試みてください。
+* 卑劣な、差別的な、またはハラスメント的な行動と発言を控えてください。
+* 周囲と仲間の参加者に注意してください。危険な状況、苦痛にある人、またはこの行動規範の違反に気付いた場合は、たとえささいなことのように見えても、走行をリードするのを手助けしている人に警告してください。繰り返される行動に問題がある場合は、走行リストを通じてShiftに行動規範に違反する悪質な行為者を報告してください。
+* 走行は誰にでも開かれており、公共の場所で行われることを覚えておいてください。すべての道路利用者、歩道利用者、および走行が自分自身を見つける可能性のある公共スペースを楽しんでいる人々に敬意を払ってください。
+* コミュニティ内の他のイベントや他の走行リーダーに関して、侮辱的、ハラスメント的、卑劣な、またはその他の行動を控えてください。それを見たら行動を報告し、他の人を攻撃しないでください。
 
-Expected behavior for "Adult (21+)" rides:
+「大人（21歳以上）」走行の期待される行動：
 
-* If your ride features adult content or behavior (drinking at a bar, visiting a 21+ establishment) you must tag your ride as 21+ to let people know that there is a minimum age for attendance.
-* Make a good faith effort to include applicable trigger warnings for your event, let people know in the description and at the event that there may be: Fireworks, Nudity, Adult Endeavors (like bikeporn or a strip club ride) planned for your ride.
+* あなたの走行が大人のコンテンツまたは行動（バーでの飲酒、21歳以上の施設への訪問）を特徴とする場合、参加の最低年齢があることを人々に知らせるために、走行を21歳以上としてタグ付けする必要があります。
+* イベントに適用可能なトリガー警告を含めるために誠実な努力をしてください。説明とイベントで、花火、ヌード、大人の試み（bikepornやストリップクラブの走行など）が走行のために計画されている可能性があることを人々に知らせてください。
 
-Expected behavior for "Family-Friendly" rides:
+「ファミリーフレンドリー」走行の期待される行動：
 
-* Stay together as a group and follow all traffic safety laws.
-* Helmets are required, by law, for persons under the age of 16 and encouraged for adults.
-* Kids riding their own bikes should be able to ride in a more or less straight line, stop and start as necessary, and follow verbal directions.
-* Rides should be no more than 6 miles in distance.
+* グループとして一緒にいて、すべての交通安全法に従ってください。
+* ヘルメットは、16歳未満の人には法律で義務付けられており、大人には奨励されています。
+* 自分の自転車に乗っている子供たちは、多かれ少なかれ直線で乗ることができ、必要に応じて停止および開始し、口頭指示に従うことができる必要があります。
+* 走行は距離が6マイル以下である必要があります。
 
-## 4. Unacceptable Behavior
+## 4. 受け入れられない行動
 
-The following behaviors are considered harassment and are unacceptable within our community, as such, the ride leaders who observe these behaviors on their rides are expected to address and report such behaviors:
+以下の行動はハラスメントと見なされ、私たちのコミュニティ内では受け入れられません。そのため、走行でこれらの行動を観察する走行リーダーは、そのような行動に対処し報告することが期待されています：
 
-* Violence, threats of violence or violent language directed against another person.
-* Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-* Posting or displaying violent material or encouraging violence, either on Shift resources online or on rides directly in view of participants.
-* Posting or threatening to post other people’s personally identifying information online or to participants on rides: ("doxing").
-* Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-* Inappropriate photography or recording.
-* Inappropriate physical contact. You should have someone’s consent before touching them.
-* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances.
-* Deliberate intimidation, stalking or following (online or in person).
-* Listing fraudulent events or repeatedly failing to show up to events after creation.
-* Sustained disruption of community events or forums, in-person or online.
-* Ignoring or evading a suspension, ban, or other requirement or action established by Shift.
-* Advocating for, or encouraging, any of the above behavior.
+* 他の人に向けられた暴力、暴力の脅威、または暴力的な言語。
+* 性差別的、人種差別的、同性愛嫌悪的、トランスフォビック、能力差別的、またはその他の差別的なジョークと言語。
+* Shiftのオンラインリソースまたは参加者の直接の視界内の走行で、暴力的な資料を投稿または表示したり、暴力を奨励したりすること。
+* 他の人の個人を特定する情報をオンラインまたは走行の参加者に投稿したり、投稿すると脅したりすること：（「doxing」）。
+* 個人的な侮辱、特に性別、性的指向、人種、宗教、または障害に関連するもの。
+* 不適切な写真撮影または録音。
+* 不適切な身体的接触。触る前に誰かの同意を得る必要があります。
+* 歓迎されない性的注意。これには、性的なコメントやジョーク、不適切な接触、グロープ、歓迎されない性的進歩が含まれます。
+* 故意の脅迫、ストーキング、または追跡（オンラインまたは対面）。
+* 詐欺的なイベントをリストしたり、作成後にイベントに繰り返し現れなかったりすること。
+* コミュニティイベントまたはフォーラムの持続的な妨害、対面またはオンライン。
+* Shiftによって確立された停止、禁止、またはその他の要件または行動を無視または回避すること。
+* 上記の行動のいずれかを提唱または奨励すること。
 
-## 5. Weapons Policy
+## 5. 武器ポリシー
 
-No weapons will be allowed on rides that list on the Shift calendar, or at official Shift events, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items must be asked to leave immediately, and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws on this matter. If any ride participants witness this behavior go unaddressed they are requested to report this to Shift under the ride listing on the calendar. While firearms and large knives may be legal to carry, we require that you do not bring them with you.
+Shiftカレンダーにリストされている走行、公式Shiftイベント、またはこの行動規範の範囲でカバーされる他のスペースでは、武器は許可されません。武器には、銃、爆発物（花火を含む）、狩猟または展示用のものなどの大型ナイフ、および他の人に負傷または害を引き起こす目的で使用されるその他のアイテムが含まれますが、これらに限定されません。これらのアイテムの1つを所持していることが確認された人は、すぐに立ち去るように求められ、武器なしで戻ることが許可されます。参加者は、この問題に関するすべての州および地方の法律を遵守することがさらに期待されています。走行参加者がこの行動が対処されていないのを目撃した場合、カレンダーの走行リストの下でShiftに報告することが要求されます。銃器と大型ナイフは合法的に携帯できる可能性がありますが、一緒に持ってこないことを要求します。
 
-## 6. Consequences of Unacceptable Behavior
+## 6. 受け入れられない行動の結果
 
-Unacceptable behavior from any community member, including ride leaders and those with decision-making authority, will not be tolerated. Shift reserves the right to remove any listing from the calendar at any time. Rides which do not follow this Code of Conduct may be removed from the calendar.
+走行リーダーや意思決定権限を持つ人々を含む、コミュニティメンバーからの受け入れられない行動は容認されません。Shiftは、いつでもカレンダーからリストを削除する権利を留保します。この行動規範に従わない走行は、カレンダーから削除される場合があります。
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+受け入れられない行動を停止するように求められた人は、すぐに従うことが期待されています。
 
-If a community member engages in unacceptable behavior, we may take any action deemed appropriate, up to and including a temporary ban or permanent expulsion of the ride listing on the Shift calendar and the individuals involved from the official Shift events. This Code Of Conduct includes a section on appeals for rides that have been excluded due to repeated reports of unacceptable behavior without ride leader intervention.
+コミュニティメンバーが受け入れられない行動に従事する場合、一時的な禁止またはShiftカレンダーの走行リストと公式Shiftイベントから関与する個人の永久追放を含む、適切と見なされる措置を講じることができます。この行動規範には、走行リーダーの介入なしに受け入れられない行動の繰り返し報告のために除外された走行の上訴に関するセクションが含まれています。
 
-Event removal due to reports of unacceptable behavior going unaddressed will be reviewed case by case by the board members and will be ratified by consensus during the next available board meeting.
+対処されていない受け入れられない行動の報告によるイベントの削除は、理事会メンバーによってケースバイケースでレビューされ、次の利用可能な理事会会議でコンセンサスによって批准されます。
 
-Event creators may receive an automatic email notifying them that their listing has been removed. Some listings that get removed may not receive a notification that their ride has been removed at the discretion of the Shift board.
+イベント作成者は、リストが削除されたことを通知する自動メールを受信する場合があります。削除される一部のリストは、Shift理事会の裁量で、走行が削除されたという通知を受け取らない場合があります。
 
-Automatic event removal (one that did not come before the board because of reports) may be done by calendar editors and must be seconded by a board member before removal. Events are automatically removed if the listing is in obvious contention with this Code of Conduct.
+自動イベント削除（報告のために理事会に来なかったもの）は、カレンダー編集者によって行われ、削除前に理事会メンバーによって承認される必要があります。リストがこの行動規範と明らかに対立している場合、イベントは自動的に削除されます。
 
-## 7. Reporting Guidelines
+## 7. 報告ガイドライン
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing [conduct@shift2bikes.org](mailto:conduct@shift2bikes.org) or completing the [Reporting Unacceptable Behavior Form](https://forms.gle/sYN8zZqMkPt2QCih7) to your best ability.
+受け入れられない行動を受けたり目撃したり、その他の懸念がある場合は、[conduct@shift2bikes.org](mailto:conduct@shift2bikes.org)にメールするか、[受け入れられない行動報告フォーム](https://forms.gle/sYN8zZqMkPt2QCih7)をできる限り完成させることで、できるだけ早く通知してください。
 
-Additionally, Shift recognizes that experiencing unacceptable behavior can make anyone feel unsafe. In the context of official Shift events, organizers are expected to aid those persons experiencing distress.
+さらに、Shiftは、受け入れられない行動を経験することが誰かを不安にさせる可能性があることを認識しています。公式Shiftイベントのコンテキストでは、主催者は苦痛を経験している人々を支援することが期待されています。
 
-Respectfully, Shift does not engage with local law enforcement or otherwise aide law enforcement with their investigative matters. Your right to privacy with regard to reporting issues to Shift, be it anonymously or by name, will be protected as confidential by default. Any participants who involve law enforcement agencies do so by their own interest and without the explicit endorsement from Shift the organization.
+敬意を込めて、Shiftは地元の法執行機関と関与したり、その調査事項で法執行機関を支援したりしません。匿名または名前でShiftに問題を報告することに関するあなたのプライバシーの権利は、デフォルトで機密として保護されます。法執行機関を関与させる参加者は、自分の利益のためにそうし、組織としてのShiftからの明示的な支持なしにそうします。
 
-## 8. Appealing Decisions
+## 8. 決定の上訴
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Shift board at [conduct@shift2bikes.org](mailto:conduct@shift2bikes.org) with your appeal and the board will review the case.
+永続的な解決策（禁止など）のみが上訴される場合があります。ワーキンググループの決定に上訴するには、[conduct@shift2bikes.org](mailto:conduct@shift2bikes.org)でShift理事会に上訴を連絡してください。理事会はケースをレビューします。
 
-## 9. Listing on the Shift Calendar
+## 9. Shiftカレンダーへのリスト
 
-Public listings on the Shift calendar are not official Shift events, unless created by the board. These non-official Shift events are not covered by insurance and the ride leaders as well as ride participants of these public listings are expected to be ultimately responsible for their own health and safety. If you are in danger in any way, please get to safety and ask for help if you cannot. 
+Shiftカレンダーの公開リストは、理事会によって作成されない限り、公式Shiftイベントではありません。これらの非公式Shiftイベントは保険でカバーされておらず、これらの公開リストの走行リーダーおよび走行参加者は、最終的に自分自身の健康と安全に責任を負うことが期待されています。何らかの方法で危険にさらされている場合は、安全な場所に行き、できない場合は助けを求めてください。
 
-Those who list a ride on the Shift calendar as well as the ride leaders, if not the one person then the persons involved in leading the ride, agree that this Code Of Conduct is fair and something they agree to uphold for the duration of their ride. Rides promoted by Shift on the Shift calendar are open to anyone to list, anyone to join, and everyone to enjoy. We appreciate the community’s help in keeping our mission to promote inclusive bike fun a successful one.
+Shiftカレンダーに走行をリストした人、および走行リーダー（1人でない場合は走行をリードすることに関与する人々）は、この行動規範が公正であり、走行の期間中それを支持することに同意することに同意します。ShiftカレンダーでShiftによって宣伝される走行は、誰でもリストし、誰でも参加し、誰でも楽しむことができます。包括的な自転車の楽しみを促進するという私たちの使命を成功させるために、コミュニティの助けに感謝します。
 
-## 10. Scope
+## 10. 範囲
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all official Shift venues–online and in-person–as well as in all one-on-one communications pertaining to the Shift community. This includes but is not limited to rides, official Shift events, Shift mailing lists and forums, and Shift social media.
+すべてのコミュニティ参加者（貢献者、有給またはその他、スポンサー、その他のゲスト）が、すべての公式Shift会場（オンラインおよび対面）、およびShiftコミュニティに関するすべての一対一のコミュニケーションでこの行動規範を遵守することを期待しています。これには、走行、公式Shiftイベント、Shiftメーリングリストおよびフォーラム、Shiftソーシャルメディアが含まれますが、これらに限定されません。
 
-This Code of Conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+この行動規範とその関連手順は、そのような行動がコミュニティメンバーの安全と幸福に悪影響を及ぼす可能性がある場合、コミュニティ活動の範囲外で発生する受け入れられない行動にも適用されます。
 
-## 11. Contact Info
+## 11. 連絡先情報
 
-Shift board: [board@shift2bikes.org](mailto:board@shift2bikes.org)
+Shift理事会：[board@shift2bikes.org](mailto:board@shift2bikes.org)
 
-Conduct committee: [conduct@shift2bikes.org](mailto:conduct@shift2bikes.org)
+行動委員会：[conduct@shift2bikes.org](mailto:conduct@shift2bikes.org)
 
-## 12. License and Attribution
+## 12. ライセンスと帰属
 
-This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
+この行動規範は、クリエイティブコモンズ表示-継承ライセンスの下で配布されています。
 
-Portions of text derived directly from the Stumptown Syndicate Code of Conduct which includes text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
+テキストの一部は、Django行動規範およびGeek Feminism反ハラスメントポリシーから派生したテキストを含むStumptown Syndicate行動規範から直接派生しています。
 
-## 13. Glossary of Terms
+## 13. 用語集
 
-Ride Participant / Event participant / participant 
+走行参加者/イベント参加者/参加者
 
-> Someone in attendance of an event listed on the Shift calendar or official Shift event.
+> Shiftカレンダーまたは公式Shiftイベントにリストされているイベントに出席している人。
 
-Listing Creator /  Ride leader 
+リスト作成者/走行リーダー
 
-> Someone who has created a listing on the Shift calendar, who may or may not be the ride leader, but at minimum is the ride organizer. Ride leaders / listing creators are those who agree to uphold this Code Of Conduct at their event.
+> Shiftカレンダーにリストを作成した人で、走行リーダーである場合とそうでない場合がありますが、最低限走行主催者です。走行リーダー/リスト作成者は、イベントでこの行動規範を支持することに同意する人々です。
 
-Shift Board Member
+Shift理事会メンバー
 
-> Someone who is a member of the Shift Board of Directors, and regularly attends Shift board meetings.
+> Shift理事会のメンバーであり、Shift理事会会議に定期的に出席している人。
 
 Doxing
 
-> Providing personal information of another, without explicit consent, to the public. This normally happens with intent to threaten or intimidate. Sharing information about observed behavior from named individuals is not implicitly “doxing”.
+> 明示的な同意なしに、他の人の個人情報を公開に提供すること。これは通常、脅迫または威嚇する意図で起こります。名前付き個人からの観察された行動に関する情報を共有することは、暗黙的に「doxing」ではありません。
 
-Calendar Event / Ride Listing / Listing
+カレンダーイベント/走行リスト/リスト
 
-> An event listed on the Shift calendar.
+> Shiftカレンダー上のアイテム。リストは、オープンであっても限定されていても、コミュニティメンバーによって作成されたイベントです。
