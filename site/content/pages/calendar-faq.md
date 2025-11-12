@@ -1,130 +1,130 @@
 ---
-title: Calendar FAQ
+title: カレンダーFAQ
 weight: "4"
 menu:
   main:
     parent: Calendar
 ---
-## Going to events
+## イベントに参加する
 
-### Who organizes these events?
+### これらのイベントは誰が主催していますか？
 
-Anyone! The calendar is free service for community members to use.
+誰でも！カレンダーは、コミュニティメンバーが使用する無料サービスです。
 
-**Please note:** Shift hosts the calendar as a public service. Rides and events are posted to the Shift calendar by community members, not by Shift. Rides and events posted to the Shift calendar are not sponsored by Shift or Shift’s fiscal sponsor, Umbrella.
+**注意してください：** Shiftはカレンダーを公共サービスとしてホストしています。走行とイベントは、Shiftではなく、コミュニティメンバーによってShiftカレンダーに投稿されます。Shiftカレンダーに投稿された走行とイベントは、ShiftまたはShiftの財政スポンサーであるUmbrellaによって後援されていません。
 
-### Are rides free?
+### 走行は無料ですか？
 
-Most events are free. If there's a fee, it has to be listed in the description.
+ほとんどのイベントは無料です。料金がある場合は、説明に記載する必要があります。
 
-### Do rides return to the start location?
+### 走行は出発地点に戻りますか？
 
-It depends. Some rides do, and some don't. Ride leaders have the option to indicate whether the ride is a loop or not, and can also provide info about the end location. Contact the organizer if you're not sure.
+場合によります。戻る走行もあれば、戻らない走行もあります。走行リーダーは、走行がループであるかどうかを示し、終了地点に関する情報も提供するオプションがあります。不明な場合は、主催者に連絡してください。
 
-### I have questions about a specific ride. How can I find out more info?
+### 特定の走行について質問があります。詳細情報を見つけるにはどうすればよいですか？
 
-Use the contact info on the event listing to contact the organizer.
+主催者に連絡するには、イベントリストの連絡先情報を使用してください。
 
-### A ride leader didn't post any contact info. How can I contact them?
+### 走行リーダーが連絡先情報を投稿していません。どのように連絡できますか？
 
-We recommend that all ride leaders include at least 1 public contact method, but not all do. If you have a question for a ride leader but don't have a way to contact them, email the [Shift calendar crew](mailto:bikecal@shift2bikes.org). We can't share the ride leader's contact info without their permission, but we can forward your message to them. The ride leader may then choose to respond or not — it's up to them.
+すべての走行リーダーに少なくとも1つの公開連絡方法を含めることをお勧めしますが、すべてがそうするわけではありません。走行リーダーに質問があるが連絡する方法がない場合は、[Shiftカレンダースタッフ](mailto:bikecal@shift2bikes.org)にメールしてください。走行リーダーの許可なく連絡先情報を共有することはできませんが、メッセージを転送することはできます。走行リーダーは、返信するかどうかを選択できます - それは彼ら次第です。
 
 
-## Posting events
+## イベントを投稿する
 
-### Who can post events to the calendar?
+### カレンダーにイベントを投稿できるのは誰ですか？
 
-Anyone!
+誰でも！
 
-### What info do I need to provide about my event?
+### イベントについて提供する必要がある情報は何ですか？
 
-To post an event you need to provide at least these basics:
+イベントを投稿するには、少なくとも次の基本事項を提供する必要があります：
 
-* Title
-* The name of the organizer
-* Start date & time
-* Start location
+* タイトル
+* 主催者の名前
+* 開始日時
+* 出発地点
 
-The more info you provide, the better! It helps people figure out if the ride is a good fit for them.
+提供する情報が多いほど良いです！走行が自分に適しているかどうかを人々が判断するのに役立ちます。
 
-### Do I have to use my real name?
+### 本名を使用する必要がありますか？
 
-You can, but you don't have to. You need to identify who is organizing the ride, but it could be a nickname, a *nom de velo*, or the name of an organization.
+できますが、する必要はありません。走行を主催している人を特定する必要がありますが、ニックネーム、*nom de velo*、または組織の名前でも構いません。
 
-### What if I don't have all of the details ready yet?
+### まだすべての詳細が準備できていない場合はどうすればよいですか？
 
-You can post it, but make sure you update the listing before the event. You can use "TBA" for a start location if you don't know yet where it will start, or if you want to keep it a secret until closer to the event.
+投稿できますが、イベントの前にリストを更新してください。まだ開始地点がわからない場合、またはイベントに近づくまで秘密にしておきたい場合は、出発地点に「TBA」を使用できます。
 
-### Can I post events that have fees?
+### 料金があるイベントを投稿できますか？
 
-Yes, but you **must** mention that in the description. If you don't, people will assume the event is free.
+はい、ただし説明で**必ず**言及してください。そうしないと、人々はイベントが無料だと思い込みます。
 
-### Is my contact info public?
+### 私の連絡先情報は公開されますか？
 
-Only what you want to share. You can choose what contact info you want to include on the public listing. You aren't required to share any contact info publicly, but we recommend including at least one way for people to contact you — email, phone, or web link.
+共有したいものだけです。公開リストに含める連絡先情報を選択できます。連絡先情報を公開で共有する必要はありませんが、人々があなたに連絡する方法を少なくとも1つ含めることをお勧めします - メール、電話、またはWebリンク。
 
-### Do I have to provide my email?
+### メールを提供する必要がありますか？
 
-Yes, we need a real email address so we can send you a link to manage the listing. But you can choose to hide it from the public listing.
+はい、リストを管理するためのリンクを送信できるように、実際のメールアドレスが必要です。ただし、公開リストから非表示にすることを選択できます。
 
-### What do the different audience types mean?
+### 異なるオーディエンスタイプは何を意味しますか？
 
-Briefly, event audience means: 
+簡単に言うと、イベントオーディエンスは次のことを意味します：
 
-* General: most bike rides
-* Family friendly: distance, content, and pace is appropriate for kids
-* Adults only (21+): drinking or other adult activities (nudity, etc)
+* 一般：ほとんどの自転車走行
+* ファミリーフレンドリー：距離、内容、ペースが子供に適している
+* 大人のみ（21歳以上）：飲酒またはその他の大人の活動（ヌードなど）
 
-Check out the details in our [Code of Conduct](/pages/shift-code-of-conduct/#3-expected-behavior) for more info.
+詳細については、[行動規範](/pages/shift-code-of-conduct/#3-expected-behavior)を確認してください。
 
-### How do I edit my event?
+### イベントを編集するにはどうすればよいですか？
 
-Use the link that's emailed to you. It acts like a password — anyone who has it can manage the event, so keep it private. If you can't find the email we sent you that contains the edit link, contact us and we'll help you out.
+メールで送信されたリンクを使用してください。それはパスワードのように機能します - それを持っている人は誰でもイベントを管理できるので、非公開にしてください。編集リンクが含まれているメールが見つからない場合は、お問い合わせいただければお手伝いします。
 
-### How do I reschedule or cancel my event?
+### イベントを再スケジュールまたはキャンセルするにはどうすればよいですか？
 
-Edit your event using the link that's emailed to you. Scroll down to the date picker, and find your ride date. Change the menu next to your date from "Scheduled" to "Cancelled." You can also add an optional note in the "newsflash" area to let your riders know the new plan.
+メールで送信されたリンクを使用してイベントを編集します。日付ピッカーまでスクロールし、走行日を見つけます。日付の横にあるメニューを「スケジュール済み」から「キャンセル」に変更します。「ニュース速報」エリアにオプションのメモを追加して、ライダーに新しい計画を知らせることもできます。
 
-If you're rescheduling to a new date, click on the new date in the date picker to add it. You can also add an optional newsflash message to the new date.
+新しい日付に再スケジュールする場合は、日付ピッカーの新しい日付をクリックして追加します。新しい日付にオプションのニュース速報メッセージを追加することもできます。
 
-![Screenshot of date picker with cancelled date and rescheduled date. June 27th is cancelled with newsflash "Moved to July 11"; July 11th has newsflash "New date."](/images/uploads/rescheduling-a-ride.png)
+![キャンセルされた日付と再スケジュールされた日付の日付ピッカーのスクリーンショット。6月27日はニュース速報「7月11日に移動」でキャンセルされています。7月11日にはニュース速報「新しい日付」があります。](/images/uploads/rescheduling-a-ride.png)
 
-### Can I post bike-related events that aren't bike rides?
+### 自転車に乗る走行ではない自転車関連のイベントを投稿できますか？
 
-Yes, but we ask that you clearly indicate that the event isn't a ride, or you may get folks showing up who expect a ride! Things like bike swaps, meetings for bike-focused advocacy groups, and other non-ride bike events are OK to post to the calendar. We recommend using the "newsflash" area to indicate that the event isn't a ride, and also mention it in the description.
+はい、ただし、イベントが走行ではないことを明確に示すことをお願いします。そうしないと、走行を期待する人が現れる可能性があります！自転車交換、自転車に焦点を当てた擁護グループの会議、およびその他の非走行自転車イベントなどは、カレンダーに投稿してもかまいません。「ニュース速報」エリアを使用してイベントが走行ではないことを示し、説明にも言及することをお勧めします。
 
-### I'm having trouble posting a ride or making changes. Who do I contact?
+### 走行を投稿または変更するのに問題があります。誰に連絡すればよいですか？
 
-Email the [Shift calendar crew](mailto:bikecal@shift2bikes.org) if you need help.
+助けが必要な場合は、[Shiftカレンダースタッフ](mailto:bikecal@shift2bikes.org)にメールしてください。
 
-## Subscribing to the calendar
+## カレンダーを購読する
 
-You can see events using your phone or computer's built-in calendar app. As new rides are created, they will show up on your calendar automatically (usually within 24 hours of the ride being posted by the organizer). Keep in mind, events are posted to the Shift calendar by community members, not by Shift; you will see all sorts of rides.
+携帯電話またはコンピューターの組み込みカレンダーアプリを使用してイベントを表示できます。新しい走行が作成されると、カレンダーに自動的に表示されます（通常、主催者が走行を投稿してから24時間以内）。イベントは、Shiftではなく、コミュニティメンバーによってShiftカレンダーに投稿されることに注意してください。あらゆる種類の走行が表示されます。
 
 [webcal://www.shift2bikes.org/cal/shift-calendar.php](webcal://www.shift2bikes.org/cal/shift-calendar.php)
 
-On many devices, clicking the above link will open your calendar app automatically. It should then guide you through the steps to subscribe. If that doesn't work, you will need to follow these instructions:
+多くのデバイスでは、上記のリンクをクリックすると、カレンダーアプリが自動的に開きます。その後、購読する手順が案内されます。それがうまくいかない場合は、次の手順に従う必要があります：
 
-### Android and Google Calendar:
+### AndroidとGoogleカレンダー：
 
-1. Copy one of the calendar links above. (On Android, by pressing and holding the link until the "Copy link address" menu appears, and then selecting that option.)
-2. Visit [Google Calendar](https://calendar.google.com/calendar/u/0/r/settings/addbyurl) and if asked log into your Google account.
-3. On that Google Calendar page, paste the link you copied into the "URL of Calendar" box (press on that box and hold until the "Paste" menu appears, then choose that option).
-4. Finally, click the "Add calendar" button.
-5. 🎉 ( Now find a ride you like, and bike on over! )
+1. 上記のカレンダーリンクの1つをコピーします。（Androidでは、「リンクアドレスをコピー」メニューが表示されるまでリンクを押し続け、そのオプションを選択します。）
+2. [Googleカレンダー](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)にアクセスし、求められた場合はGoogleアカウントにログインします。
+3. そのGoogleカレンダーページで、コピーしたリンクを「カレンダーのURL」ボックスに貼り付けます（そのボックスを押して、「貼り付け」メニューが表示されるまで押し続け、そのオプションを選択します）。
+4. 最後に、「カレンダーを追加」ボタンをクリックします。
+5. 🎉 （今、気に入った走行を見つけて、自転車で行きましょう！）
 
-For additional help with Android and Google Calendar, please see this [Google support page](https://support.google.com/calendar/answer/37100) under "Use a link to add a public calendar."
+AndroidとGoogleカレンダーの追加ヘルプについては、「公開カレンダーを追加するためのリンクを使用する」の下にあるこの[Googleサポートページ](https://support.google.com/calendar/answer/37100)を参照してください。
 
-### Other common cases:
+### その他の一般的なケース：
 
-1. [iPhone Calendar App](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios) - use the instructions under "Set up a calendar: Subscribe to an external, read-only calendar."
-1. [Mac Mail](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac) - follow the instructions for "Subscribe to a calendar."
-1. [Outlook](https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df) - follow the instructions for "Subscribing to a calendar."
-1. [Thunderbird](https://support.mozilla.org/en-US/kb/adding-a-holiday-calendar) - follow the instructions for subscribing to an "internet holiday calendar", substituting one of the calendar links from above.  ( Pedalpalooza is basically a holiday anyway, right? 😊 )
+1. [iPhoneカレンダーアプリ](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios) - 「カレンダーを設定する：外部の読み取り専用カレンダーを購読する」の指示を使用してください。
+1. [Mac Mail](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac) - 「カレンダーを購読する」の指示に従ってください。
+1. [Outlook](https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df) - 「カレンダーを購読する」の指示に従ってください。
+1. [Thunderbird](https://support.mozilla.org/en-US/kb/adding-a-holiday-calendar) - 「インターネット休日カレンダー」を購読する手順に従って、上記のカレンダーリンクの1つに置き換えてください。（Pedalpaloozaは基本的に休日ですよね？😊）
 
-## Glossary
+## 用語集
 
-Here are some acronyms and phrases that might be used in a ride listing: 
+走行リストで使用される可能性のある頭字語とフレーズは次のとおりです：
 
 * PP: [Pedalpalooza](/pages/pedalpalooza/)
 * MMR: [Midnight Mystery Ride](/pages/mmr/)
@@ -135,8 +135,8 @@ Here are some acronyms and phrases that might be used in a ride listing:
 * S2B: [Shift2Bikes](/pages/mission_statement/) :)
 * BP: [BikePortland](https://bikeportland.org/)
 * LNT: [Leave no trace](https://en.wikipedia.org/wiki/Leave_No_Trace)
-* VKS: [Vera Katz Statue](https://en.wikipedia.org/wiki/Statue_of_Vera_Katz), on the Eastbank Esplanade; often used as a ride start location
-* R2R: "ride to the ride"; a ride specifically for arriving at another ride
-* corkers, corking: riders who block traffic from side roads at an intersection so that the rest of the ride can freely proceed through without interruption
-* no-drop: a ride where no one gets left behind — the ride waits for all riders in the event of mechanical difficulties, slower riders, etc; contrast with a drop ride, which isn't expected to wait for everyone
+* VKS: [Vera Katz Statue](https://en.wikipedia.org/wiki/Statue_of_Vera_Katz)、イーストバンクエスプラネードにあります。走行の出発地点としてよく使用されます
+* R2R: 「ride to the ride」；別の走行に到着するための走行
+* corkers, corking: 交差点で脇道からの交通をブロックして、走行の残りが中断なく自由に通過できるようにするライダー
+* no-drop: 誰も置き去りにされない走行 — 機械的な困難、遅いライダーなどの場合に、走行はすべてのライダーを待ちます。drop rideとは対照的に、全員を待つことが期待されていません
 
