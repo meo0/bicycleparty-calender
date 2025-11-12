@@ -8,13 +8,13 @@ menu:
 ---
 ![mcbf header banner](/images/mcbf_entry_banner.jpg?classes=shadow&align=center)
 
-The Multnomah County Bike Fair (aka *Bike Fair*) is an **almost** annual event held as part of [Pedalpalooza](/pages/pedalpalooza/) since 2007 in beautiful Portland, Oregon. 
+Multnomah County Bike Fair（別名*Bike Fair*）は、2007年以来、美しいオレゴン州ポートランドで[Pedalpalooza](/pages/pedalpalooza/)の一部として開催される**ほぼ**年次イベントです。
 
-It's a family-friendly bike event open to the public, featuring games (slow races, bike jousting), entertainment (live music, casual competitions), arts + crafts, and general silly fun. 
+一般に公開されているファミリーフレンドリーな自転車イベントで、ゲーム（スローレース、自転車ジョースティング）、エンターテインメント（ライブミュージック、カジュアルコンペティション）、アート＆クラフト、一般的なばかばかしい楽しみが特徴です。
 
-Wanna help make this event awesome? 2022 participants + volunteers sought - reach out to [Shelly](https://www.instagram.com/oh_shell/) if you're interested in joining us. The main stage is all about participation, fun, and antics. Show off your bike dance troupe or run a competition. Tell us your dreams! We also need help setting up, breaking down, hosting booths, and helping keep the park clean. 
+このイベントを素晴らしいものにするのを手伝いたいですか？2022年の参加者＋ボランティアを募集しています - 参加に興味がある場合は[Shelly](https://www.instagram.com/oh_shell/)に連絡してください。メインステージは参加、楽しみ、おふざけがすべてです。自転車ダンストループを披露したり、コンペティションを実施したりしてください。あなたの夢を教えてください！また、セットアップ、分解、ブースのホスティング、公園の清潔さを保つ手助けも必要です。
 
-## Images from the past
+## 過去からの画像
 
 ![dance troupe](/images/mcbf_brakes.jpg?classes=shadow) ![bull bike dancers](/images/mcbf_bull_dancers.jpg?classes=shadow)
 
@@ -22,9 +22,9 @@ Wanna help make this event awesome? 2022 participants + volunteers sought - reac
 
 ![mcbf logo](/images/mcbf_logo.jpg?classes=shadow) ![nekkid jumping](/images/mcbf_nekkid_jump.jpg?classes=shadow)
 
-## Past Organizers
+## 過去の主催者
 
-Noting just some of the organizers who put their energies and talents into making MCBF: 
+MCBFを作るためにエネルギーと才能を注いだ主催者の一部だけを記載します：
 
 * **Recruitment**:  Lillian Karabaic
 * **Volunteer Coordinator**:  Steph Routh, VJ Beauchamp

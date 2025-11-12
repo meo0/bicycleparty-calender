@@ -8,45 +8,45 @@ menu:
 
 <img src="/images/move_by_bike_logo.jpg" alt="move by bike logo" style="float: right;">
 
-*(This image was drawn by Shawn Granton, first showed up on t-shirts made at Steph's Alliterative Move. You can see more of Shawn's work in his [online portfolio](https://id.sito.org/sgr/))*
+*（この画像はShawn Grantonによって描かれ、最初にStephのAlliterative Moveで作られたTシャツに登場しました。Shawnの作品の詳細は彼の[オンラインポートフォリオ](https://id.sito.org/sgr/)で見ることができます）*
 
-Shifties love to help when it comes to moving the belongings of other bikers. It's a big social event. Typically the movee provides coffee and light snacks before the ride, and beer and a meal at the end. The move doubles as a house warming party. You should definitely help on somebody else's bike move before asking for help on your own move, partly so you know what you're getting involved in and partly for karma. **This is not a moving service for hire. We do this for friendship and good times, not for money.**
+Shiftiesは、他の自転車乗りの持ち物を移動するのを手伝うことが大好きです。それは大きな社交イベントです。通常、引っ越す人は走行前にコーヒーと軽食を提供し、最後にビールと食事を提供します。引っ越しはハウスウォーミングパーティーも兼ねています。自分の引っ越しに助けを求める前に、他の人の自転車引っ越しを手伝うべきです。部分的には何に関わっているかを知るため、そして部分的にはカルマのためです。**これは雇用のための引っ越しサービスではありません。私たちは友情と楽しい時間のためにこれを行っており、お金のためではありません。**
 
-Knowing this, if you would like a herd of bike trailers to show-up at your place to assist your move in a pedal-powered way, then you'll want to reach out to interested volunteers on [Facebook](https://www.facebook.com/groups/movebybike/).  For the non-Facebookers, try joining the [Shift listserv](/pages/email-list/) to rally some troops and get some social media help.
+これを知った上で、自転車トレーラーの群れが引っ越しをペダルパワーで支援するためにあなたの場所に現れることを望む場合は、[Facebook](https://www.facebook.com/groups/movebybike/)で興味のあるボランティアに連絡したいと思うでしょう。非Facebookerの場合は、[Shiftリストサーブ](/pages/email-list/)に参加して軍隊を集め、ソーシャルメディアの助けを得てみてください。
 
-**Please give at least a week's notice.**
+**少なくとも1週間前に通知してください。**
 
-Also, check the [calendar](/calendar/) to avoid a conflict with other rides, and perhaps pay some attention to make sure your move doesn't follow a Midnight Mystery Ride (unless you like a reduced attendance by some hung-over bikers at your Move by Bike event).
+また、[カレンダー](/calendar/)をチェックして他の走行との競合を避け、あなたの引っ越しがMidnight Mystery Rideの後にならないように注意してください（Move by Bikeイベントに二日酔いの自転車乗りによる参加者の減少が好きでない限り）。
 
 <img src="/images/move_by_bike_group.jpg" alt="group of bike movers">
 
 
-## How To Move by Bike
+## 自転車で引っ越す方法
 
-Wanting to give moving by bicycle a try? Here are some tips to get you started:
+自転車での引っ越しを試してみたいですか？始めるためのヒントをいくつか紹介します：
 
-1. Broadcast the bike move far and wide! Add it to your local bike group's calendar, post it on a blog, do anything you can think of to get the word out. (In Portland, people add it to [Shift's calendar](/calendar/), announce it on the [Shift mailing list](/pages/email-list/), and also send a reminder on that list the day before the move.) It can help to have a theme, like fancy dress, distinguished tie, or puppet/costume. It really is a party on wheels but you have to make this clear in the invitation, because it's not intuitive. Advertise it as a sort of barn-raising.
+1. 自転車引っ越しを広く放送してください！地元の自転車グループのカレンダーに追加し、ブログに投稿し、情報を広めるために考えられることは何でもしてください。（ポートランドでは、人々はそれを[Shiftのカレンダー](/calendar/)に追加し、[Shiftメーリングリスト](/pages/email-list/)で発表し、引っ越しの前日にそのリストでリマインダーを送信します。）ファンシードレス、ディスティングイッシュドタイ、またはパペット/コスチュームなどのテーマを持つことが役立ちます。それは本当に車輪の上のパーティーですが、直感的ではないので、招待状でこれを明確にする必要があります。ある種の納屋上げとして宣伝してください。
 
-2. Be really, really well prepared day-of so that people can just load-up their bikes and ride. 45 minutes is a pretty good loading-up time to shoot for, allowing plenty of time for people to drink coffee and to accomodate latecomers.
+2. 当日は本当に、本当によく準備して、人々が自転車を積んで走るだけでよいようにしてください。45分はかなり良い積み込み時間の目標で、人々がコーヒーを飲む十分な時間と遅刻者に対応する時間を可能にします。
 
-3. Provide plenty of coffee and donuts at the beginning, and beer and pizza, or something like that, at the end. The best move-by-bikes are when the movee doesn't skimp on this. It costs a lot less than a truck, and makes everyone happy. This is probably the most important item on the list!
+3. 最初にたくさんのコーヒーとドーナツを提供し、最後にビールとピザ、またはそのようなものを提供してください。最高のmove-by-bikesは、引っ越す人がこれをけちらないときです。トラックよりもはるかに安く、みんなを幸せにします。これはおそらくリストで最も重要な項目です！
 
-4. Plan out your best route in advance to avoid steep hills and high-traffic streets as much as possible. If you have any major street crossings, sign up people in advance to cork them and give them instructions on when to be at the front of the pack, so the whole parade can get through at its slow, loaded-down place.
+4. 急な坂や交通量の多い道路をできるだけ避けるために、最高のルートを事前に計画してください。主要な道路横断がある場合は、事前に人々を登録してコーキングを行い、パックの前に到着するタイミングについての指示を与えて、全体のパレードがその遅い、荷物を積んだ場所を通過できるようにします。
 
-5. Don't worry about weather, but do have lots of tarps if it rains. You'll also want to have lots of bungie cords and tie-downs made out of old bike tubes.
+5. 天気を心配しないでください。ただし、雨が降る場合は多くのタープを用意してください。古い自転車チューブで作られた多くのバンジーコードとタイダウンも必要です。
 
-6. You might need to rent or borrow a truck to finish the job. It's good to have a backup plan, especially if you have a lot of big things and not a lot of big trailers. You'll want to think about the logistics of what can fit on each trailer in advance.
+6. 仕事を終えるためにトラックを借りる必要があるかもしれません。特に大きなものがたくさんあり、大きなトレーラーがあまりない場合は、バックアッププランを持つことが良いです。各トレーラーに何が収まるかの物流について事前に考えたいでしょう。
 
-7. Take pictures and share them online! The more people move by bike, the more people want to move by bike.
-
-
-## Additional info
-
-Move by bike veteran and community builder Steph Routh wrote a book about moving by bike.  [Check it out!](https://microcosmpublishing.com/catalog/books/5150/)
+7. 写真を撮ってオンラインで共有してください！自転車で引っ越す人が増えるほど、自転車で引っ越したい人が増えます。
 
 
-## Historical events archive
+## 追加情報
 
-For a history of past events, see the [Move by Bike events archive](/archive/mbb-events-archive/).
+Move by bikeのベテランでありコミュニティビルダーのSteph Routhは、自転車での引っ越しについての本を書きました。[チェックしてください！](https://microcosmpublishing.com/catalog/books/5150/)
+
+
+## 過去のイベントアーカイブ
+
+過去のイベントの歴史については、[Move by Bikeイベントアーカイブ](/archive/mbb-events-archive/)を参照してください。
 
 <img src="/images/ed-moves-fool-by_bike.jpg">

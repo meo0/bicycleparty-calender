@@ -1,21 +1,21 @@
 ---
-title: Bike Rack Rental
+title: 自転車ラックレンタル
 weight: 9
 menu:
   main:
     parent: communitynav
 ---
-Shift has built some easily-transportable bike racks which are available to rent with advance arrangements. The rental program is a fundraiser for Shift, and there is a suggested donation (or rental fee, if your organization is unable to make donations) of $10 per bike rack. 
+Shiftは、事前の手配で借りることができる簡単に運搬できる自転車ラックを作成しました。レンタルプログラムはShiftの資金調達活動であり、自転車ラック1台あたり10ドルの寄付（または組織が寄付できない場合はレンタル料）が推奨されます。
 
-The (7) racks can accommodate about 70 bikes total, or (10) bikes per rack. The racks consist of lightweight tubing which is intuitive and simple to assemble and disassemble. Collapsed, the racks are one 11' long group of tubes that is about 1.5' in diameter and weighs around 70 pounds, plus one bundle of 3.5' tubing that is about 1.5' in diameter and weighs around 20 pounds.
+（7）つのラックは合計約70台の自転車、またはラックあたり（10）台の自転車を収容できます。ラックは、組み立ておよび分解が直感的で簡単な軽量チューブで構成されています。折りたたまれたラックは、直径約1.5フィート、重さ約70ポンドの11フィートの長さのチューブのグループと、直径約1.5フィート、重さ約20ポンドの3.5フィートのチューブの束1つです。
 
-When assembled, you get 70' of bike parking in 7 "large sawhorse" shapes.
+組み立てると、7つの「大きなソーホース」形状で70フィートの自転車駐車場が得られます。
 
-This is 1/7th of the bike parking setup demonstrating some different placement methods--the seat hang, the underwheel tuck, and the lean: 
+これは、異なる配置方法を示す自転車駐車セットアップの1/7です - シートハング、アンダーホイールタック、リーン：
 
-![Shift bike racks](/images/bikeracks.jpg "Bike Rack Rental")
+![Shift自転車ラック](/images/bikeracks.jpg "Bike Rack Rental")
 
-We normally only rent these out for a few days at a time (such as over a weekend), and you must retrieve them from (and return them to) a location in NE Portland near the 60th Ave MAX station, that is open by appointment. Delivery is not available. 
+通常、これらは一度に数日間（週末など）だけレンタルし、60th Ave MAX駅近くのNEポートランドの場所から（そしてそこに）取得する必要があります。予約制で開いています。配達はできません。
 
 \
-To start your rental inquiry, or for any questions, please [email for more info](mailto:bikeracks@shift2bikes.org). We recommend sending your inquiry at least 2 weeks in advance in order to allow for volunteer response time. [](mailto:bikeracks@shift2bikes.org)
+レンタルのお問い合わせを開始するか、ご質問がある場合は、[詳細情報についてメール](mailto:bikeracks@shift2bikes.org)してください。ボランティアの対応時間を確保するために、少なくとも2週間前にお問い合わせを送信することをお勧めします。[](mailto:bikeracks@shift2bikes.org)

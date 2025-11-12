@@ -7,21 +7,21 @@ menu:
         parent: featuredevents
 ---
 
-## About
+## 概要
 
-The [Midnight Mystery Ride](https://midnightmysteryride.wordpress.com/) has been riding monthly since 2002 on the 2nd Friday of the month. 
+[Midnight Mystery Ride](https://midnightmysteryride.wordpress.com/)は、2002年から毎月第2金曜日に走行しています。
 
-The ride start location is kept secret until the day of the event. Meet up around 11pm at the start location, then ride off at the stroke of midnight to a destination known only to your friendly ride leader. 
+走行の出発地点は、イベント当日まで秘密にされています。出発地点に午後11時頃に集合し、フレンドリーな走行リーダーのみが知る目的地に向けて真夜中の鐘と共に出発します。
 
-For more info, check out their [info & tips](https://midnightmysteryride.wordpress.com/about), and a long list of [past rides](https://midnightmysteryride.wordpress.com/). Contact Team Midnight at [midnightmysteryridePDX@gmail.com](mailto:midnightmysteryridePDX@gmail.com). 
+詳細については、[情報とヒント](https://midnightmysteryride.wordpress.com/about)と、[過去の走行](https://midnightmysteryride.wordpress.com/)の長いリストを確認してください。Team Midnightに[midnightmysteryridePDX@gmail.com](mailto:midnightmysteryridePDX@gmail.com)で連絡してください。
 
-Interested in leading a ride? 
+走行をリードすることに興味がありますか？
 
-> Anyone can lead a ride. Haven't led one, yet? No worries! Read what's expected of leaders on [our website](https://midnightmysteryride.wordpress.com/about), join us for a ride one of these next few months to get the vibe, then email us directly to let us know which months you're most interested in leading a ride.
+> 誰でも走行をリードできます。まだリードしたことがありませんか？心配しないでください！[ウェブサイト](https://midnightmysteryride.wordpress.com/about)でリーダーに期待されることを読み、これから数ヶ月の間に走行に参加して雰囲気を感じ取り、どの月に走行をリードすることに最も興味があるかを直接メールでお知らせください。
 
-At midnight, we ride!
+真夜中に、私たちは走ります！
 
-## Contact
+## 連絡先
 
-* Website: [midnightmysteryride.wordpress.com](https://midnightmysteryride.wordpress.com/)
-* Email: [midnightmysteryridePDX@gmail.com](mailto:midnightmysteryridePDX@gmail.com)
+* ウェブサイト: [midnightmysteryride.wordpress.com](https://midnightmysteryride.wordpress.com/)
+* メール: [midnightmysteryridePDX@gmail.com](mailto:midnightmysteryridePDX@gmail.com)

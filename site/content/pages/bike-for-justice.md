@@ -1,6 +1,6 @@
 ---
-title: Bike for Justice
-description: Mobilizing bikes for the community
+title: 正義のための自転車
+description: コミュニティのために自転車を動員する
 keywords: ["justice", "accountability", "mobilize", "community"]
 weight: '8'
 menu:	
@@ -8,16 +8,16 @@ menu:
         parent: communitynav
 ---
 
-## Biking for change
+## 変化のための自転車
 
-We believe that [bikes are a tool for social change](/pages/mission_statement/) and can liberate and support our communities. The Shift [calendar](/pages/calendar/) is one way for the community to organize and publicize bike support in the demand for justice. Bikes can help fill a critical role in supporting events, from delivering supplies to leading groups to boosting morale! If you have a way that bikes can help, [post an event](/addevent/) and get the word out. The Shift [email list](/pages/email-list/) is also another resource to connect with bike-y folks and share info.
+私たちは、[自転車は社会変革のためのツール](/pages/mission_statement/)であり、コミュニティを解放し支援できると信じています。Shift[カレンダー](/pages/calendar/)は、正義を求める中で自転車サポートを組織し宣伝するコミュニティの1つの方法です。自転車は、物資の配達からグループの先導、士気の向上まで、イベントをサポートする重要な役割を果たすことができます！自転車が役立つ方法があれば、[イベントを投稿](/addevent/)して情報を広めてください。Shift[メーリングリスト](/pages/email-list/)も、自転車好きな人々とつながり、情報を共有するもう一つのリソースです。
 
-## Take a moment
+## ひと時を取る
 
-Look at what privileges you have, and consider how to use them to better the community. Offer your time, money, or resources where you can. We all come from a different place and have something to bring. 
+あなたが持っている特権を見て、コミュニティをより良くするためにそれらをどのように使用するかを考えてください。できる場所で時間、お金、またはリソースを提供してください。私たちはみな異なる場所から来ており、何かをもたらすものがあります。
 
-Follow the lead of the communities you want to support. To support Black Lives Matter, listen to, believe, and amplify Black voices! 
+サポートしたいコミュニティのリードに従ってください。Black Lives Matterをサポートするには、黒人の声を聞き、信じ、増幅してください！
 
-## Staying safe & healthy
+## 安全で健康を保つ
 
-People of color and people with disabilities have been and continue to be disproportionately affected by COVID and other health issues. Ride leaders may have additional requests or requirements to keep individuals and communities safe & healthy. This could include requiring masks, limiting group size, or other guidelines so that all can participate and thrive in our bike community. When in doubt, ask what you should do! **Riders are expected to honor the needs of communities where they are a guest.** Refer to our [public health](/pages/public-health/) page for more info and recommendations for safer events.
+有色人種や障害を持つ人々は、COVIDやその他の健康問題によって不釣り合いに影響を受けており、今も受け続けています。走行リーダーは、個人とコミュニティを安全で健康に保つために追加の要求や要件を持っている場合があります。これには、マスクの着用を要求したり、グループのサイズを制限したり、すべての人が自転車コミュニティに参加し繁栄できるようにするその他のガイドラインが含まれる場合があります。疑問がある場合は、何をすべきか尋ねてください！**ライダーは、ゲストであるコミュニティのニーズを尊重することが期待されます。** より安全なイベントのための詳細情報と推奨事項については、[公衆衛生](/pages/public-health/)ページを参照してください。
