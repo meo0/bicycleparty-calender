@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playbooks on Shift</title>
+    <link>/playbooks/</link>
+    <description>Recent content in Playbooks on Shift</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 17:25:11 -0700</lastBuildDate>
+    <atom:link href="/playbooks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>technology playbook</title>
+      <link>/playbooks/technology-playbook/</link>
+      <pubDate>Sat, 20 May 2023 17:25:11 -0700</pubDate>
+      <guid>/playbooks/technology-playbook/</guid>
+      <description>&lt;p&gt;This project is under active development!  This has some informations, and links to the rest.&lt;/p&gt;&#xA;&lt;p&gt;This document is incomplete;  check out &lt;a href=&#34;https://github.com/shift-org/shift-docs#overview&#34;&gt;more current information in the README on Github&lt;/a&gt; and also extensive docs in the &lt;a href=&#34;https://github.com/shift-org/shift-docs/tree/master/docs&#34;&gt;docs directory of that project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;we-generally-meet-once-a-week-to-work-on-the-websitecalendar--ping-the-website-crew-to-get-details-about-our-next-meetup--all-are-welcome--coders-testers-content-editors-visionaries-etc&#34;&gt;We generally meet once a week to work on the website/calendar.  Ping the &lt;a href=&#34;mailto:bikecal@shift2bikes.org&#34;&gt;website crew&lt;/a&gt; to get details about our next meetup.  All are welcome;  coders, testers, content editors, visionaries, etc.&lt;/h1&gt;&#xA;&lt;p&gt;Shift uses &lt;a href=&#34;https://aws.amazon.com&#34;&gt;Amazon&amp;rsquo;s AWS&lt;/a&gt; and &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host our website.  Chris/fool is currently paying for AWS but will eventually start submitting expenses to Shift for payment, so frugality in our hosting is a reasonable goal to save the org money.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>social media playbook</title>
+      <link>/playbooks/social-media-playbook/</link>
+      <pubDate>Fri, 15 Mar 2019 17:23:22 -0700</pubDate>
+      <guid>/playbooks/social-media-playbook/</guid>
+      <description>&lt;p&gt;Shift has a facebook page, so does pedalpalooza.  pedalpalooza has a twitter account.&lt;/p&gt;&#xA;&lt;p&gt;Only the pedalpalooza FB and twitter accounts are particularly active, but we are recruiting to get some instagram coverage and other.  These accounts are generally run by a few people together so &amp;ldquo;one person&amp;rdquo; doesn&amp;rsquo;t have to do all the work and folks gently &amp;ldquo;police&amp;rdquo; one another.&lt;/p&gt;&#xA;&lt;p&gt;This is a super informal agreement, and is not intended to be exclusionary or exclusive, though the teams often &amp;ldquo;work together&amp;rdquo; to plan &amp;ldquo;at least one post per day for pedalpalooza&amp;rdquo; or similar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>pedalpalooza playbook</title>
+      <link>/playbooks/pedalpalooza-playbook/</link>
+      <pubDate>Thu, 14 Mar 2019 15:03:51 -0700</pubDate>
+      <guid>/playbooks/pedalpalooza-playbook/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/pages/bike-summer/&#34;&gt;Pedalpalooza&lt;/a&gt; has a lot of moving parts that hopefully take place starting in January or so.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artwork-and-calendar&#34;&gt;Artwork and calendar&lt;/h2&gt;&#xA;&lt;p&gt;We used this spreadsheet in 2015 to organize all the required activities.  Thanks Carl Larson!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1nQ64U8kI-J9lDY5KEOkGKufH2g92n_qvRAk0TD85bQw/edit#gid=0&#34;&gt;https://docs.google.com/spreadsheets/d/1nQ64U8kI-J9lDY5KEOkGKufH2g92n_qvRAk0TD85bQw/edit#gid=0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a write up of how and why and to what goal we edit the calendar:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1pQRfsoSr_mdKdD357WUbhdNrVOxVCuy2l__Gl3t1VYM/edit&#34;&gt;https://docs.google.com/document/d/1pQRfsoSr_mdKdD357WUbhdNrVOxVCuy2l__Gl3t1VYM/edit&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;modifications-in-recent-years-are&#34;&gt;Modifications in recent years are:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;artwork&#34;&gt;Artwork&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;failure to get things in order in time for artist selection by committee, so picked contributors to the community&lt;/li&gt;&#xA;&lt;li&gt;not printing a full run of posters anymore.  It cost money there was negligible community engagement in getting them posted around town.  Now we print a handful and give them out to the artist and key volunteers and high-dollar donors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;calendar-editing-doc&#34;&gt;Calendar editing doc&lt;/h3&gt;&#xA;&lt;p&gt;&amp;hellip;was written up last year but was for the old &amp;ldquo;classic&amp;rdquo; calendar so the advice is not universally applicable around the tech - but is applicable around the database and the &amp;ldquo;what is our goal in editing?&amp;rdquo; portions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shift/Umbrella playbook</title>
+      <link>/playbooks/shift-umbrella-playbook/</link>
+      <pubDate>Thu, 14 Mar 2019 17:18:37 -0700</pubDate>
+      <guid>/playbooks/shift-umbrella-playbook/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://umbrellapdx.org&#34;&gt;Umbrella&lt;/a&gt; &lt;strong&gt;really&lt;/strong&gt; wants to be spoken to like this:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;shift liaison (pre-designated and introducted to board)&lt;/li&gt;&#xA;&lt;li&gt;talks to umbrella liaison to shift directly about all things&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;On occasion, the board will ask to meet with the liaison to talk about things but in general the communication is 1:1 no matter if shift has a &amp;ldquo;finance committee&amp;rdquo; so that there aren&amp;rsquo;t too many cooks in the kitchen.&lt;/p&gt;&#xA;&lt;p&gt;If money is donated, umbrella takes 10% off the top upon receipt.  Donations via square/facebook additionally have fees withdrawn so if someone wants to give shift $500 - try to get them to write a check instead of paypal&amp;rsquo;ing&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,350 @@
+{
+   "disclaimer": "Shift hosts this calendar as a public service. Rides and events are posted to the Shift calendar by community members, not by Shift. Rides and events posted to the Shift calendar are not sponsored by Shift or Shift’s fiscal sponsor Umbrella.",
+   "menu": {
+     "about": {
+       "kids": {
+         "contact": {
+           "name": "Contact",
+           "url": "/pages/contact/"
+         },
+         "donate": {
+           "name": "Donate",
+           "url": "/pages/donate/"
+         },
+         "meeting-notes": {
+           "name": "Meeting notes",
+           "url": "/pages/meeting-notes/"
+         },
+         "mission-statement": {
+           "name": "Mission Statement",
+           "url": "/pages/mission_statement/"
+         },
+         "shift-board-bylaws": {
+           "name": "Shift Board Bylaws",
+           "url": "/pages/shift-board-bylaws/"
+         },
+         "shift-code-of-conduct": {
+           "name": "Shift Code Of Conduct",
+           "url": "/pages/shift-code-of-conduct/"
+         }
+       },
+       "name": "About",
+       "url": "/about/"
+     },
+     "calendar": {
+       "kids": {
+         "add-event": {
+           "name": "Add Event",
+           "url": "/addevent/"
+         },
+         "bike-summer-(pedalpalooza)-calendar": {
+           "name": "Bike Summer (Pedalpalooza) calendar",
+           "url": "/bike-summer-calendar/"
+         },
+         "calendar-faq": {
+           "name": "Calendar FAQ",
+           "url": "/pages/calendar-faq/"
+         },
+         "events": {
+           "name": "Events",
+           "url": "/calendar/"
+         },
+         "events-(beta)": {
+           "name": "Events (Beta)",
+           "url": "/events/beta/"
+         }
+       },
+       "name": "Calendar",
+       "url": ""
+     },
+     "community": {
+       "kids": {
+         "bike-for-justice": {
+           "name": "Bike for Justice",
+           "url": "/pages/bike-for-justice/"
+         },
+         "bike-rack-rental": {
+           "name": "Bike Rack Rental",
+           "url": "/pages/bike-racks/"
+         },
+         "email-list": {
+           "name": "Email List",
+           "url": "/pages/email-list/"
+         },
+         "get-involved": {
+           "name": "Get Involved",
+           "url": "/pages/get-involved/"
+         },
+         "going-on-a-ride": {
+           "name": "Going on a ride",
+           "url": "/pages/going-on-a-ride/"
+         },
+         "groups": {
+           "name": "Groups",
+           "url": "/pages/groups/"
+         },
+         "leading-a-social-ride": {
+           "name": "Leading a Social Ride",
+           "url": "/pages/lead-a-ride/"
+         },
+         "public-health": {
+           "name": "Public Health",
+           "url": "/pages/public-health/"
+         },
+         "safety": {
+           "name": "Safety",
+           "url": "/pages/safety/"
+         }
+       },
+       "name": "Community",
+       "url": ""
+     },
+     "featured-events": {
+       "kids": {
+         "bike-summer-(pedalpalooza)": {
+           "name": "Bike Summer (Pedalpalooza)",
+           "url": "/pages/bike-summer/"
+         },
+         "breakfast-on-the-bridges": {
+           "name": "Breakfast on the Bridges",
+           "url": "/pages/bonb/"
+         },
+         "ladd's-500": {
+           "name": "Ladd's 500",
+           "url": "/pages/ladds-500/"
+         },
+         "midnight-mystery-ride": {
+           "name": "Midnight Mystery Ride",
+           "url": "/pages/mmr/"
+         },
+         "move-by-bike": {
+           "name": "Move By Bike",
+           "url": "/pages/mbb/"
+         },
+         "multnomah-county-bike-fair": {
+           "name": "Multnomah County Bike Fair",
+           "url": "/pages/mcbf/"
+         },
+         "weekly-rides": {
+           "name": "Weekly Rides",
+           "url": "/pages/weekly-rides/"
+         },
+         "world-naked-bike-ride": {
+           "name": "World Naked Bike Ride",
+           "url": "/pages/wnbr/"
+         }
+       },
+       "name": "Featured Events",
+       "url": ""
+     }
+   },
+   "pedal": {
+     "2002": {
+       "alt": "Pedalpalooza logo for 2002",
+       "enddate": "2002-08-31",
+       "image": "/images/pp/pp2002-banner.png",
+       "startdate": "2002-08-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2002/",
+       "title": "Pedalpalooza 2002",
+       "type": "calfestival"
+     },
+     "2003": {
+       "alt": "Pedalpalooza logo for 2003",
+       "enddate": "2003-06-29",
+       "image": "/images/pp/pp2003-banner.png",
+       "startdate": "2003-06-13",
+       "target": "/archive/pedalpalooza/pedalpalooza-2003/",
+       "title": "Pedalpalooza 2003",
+       "type": "calfestival"
+     },
+     "2004": {
+       "alt": "Pedalpalooza logo for 2004",
+       "enddate": "2004-06-26",
+       "image": "/images/pp/pp2004-banner.jpg",
+       "startdate": "2004-06-10",
+       "target": "/archive/pedalpalooza/pedalpalooza-2004/",
+       "title": "Pedalpalooza 2004",
+       "type": "calfestival"
+     },
+     "2005": {
+       "alt": "Pedalpalooza logo for 2005",
+       "enddate": "2005-06-25",
+       "image": "/images/pp/pp2005-banner.jpg",
+       "startdate": "2005-06-09",
+       "target": "/archive/pedalpalooza/pedalpalooza-2005/",
+       "title": "Pedalpalooza 2005",
+       "type": "calfestival"
+     },
+     "2006": {
+       "alt": "Pedalpalooza logo for 2006",
+       "enddate": "2006-06-24",
+       "image": "/images/pp/pp2006-banner.gif",
+       "startdate": "2006-06-08",
+       "target": "/archive/pedalpalooza/pedalpalooza-2006/",
+       "title": "Pedalpalooza 2006",
+       "type": "calfestival"
+     },
+     "2007": {
+       "alt": "Pedalpalooza logo for 2007",
+       "enddate": "2007-06-23",
+       "image": "/images/pp/pp2007-banner.jpg",
+       "startdate": "2007-06-07",
+       "target": "/archive/pedalpalooza/pedalpalooza-2007/",
+       "title": "Pedalpalooza 2007",
+       "type": "calfestival"
+     },
+     "2008": {
+       "alt": "Pedalpalooza logo for 2008",
+       "enddate": "2008-06-28",
+       "image": "/images/pp/pp2008-banner.jpg",
+       "startdate": "2008-06-12",
+       "target": "/archive/pedalpalooza/pedalpalooza-2008/",
+       "title": "Pedalpalooza 2008",
+       "type": "calfestival"
+     },
+     "2009": {
+       "alt": "Pedalpalooza logo for 2009",
+       "enddate": "2009-06-27",
+       "image": "/images/pp/pp2009-banner.jpg",
+       "startdate": "2009-06-11",
+       "target": "/archive/pedalpalooza/pedalpalooza-2009/",
+       "title": "Pedalpalooza 2009",
+       "type": "calfestival"
+     },
+     "2010": {
+       "alt": "Pedalpalooza logo for 2010",
+       "enddate": "2010-06-27",
+       "image": "/images/pp/pp2010-banner.jpg",
+       "startdate": "2010-06-10",
+       "target": "/archive/pedalpalooza/pedalpalooza-2010/",
+       "title": "Pedalpalooza 2010",
+       "type": "calfestival"
+     },
+     "2011": {
+       "alt": "Pedalpalooza logo for 2011",
+       "enddate": "2011-06-26",
+       "image": "/images/pp/pp2011-banner.jpg",
+       "startdate": "2011-06-09",
+       "target": "/archive/pedalpalooza/pedalpalooza-2011/",
+       "title": "Pedalpalooza 2011",
+       "type": "calfestival"
+     },
+     "2012": {
+       "alt": "Pedalpalooza logo for 2012",
+       "enddate": "2012-06-30",
+       "image": "/images/pp/pp2012-banner.jpg",
+       "startdate": "2012-06-07",
+       "target": "/archive/pedalpalooza/pedalpalooza-2012/",
+       "title": "Pedalpalooza 2012",
+       "type": "calfestival"
+     },
+     "2013": {
+       "alt": "Pedalpalooza logo for 2013",
+       "enddate": "2013-06-29",
+       "image": "/images/pp/pp2013-banner.jpg",
+       "startdate": "2013-06-06",
+       "target": "/archive/pedalpalooza/pedalpalooza-2013/",
+       "title": "Pedalpalooza 2013",
+       "type": "calfestival"
+     },
+     "2014": {
+       "alt": "Pedalpalooza logo for 2014",
+       "enddate": "2014-06-28",
+       "image": "/images/pp/pp2014-banner.jpg",
+       "startdate": "2014-06-05",
+       "target": "/archive/pedalpalooza/pedalpalooza-2014/",
+       "title": "Pedalpalooza 2014",
+       "type": "calfestival"
+     },
+     "2015": {
+       "alt": "Pedalpalooza logo for 2015",
+       "enddate": "2015-06-27",
+       "image": "/images/pp/pp2015-banner.jpg",
+       "startdate": "2015-06-04",
+       "target": "/archive/pedalpalooza/pedalpalooza-2015/",
+       "title": "Pedalpalooza 2015",
+       "type": "calfestival"
+     },
+     "2016": {
+       "alt": "Pedalpalooza logo for 2016",
+       "enddate": "2016-07-04",
+       "image": "/images/pp/pp2016-banner.jpg",
+       "startdate": "2016-06-09",
+       "target": "/archive/pedalpalooza/pedalpalooza-2016/",
+       "title": "Pedalpalooza 2016",
+       "type": "calfestival"
+     },
+     "2017": {
+       "alt": "Pedalpalooza logo for 2017",
+       "enddate": "2017-06-30",
+       "image": "/images/pp/pp2017-banner.jpg",
+       "startdate": "2017-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2017/",
+       "title": "Pedalpalooza 2017",
+       "type": "calfestival"
+     },
+     "2018": {
+       "alt": "Pedalpalooza logo for 2018",
+       "enddate": "2018-06-30",
+       "image": "/images/pp/pp2018-banner.png",
+       "startdate": "2018-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2018/",
+       "title": "Pedalpalooza 2018",
+       "type": "calfestival"
+     },
+     "2019": {
+       "alt": "Pedalpalooza logo for 2019",
+       "enddate": "2019-06-30",
+       "image": "/images/pp/pp2019-banner.png",
+       "startdate": "2019-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2019/",
+       "title": "Pedalpalooza 2019",
+       "type": "calfestival"
+     },
+     "2021": {
+       "alt": "Pedalpalooza logo for 2021",
+       "enddate": "2021-08-31",
+       "image": "/images/pp/pp2021-banner.jpg",
+       "startdate": "2021-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2021/",
+       "title": "Pedalpalooza 2021",
+       "type": "calfestival"
+     },
+     "2022": {
+       "alt": "Pedalpalooza logo for 2022",
+       "enddate": "2022-08-31",
+       "image": "/images/pp/pp2022-banner.jpg",
+       "startdate": "2022-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2022/",
+       "title": "Pedalpalooza 2022",
+       "type": "calfestival"
+     },
+     "2023": {
+       "alt": "Pedalpalooza logo for 2023",
+       "enddate": "2023-08-31",
+       "image": "/images/pp/pp2023-banner.jpg",
+       "startdate": "2023-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2023/",
+       "title": "Pedalpalooza 2023",
+       "type": "calfestival"
+     },
+     "2024": {
+       "alt": "Pedalpalooza logo for 2024",
+       "enddate": "2024-08-31",
+       "image": "/images/pp/pp2024-banner.png",
+       "startdate": "2024-06-01",
+       "target": "/archive/pedalpalooza/pedalpalooza-2024/",
+       "title": "Pedalpalooza 2024",
+       "type": "calfestival"
+     },
+     "2025": {
+       "alt": "Pedalpalooza logo for 2025",
+       "enddate": "2025-08-31",
+       "image": "/images/pp/pp2025-banner.png",
+       "startdate": "2025-06-01",
+       "target": "/bike-summer-calendar/",
+       "title": "Pedalpalooza 2025",
+       "type": "calfestival"
+     }
+   }
+ }
