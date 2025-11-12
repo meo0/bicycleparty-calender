@@ -1,35 +1,35 @@
 ---
-title: Donate
+title: 寄付
 weight: 6
 menu:
   main:
     parent: aboutmenu
 ---
-## Donate time
+## 時間を寄付
 
-Want to help make bike fun happen? Shift is an all-volunteer organization and we can use your help! Check out ways to [Get Involved](/pages/get-involved/) and come join us. Have an idea that isn't listed there? [Contact us](/pages/contact/) and let's talk!
+自転車の楽しみを実現するお手伝いをしたいですか？Shiftは完全にボランティアの組織で、あなたの助けが必要です！[参加方法](/pages/get-involved/)をチェックして、ぜひ参加してください。そこに記載されていないアイデアがありますか？[お問い合わせ](/pages/contact/)して話しましょう！
 
 
-## Donate money
+## 資金を寄付
 
-Donations to Shift are tax-deductible via our fiscal sponsor, [Umbrella](https://www.umbrellapdx.org/). You can see how we use this money on our [expenses](/pages/budget-finance-stuff/) page.
+Shiftへの寄付は、財政スポンサーの[Umbrella](https://www.umbrellapdx.org/)を通じて税控除の対象となります。このお金の使い道については、[支出](/pages/budget-finance-stuff/)ページで確認できます。
 
-Donate to Shift using Zeffy with the Donate button below. When possible we prefer Zeffy since they don't take a cut as PayPal does!
-
-<div class="donate">
-  <a href="{{% param "donations.primaryURL" %}}" target="_blank">Donate with Zeffy</a>
-</div>
-
-We also accept donations via PayPal:
+可能であればZeffyを使用して寄付してください。以下の寄付ボタンからZeffyで寄付できます。PayPalのように手数料を取らないため、可能な限りZeffyを優先します！
 
 <div class="donate">
-  <a href="{{% param "donations.secondaryURL" %}}" target="_blank">Donate with PayPal</a>
+  <a href="{{% param "donations.primaryURL" %}}" target="_blank">Zeffyで寄付</a>
 </div>
 
-Donations can also be made by mailing a check to Umbrella:
+PayPalでの寄付も受け付けています：
+
+<div class="donate">
+  <a href="{{% param "donations.secondaryURL" %}}" target="_blank">PayPalで寄付</a>
+</div>
+
+小切手をUmbrellaに郵送することもできます：
 
 Shift c/o Umbrella<br>
 PO Box 14442<br>
 Portland, OR  97293
 
-If you'd like to donate by another method, [contact us](/pages/contact/).
+別の方法で寄付したい場合は、[お問い合わせ](/pages/contact/)ください。

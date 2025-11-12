@@ -1,6 +1,6 @@
 ---
-title: Safety
-description: Tips to stay safe
+title: 安全性
+description: 安全を保つためのヒント
 keywords: ["safety", "tips", "safe"]	
 weight: '8'
 menu:	
@@ -8,81 +8,81 @@ menu:
         parent: communitynav
 ---
 
-## Public Health
+## 公衆衛生
 
-For info on riding safely during the pandemic and beyond, see our [public health](/pages/public-health/) page. 
-
-
-## Education
-
-Portland's **Vision Zero Policy** is an everybody involved effort to make Portland streets safe by recognizing we can have zero fatalities and zero injuries based on these principles:
-
-* human life is valued first, mobility is second
-* all road users share without vehicular prejudice
-* roads systems minimize human fallibility
-* willness to change from old paradigms
-
-[PBOT Vision Zero Overview](https://www.portland.gov/transportation/vision-zero)
+パンデミック中およびそれ以降の安全な走行については、[公衆衛生](/pages/public-health/)ページをご覧ください。
 
 
-## Traffic safety organizations
+## 教育
 
-[Oregon Walks](http://oregonwalks.org/) is dedicated to promoting walking and improving the safety and attractiveness of walking in the greater Portland area.
+ポートランドの**Vision Zero Policy**は、次の原則に基づいて死亡者ゼロ、負傷者ゼロを実現できることを認識し、ポートランドの道路を安全にするためにすべての人が関与する取り組みです：
 
-[The Street Trust](https://www.thestreettrust.org/) works to promote bicycle use and improve conditions for cyclists throughout Oregon.
+* 人命を第一に、移動性は二番目
+* すべての道路利用者が車両の偏見なく共有
+* 道路システムが人間の誤りを最小限に抑える
+* 古いパラダイムから変わる意欲
 
-[BikeLoud PDX](https://bikeloudpdx.org/) is a grassroots organization working towards safer streets for biking in the Portland area.
-
-[Oregon Driver & Traffic Safety Education Association](https://odtsea.org/) ODTSEA works for safer driving through education.
-
-[Victoria Transport Policy Institute](https://vtpi.org/) An excellent collection of research papers on transportation issues
-
-
-## Tips for the Cyclists
-
-[Oregon Bicyclist Manual](https://www.oregon.gov/odot/DMV/Pages/Online_Bicycle_Manual/Table_Of_Contents.aspx) Another great resource by ODOT.
-
-[Traffic safety and maintenance contacts](http://bta4bikes.org/resources/BTARoadMaintenanceContacts.php) for safety issues such as potholes, debris, dangerous construction, etc.
-
-[Legal resources for cyclists](http://bta4bikes.org/resources/legal.php) What you can do if you are hit, harassed, or witness a dangerous driver.
-
-### Statutes
-
-[ODOT Cyclist / Pedestrian statutes summary](http://www.oregon.gov/ODOT/HWY/BIKEPED/laws_regs.shtml) where you can find a document that puts the statutes related to cyclists and pedestrians in one place as well as recent updates to Oregon law.
-
-[Statutes for Oregon](http://www.leg.state.or.us/ors/) Use an Internet search engine rather than the one on this site to find specific statutes, since the 'search' feature apparently doesn't function.
+[PBOT Vision Zero概要](https://www.portland.gov/transportation/vision-zero)
 
 
-## Tips for the Motorists
+## 交通安全組織
 
-**Save Motoring Money with Ten helpful tips**
-Excerpt from abcnews.com, [10 Ways to Beat High Gas Prices](https://abcnews.go.com/Business/story?id=1850884), by Marc Lallanilla
+[Oregon Walks](http://oregonwalks.org/)は、大ポートランド地域での歩行を促進し、歩行の安全性と魅力を向上させることに専念しています。
 
-1. **Stay in Tune** — It's simple: vehicle maintenance saves gas. Use the recommended motor oil, replace dirty air filters, keep tires — including the spare — inflated to the proper pressure, and tune up your engine.
+[The Street Trust](https://www.thestreettrust.org/)は、オレゴン州全体で自転車の使用を促進し、サイクリストの状況を改善するために活動しています。
 
-2. **Cool It, Mario Andretti** — Flooring the pedal at every green light, then slamming on the brakes at the last minute, guzzles gas at a surprising rate. More moderate driving can save over 30 percent of the gasoline you use.
+[BikeLoud PDX](https://bikeloudpdx.org/)は、ポートランド地域での自転車のためのより安全な道路を目指す草の根組織です。
 
-3. **Lighten Up** — When summer vacation rolls around, keep the luggage off the roof rack and carry as little weight as possible. Those extra pounds in the trunk or backseat make the engine work harder and consume more fuel.
+[Oregon Driver & Traffic Safety Education Association](https://odtsea.org/) ODTSEAは教育を通じてより安全な運転のために活動しています。
 
-4. **Take a Hike** — _Do you really need to drive_? For shorter trips, it often makes more sense to walk or ride a **bicycle**. It's not only good for your wallet, it might also be good for your waistline.
-
-5. **Idle Hands** — Idling in traffic does nothing to save gas or money, not to mention your stress level. Avoid rush hour or busy commuter routes.
-
-6. **Go Shopping** — Shopping for a new vehicle? Consider the long-term savings that a hybrid or alternative fuel vehicle might give you. Some cities and states also offer great incentives like rebates, access to carpool lanes and free metered parking for hybrid or alternative fuel cars, trucks and SUVs.
-
-7. **Lose the Leadfoot** — Driving the speed limit doesn't just keep the police off your tail. You can save up to 14 percent on longer trips by reducing your speed.
-
-8. **Take a Cruise** — Using cruise control can yield surprising increases in fuel economy. If your car is so equipped, try using it on the freeway to keep your speed at a consistent rate.
-
-9. **Critical Mass** — Take the bus, train, subway or other mass transit and leave the car at home.
-
-10. **Alternative States** — The alternatives to standard gasoline are growing in number and popularity. Biodiesel, the blend of gasoline and ethanol known as E85, and other alternative fuels aren't available everywhere yet, but check to see if your car can accept what's sold in your community.
-
-![Safety rules brochure for motorists - front](/images/safety_brochure-front.jpg) 
-
-![Safety rules brochure for motorists - back](/images/safety_brochure-back.jpg)
+[Victoria Transport Policy Institute](https://vtpi.org/) 交通問題に関する研究論文の優れたコレクション
 
 
-## Feedback
+## サイクリストのためのヒント
 
-**Comments, suggestions, or questions?** [Get in touch!](/pages/contact/)
+[Oregon Bicyclist Manual](https://www.oregon.gov/odot/DMV/Pages/Online_Bicycle_Manual/Table_Of_Contents.aspx) ODOTによるもう一つの素晴らしいリソース。
+
+[交通安全および保守連絡先](http://bta4bikes.org/resources/BTARoadMaintenanceContacts.php) 穴、破片、危険な工事などの安全問題について。
+
+[サイクリストのための法的リソース](http://bta4bikes.org/resources/legal.php) あなたが轢かれたり、嫌がらせを受けたり、危険なドライバーを目撃した場合にできること。
+
+### 法令
+
+[ODOT サイクリスト/歩行者法令概要](http://www.oregon.gov/ODOT/HWY/BIKEPED/laws_regs.shtml) サイクリストと歩行者に関連する法令を一か所にまとめた文書や、オレゴン州法の最近の更新を見つけることができます。
+
+[オレゴン州の法令](http://www.leg.state.or.us/ors/) 特定の法令を見つけるには、このサイトの検索機能は機能しないため、インターネット検索エンジンを使用してください。
+
+
+## 自動車運転者のためのヒント
+
+**10の役立つヒントで自動車費用を節約**
+abcnews.comからの抜粋、[高いガソリン価格に対抗する10の方法](https://abcnews.go.com/Business/story?id=1850884)、Marc Lallanilla著
+
+1. **調整を保つ** — シンプルです：車両のメンテナンスはガスを節約します。推奨されるモーターオイルを使用し、汚れたエアフィルターを交換し、スペアを含むタイヤを適切な空気圧に保ち、エンジンを調整してください。
+
+2. **クールに、マリオ・アンドレッティ** — すべての青信号でペダルを踏み込み、最後の瞬間にブレーキを踏むと、驚くほどの速度でガスを消費します。より穏やかな運転で、使用するガソリンの30%以上を節約できます。
+
+3. **軽量化** — 夏休みが来たら、荷物をルーフラックから外し、できるだけ軽い重量を運んでください。トランクや後部座席の余分な重量は、エンジンをより一生懸命働かせ、より多くの燃料を消費させます。
+
+4. **ハイキングに行こう** — _本当に運転する必要がありますか_？短い旅行の場合、歩いたり**自転車**に乗ったりする方が理にかなっていることがよくあります。財布に良いだけでなく、ウエストラインにも良いかもしれません。
+
+5. **アイドリングハンド** — 渋滞でのアイドリングは、ガスやお金の節約、ストレスレベルの改善に何もしません。ラッシュアワーや混雑した通勤ルートを避けてください。
+
+6. **ショッピングに行く** — 新しい車を探していますか？ハイブリッド車や代替燃料車がもたらす長期的な節約を検討してください。一部の都市や州では、ハイブリッド車や代替燃料車、トラック、SUVのための払い戻し、カープールレーンへのアクセス、無料の駐車メーターなどの素晴らしいインセンティブも提供しています。
+
+7. **重い足を失う** — 制限速度で運転することは、警察をあなたの尾から遠ざけるだけではありません。長い旅行で速度を下げることで、最大14%節約できます。
+
+8. **クルーズする** — クルーズコントロールを使用すると、燃費が驚くほど向上します。車がそのように装備されている場合は、高速道路で使用して速度を一定に保ってみてください。
+
+9. **クリティカルマス** — バス、電車、地下鉄、またはその他の公共交通機関を利用し、車を家に置いておいてください。
+
+10. **代替状態** — 標準ガソリンの代替品は数と人気が増えています。バイオディーゼル、E85として知られるガソリンとエタノールのブレンド、およびその他の代替燃料はまだどこでも利用できるわけではありませんが、あなたの車があなたのコミュニティで販売されているものを受け入れることができるかどうか確認してください。
+
+![自動車運転者のための安全規則パンフレット - 表](/images/safety_brochure-front.jpg) 
+
+![自動車運転者のための安全規則パンフレット - 裏](/images/safety_brochure-back.jpg)
+
+
+## フィードバック
+
+**コメント、提案、または質問？** [お問い合わせください！](/pages/contact/)

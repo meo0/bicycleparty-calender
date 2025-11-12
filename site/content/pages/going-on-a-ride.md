@@ -1,50 +1,50 @@
 ---
-title: Going on a ride
+title: 走行に参加する
 weight: "4"
 menu:
   main:
     parent: communitynav
 ---
 
-**Please read our [Public health](/pages/public-health/) page** for info on riding safely during the pandemic and beyond.
+**パンデミック中およびそれ以降の安全な走行については、[公衆衛生](/pages/public-health/)ページをお読みください。**
 
 ----
 
-## Social Rides 101
+## ソーシャルライド101
 
-Want to know what to expect on a group ride? Check out our Social Rides 101 video, created in collaboration with [Bike Stuff PDX](https://www.youtube.com/@BikeStuffPDX)!
+グループライドで何を期待できるか知りたいですか？[Bike Stuff PDX](https://www.youtube.com/@BikeStuffPDX)とのコラボレーションで作成されたソーシャルライド101ビデオをご覧ください！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TAPTfIItyBE?si=TSsI11DwqhZbCGpQ" title="Social Rides 101 — YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TAPTfIItyBE?si=TSsI11DwqhZbCGpQ" title="Social Rides 101 — YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Ride riding guidelines
+## 走行ガイドライン
 
 <img src="/images/ride_riding_comic.png" alt="Ride riding comic, described below" height=800>
 
-Comic by [Shawn Granton](https://urbanadventureleague.bigcartel.com/about)
+コミック：[Shawn Granton](https://urbanadventureleague.bigcartel.com/about)
 
-### Know your ride.
+### 自分の走行を知る。
 
-Every ride is different. Some are casual, slow, meanderings. Some are hammer-it-out sufferfests. Check the online Pedalpalooza calendar for more detailed info.
-
-
-### Expect the unexpected.
-
-Just because you think you know what the ride is about, doesn't mean that you know what the ride is about. Don't stress out. Chill out, go with the flow. You might enjoy yourself! 
+すべての走行は異なります。カジュアルでゆっくりとした蛇行もあれば、ハードに走る苦行もあります。詳細については、オンラインPedalpaloozaカレンダーを確認してください。
 
 
-### Safety in numbers does not mean let your guard down.
+### 予期しないことを予期する。
 
-Just because you're in a big group doesn't mean that traffic laws — or the laws of physics — don't apply. Be aware of your surroundings and your fellow riders. 
+走行が何であるかを知っていると思っても、走行が何であるかを知っているとは限りません。ストレスを感じないでください。リラックスして、流れに身を任せてください。楽しめるかもしれません！
 
 
-### Be prepared!
+### 数の安全は、警戒を解くことを意味しない。
 
-A Pedalpalooza readiness kit should include:
-* flyers for your event
-* snacks
-* condoms
-* TriMet fare
-* tool kit
-* bike map
-* Pedalpalooza calendar 
+大きなグループにいるからといって、交通法規や物理法則が適用されないわけではありません。周囲と仲間のライダーに注意してください。
+
+
+### 準備しよう！
+
+Pedalpalooza準備キットには以下が含まれるべきです：
+* イベントのチラシ
+* スナック
+* コンドーム
+* TriMet運賃
+* ツールキット
+* 自転車マップ
+* Pedalpaloozaカレンダー

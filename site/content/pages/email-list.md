@@ -1,24 +1,24 @@
 ---
-title: Email List
+title: メーリングリスト
 weight: "2"
 menu:
   main:
     parent: communitynav
 ---
-## About 
+## 概要
 
-In addition to our [ride calendar](/calendar/), Shift also manages an [email discussion list](https://lists.riseup.net/www/info/shift). The Shift list is a great place to talk about all things bike-y: promote your ride, scheme about [Pedalpalooza](/pages/pedalpalooza/), get advice on bike routes, warn people about hazards to bike fun, or anything else bike-adjacent.
+[走行カレンダー](/calendar/)に加えて、Shiftは[メール討論リスト](https://lists.riseup.net/www/info/shift)も管理しています。Shiftのリストは、自転車に関するあらゆることについて話す素晴らしい場所です：自分の走行を宣伝したり、[Pedalpalooza](/pages/pedalpalooza/)について計画したり、自転車ルートについてのアドバイスを得たり、自転車の楽しみに対する危険について警告したり、その他自転車に関連することなら何でも。
 
-## Join
+## 参加
 
-The list is open to anyone who is from or interested in biking in Portland. [Sign up](https://lists.riseup.net/www/subscribe/shift) on our list host RiseUp.net and you're good to go. Just mind our [Code of Conduct](/pages/shift-code-of-conduct/)!
+このリストは、ポートランドに住んでいる、または自転車に興味がある人なら誰でも参加できます。リストホストのRiseUp.netで[サインアップ](https://lists.riseup.net/www/subscribe/shift)すれば準備完了です。[行動規範](/pages/shift-code-of-conduct/)を守ってください！
 
-## Posting
+## 投稿
 
-Once subscribed, you can receive the list via email or view it on the web. You can also get each message delivered individually as they come, or as a daily digest. To start a new thread, [send an email to the list](mailto:shift@lists.riseup.net) with a new subject. 
+登録すると、リストをメールで受信したり、ウェブで閲覧したりできます。各メッセージを個別に受信するか、毎日のダイジェストとして受信するかを選択することもできます。新しいスレッドを開始するには、新しい件名で[リストにメールを送信](mailto:shift@lists.riseup.net)してください。
 
-To read about bike fun past and get inspired for the future, [browse the archives](https://lists.riseup.net/www/arc/shift) — over 20 years of bike discussions!
+過去の自転車の楽しみについて読んで、未来のインスピレーションを得るには、[アーカイブを閲覧](https://lists.riseup.net/www/arc/shift)してください — 20年以上の自転車ディスカッション！
 
-## Contact
+## 連絡先
 
-For help with subscriptions or any questions about the list, please [email list admins](mailto:shift-admin@lists.riseup.net).
+登録のヘルプやリストに関する質問については、[リスト管理者にメール](mailto:shift-admin@lists.riseup.net)してください。
