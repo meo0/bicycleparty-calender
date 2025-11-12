@@ -28,7 +28,7 @@
               <svg class="icon" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-safety" }}"/>
               </svg>
-              COVID Safety plan
+              感染症安全対策プラン
             </a>
           </p>
           [[/safetyplan]]
@@ -82,7 +82,7 @@
                     <p class="newsflash" id="newsflash[[caldaily_id]]">
                       <svg class="icon" role="img">
                         <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-newsflash" }}"/>
-                        <title>Update</title>
+                        <title>更新</title>
                       </svg>
                       [[newsflash]]
                     </p>
@@ -96,7 +96,7 @@
                     <p class="area">
                       <svg class="icon" role="img">
                         <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-map" }}"/>
-                        <title>Area</title>
+                        <title>エリア</title>
                       </svg>
                       [[areaLabel]]
                     </p>
@@ -107,9 +107,8 @@
                       [[/mapLink]]
                       <svg class="icon" role="img">
                         <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-location" }}"/>
-                        <title>Location</title>
+                        <title>集合場所</title>
                       </svg>
-
                       [[venue]][[#address]][[#venue]], [[/venue]][[address]][[/address]]
 
                       [[#mapLink]]
@@ -124,7 +123,7 @@
                   <p>
                     <svg class="icon" role="img">
                       <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-organizer" }}" />
-                      <title>Organizer</title>
+                      <title>ライドリーダー</title>
                     </svg>
                     [[organizer]]
                   </p>
@@ -153,7 +152,7 @@
             <p>
                <svg class="icon" role="img">
                  <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-time" }}"/>
-                 <title>Time</title>
+                 <title>集合時間</title>
                </svg>
               [[displayDate]], [[displayStartTime]]
             </p>
@@ -162,7 +161,7 @@
             <p>
                <svg class="icon" role="img">
                  <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-newsflash" }}"/>
-                 <title>Time details</title>
+                 <title>詳細なスケジュール</title>
                </svg>
               [[timedetails]]
             </p>
@@ -172,7 +171,7 @@
             <p>
                <svg class="icon" role="img">
                  <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-endtime" }}"/>
-                 <title>End time</title>
+                 <title>終了時刻</title>
                </svg>
               [[displayEndTime]]
             </p>
@@ -182,9 +181,9 @@
             <p>
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-loop" }}" />
-                <title>Loop</title>
+                <title>ループ</title>
               </svg>
-              Ride is a loop
+              ライドは集合場所に戻ります。
             </p>
             [[/loopride]]
 
@@ -206,7 +205,7 @@
             <a href="mailto:[[email]]">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-email" }}" />
-                <title>Email</title>
+                <title>メールアドレス</title>
               </svg>
               [[email]]
             </a>
@@ -218,7 +217,7 @@
             <a href="tel:[[phone]]">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-phone" }}" />
-                <title>Phone</title>
+                <title>電話番号</title>
               </svg>
               [[phone]]
             </a>
@@ -230,7 +229,7 @@
             <a href="[[webLink]]" target="_blank" rel="noopener nofollow external" title="Opens in a new window">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-website" }}" />
-                <title>Website</title>
+                <title>Webサイト</title>
               </svg>
               [[#webname]][[webname]][[/webname]]
               [[^webname]][[weburl]][[/webname]]
@@ -245,7 +244,7 @@
             <a href="[[contactLink]]" target="_blank" rel="noopener nofollow external" title="Opens in a new window">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-website" }}" />
-                <title>Additional contact info</title>
+                <title>追加の連絡先</title>
               </svg>
               [[contact]]
             </a>
@@ -263,7 +262,7 @@
           <div class="eventlink">
             <p class="facebook-share">
               <a href="https://www.facebook.com/sharer/sharer.php?u=[[shareable]]" target="_blank">
-                <img src="{{ absURL "img/cal/icons/facebook.svg" }}" alt="Facebook"/>Share</a>
+                <img src="{{ absURL "img/cal/icons/facebook.svg" }}" alt="Facebook"/>シェア</a>
             </p>
             <ul>
               <li>
@@ -273,7 +272,7 @@
                   [[/preview]]
                   class="share-link"
                   rel="bookmark">
-                  Sharable link</a>
+                  リンクのシェア</a>
               </li>
               <li>
                 <a
@@ -282,7 +281,7 @@
                   [[/preview]]
                   data-id="[[caldaily_id]]"
                   class="export-link">
-                  Export to calendar</a>
+                  カレンダーにエクスポート</a>
               </li>
               <li>
                 <a
@@ -291,7 +290,7 @@
                   [[/preview]]
                   target="_blank"
                   class="export-link">
-                  Add to Google Calendar</a>
+                  Googleカレンダーエクスポート</a>
               </li>
             </ul>
           </div>
@@ -322,7 +321,7 @@
   [[/dates]]
 
   [[^dates]]
-  <p class="no-events">No matching events</p>
+  <p class="no-events">該当するイベントはありません</p>
   [[/dates]]
 
 </script>
