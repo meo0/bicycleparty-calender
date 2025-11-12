@@ -1,58 +1,58 @@
 ---
-title: Groups
+title: グループ
 weight: "3"
 menu:
   main:
     parent: communitynav
 ---
-## Shift spinoff projects
+## Shiftのスピンオフプロジェクト
 
-* **[Bike Summer (aka Pedalpalooza)](/pages/bike-summer/)** is an annual summer festival with hundreds of volunteer-organized free bike events.
-* **[Breakfast on the Bridges](/pages/bonb/)** serves breakfast to Portland bike commuters around once a month on several bridges near downtown. [Facebook](https://www.facebook.com/bonbpdx/)
-* **[PDX World Naked Bike Ride](/pages/wnbr/)** is still loosely affiliated with Shift but spun off into its own organization. Leading one of the largest rides in the state year after year!
-* **[The Multnomah County Bike Fair](/pages/mcbf/)** is a recurring fair that happens almost every year during Pedalpalooza.
-* **[Move by Bike](/pages/mbb/)** is a group of folks interested in helping folks move across town entirely by bicycle. [Facebook](https://www.facebook.com/groups/movebybike/)
+* **[Bike Summer（別名Pedalpalooza）](/pages/bike-summer/)**は、ボランティア主催の無料自転車イベントが数百ある年次夏祭りです。
+* **[Breakfast on the Bridges](/pages/bonb/)**は、月に1回程度、ダウンタウン近くのいくつかの橋でポートランドの自転車通勤者に朝食を提供しています。[Facebook](https://www.facebook.com/bonbpdx/)
+* **[PDX World Naked Bike Ride](/pages/wnbr/)**は、まだShiftと緩やかに提携していますが、独自の組織にスピンオフしました。毎年、州内で最大の走行の1つをリードしています！
+* **[The Multnomah County Bike Fair](/pages/mcbf/)**は、ほぼ毎年Pedalpalooza中に開催される定期的なフェアです。
+* **[Move by Bike](/pages/mbb/)**は、人々が自転車だけで町を移動するのを手助けすることに興味がある人々のグループです。[Facebook](https://www.facebook.com/groups/movebybike/)
 
-## Unaffiliated but related in bike fun
+## 無関係だが自転車の楽しみに関連
 
-* **[Velopalooza](https://velopalooza.ca/about-velopalooza/)** is a summer bike fun festival in Vancouver, BC, Canada similar to Pedalpalooza.
-* **[Corvidae Bicycle Club](https://www.facebook.com/corvidaeBC/)** is an inclusive fun crew that leads a monthly 2nd Sunday social ride from Peninsula Park at 2pm
-* **[BikePOC PNW](https://msha.ke/bikepocpnw/)** actively creates space for BIPOC folks to ride bikes, build community, forge life-long friendships, and challenge the status quo. [Instagram](https://www.instagram.com/bikepocpnw/)
-* **[Ride Westside](http://ridewestside.org/)** organizes social bike rides in Beaverton, Tigard, Hillsboro, and Washington County. [Instagram](https://instagram.com/ride_westside), [Facebook](https://www.facebook.com/profile.php?id=100094262499529), [Bluesky](https://bsky.app/profile/ridewestside.bsky.social)
-* **[Cycle Vancouver](https://www.cyclevancouver.bike/)** is a community cycling group in Vancouver, WA, who host monthly rides and advocate for better mobility. [Instagram](https://www.instagram.com/cyclevancouverwa/)
-* **[Puddlecycle](https://puddlecycle.com/)** is a group that focuses on winter bike fun events in Portland.  Their website talks more about their mission and how to participate.
-* **[Portland Autonomous Zone](https://pazpdx.wordpress.com/about/)** is a local DIY/tinkering community with a focus on bikes and is a frequent booster of and participant in Shift events.
+* **[Velopalooza](https://velopalooza.ca/about-velopalooza/)**は、Pedalpaloozaに似たカナダ、ブリティッシュコロンビア州バンクーバーの夏の自転車楽しみフェスティバルです。
+* **[Corvidae Bicycle Club](https://www.facebook.com/corvidaeBC/)**は、毎月第2日曜日の午後2時にPeninsula Parkから社交的な走行をリードする包括的な楽しいクルーです
+* **[BikePOC PNW](https://msha.ke/bikepocpnw/)**は、BIPOC（黒人、先住民、有色人種）の人々が自転車に乗り、コミュニティを構築し、生涯の友情を築き、現状に挑戦するためのスペースを積極的に作成しています。[Instagram](https://www.instagram.com/bikepocpnw/)
+* **[Ride Westside](http://ridewestside.org/)**は、Beaverton、Tigard、Hillsboro、Washington Countyで社交的な自転車走行を組織しています。[Instagram](https://instagram.com/ride_westside), [Facebook](https://www.facebook.com/profile.php?id=100094262499529), [Bluesky](https://bsky.app/profile/ridewestside.bsky.social)
+* **[Cycle Vancouver](https://www.cyclevancouver.bike/)**は、ワシントン州バンクーバーのコミュニティサイクリンググループで、毎月の走行を主催し、より良いモビリティを提唱しています。[Instagram](https://www.instagram.com/cyclevancouverwa/)
+* **[Puddlecycle](https://puddlecycle.com/)**は、ポートランドの冬の自転車楽しみイベントに焦点を当てたグループです。彼らのウェブサイトは、彼らの使命と参加方法についてより多く語っています。
+* **[Portland Autonomous Zone](https://pazpdx.wordpress.com/about/)**は、自転車に焦点を当てた地元のDIY/修理コミュニティで、Shiftイベントの頻繁なブースターおよび参加者です。
 
-## Nonprofits and Government groups
+## 非営利団体と政府グループ
 
-* **[The Street Trust](https://www.thestreettrust.org)** (formerly known as the Bicycle Transportation Alliance) is a non-profit organization working to promote and improve public transit, walking and bicycling conditions in Oregon since 1990.
-* **[The Community Cycling Center](http://www.communitycyclingcenter.org/about/)** is a non-profit organization on a mission to broaden access to bicycling and its benefits.
-* **[BikeLoud PDX](https://bikeloudpdx.org/)** is a non-profit organization dedicated to creating positive movement towards safer streets and healthier neighborhoods via grassroots advocacy campaigns.
-* **[The Portland Bureau of Transportation has an active-transportation focused group](https://www.portlandoregon.gov/transportation/59969)**.  This group organizes [Sunday Parkways](https://www.portlandoregon.gov/transportation/46103) and a bunch of other wonderful bike-focused groups - from a [bike share program](https://www.portland.gov/transportation/bike-share) to [safe routes to schools](https://www.portland.gov/transportation/safe-routes-school).
-* **[WashCoBikes](https://washcobikes.org/)** champions cycling in Washington County
-* **[Adaptive Sports Northwest](https://adaptivesportsnw.org)** provide fitness, recreation, and competitive sport to anyone with physical and visual disabilities. This includes [adaptive cycling programs](https://adaptivesportsnw.org/sports/cycling/) like an Adaptive Bike Clinic and the PDX Handcycling Series at Portland International Raceway.
-* **[Oregon Walks](https://oregonwalks.org/)** promotes walking and advocates for safer, more convenient, and all-around better walking options throughout Oregon. They encourage and host walking events year-round, including [Steptember](https://oregonwalks.org/steptember/) which is a "Pedalpalooza for walking" each September.
+* **[The Street Trust](https://www.thestreettrust.org)**（以前はBicycle Transportation Allianceとして知られていました）は、1990年以来、オレゴン州で公共交通機関、歩行、自転車の状況を促進および改善するために活動している非営利組織です。
+* **[The Community Cycling Center](http://www.communitycyclingcenter.org/about/)**は、自転車とその利点へのアクセスを広げる使命を持つ非営利組織です。
+* **[BikeLoud PDX](https://bikeloudpdx.org/)**は、草の根擁護キャンペーンを通じて、より安全な道路とより健康的な近隣への前向きな動きを作り出すことに専念する非営利組織です。
+* **[Portland Bureau of Transportationには、アクティブな交通に焦点を当てたグループがあります](https://www.portlandoregon.gov/transportation/59969)**。このグループは、[Sunday Parkways](https://www.portlandoregon.gov/transportation/46103)と、[自転車シェアプログラム](https://www.portland.gov/transportation/bike-share)から[学校への安全なルート](https://www.portland.gov/transportation/safe-routes-school)まで、他の多くの素晴らしい自転車に焦点を当てたグループを組織しています。
+* **[WashCoBikes](https://washcobikes.org/)**は、Washington Countyでのサイクリングを支援しています
+* **[Adaptive Sports Northwest](https://adaptivesportsnw.org)**は、身体的および視覚的障害を持つ誰にでもフィットネス、レクリエーション、競技スポーツを提供しています。これには、Adaptive Bike ClinicやPortland International RacewayでのPDX Handcycling Seriesなどの[適応サイクリングプログラム](https://adaptivesportsnw.org/sports/cycling/)が含まれます。
+* **[Oregon Walks](https://oregonwalks.org/)**は、歩行を促進し、オレゴン州全体でより安全で、より便利で、全体的により良い歩行オプションを提唱しています。彼らは一年中歩行イベントを奨励および主催しており、9月の「歩行のためのPedalpalooza」である[Steptember](https://oregonwalks.org/steptember/)が含まれます。
 
-## Media
+## メディア
 
-* **[BikePortland.org](https://bikeportland.org/)** is an independent news source that covers the Portland bike scene.
-* **[KBOO Bike Show](https://kboo.fm/program/bike-show)** is a monthly show presenting news and views of cycling in Portland and beyond. It broadcasts live on KBOO 90.7 FM once a month, and it's available as a podcast at [BikeShow.PortlandTransport.com](http://bikeshow.portlandtransport.com/).
-* **[Sprocket Podcast](http://thesprocketpodcast.com/)** is a Portland-based podcast about all sorts of bike-y things. [Subscribe](https://sprocketpodcast.blubrry.com/subscribe-to-podcast/)
-* **[Filmed By Bike](https://filmedbybike.org/)** is a touring film festival that features the world’s best bike movies, founded in Portland in 2003 by Ayleen Crotty.
-* **[Bike Stuff PDX](https://www.youtube.com/c/BikeStuffPDX)** creates videos about human powered transportation, available on YouTube.
-* **[Warpaint Magazine](https://www.warpaintmag.co/)** highlights Black, Indigenous, and People Of Color that are athletes in outdoor sports as well as community organizers that are doing their part to introduce BIPOC people to outdoor sports.
+* **[BikePortland.org](https://bikeportland.org/)**は、ポートランドの自転車シーンをカバーする独立したニュースソースです。
+* **[KBOO Bike Show](https://kboo.fm/program/bike-show)**は、ポートランドおよびそれ以降のサイクリングのニュースと見解を提示する月次ショーです。月に1回KBOO 90.7 FMでライブ放送され、[BikeShow.PortlandTransport.com](http://bikeshow.portlandtransport.com/)でポッドキャストとして利用できます。
+* **[Sprocket Podcast](http://thesprocketpodcast.com/)**は、あらゆる種類の自転車に関するポートランドベースのポッドキャストです。[購読](https://sprocketpodcast.blubrry.com/subscribe-to-podcast/)
+* **[Filmed By Bike](https://filmedbybike.org/)**は、2003年にポートランドでAyleen Crottyによって設立された、世界最高の自転車映画を特集するツアー映画祭です。
+* **[Bike Stuff PDX](https://www.youtube.com/c/BikeStuffPDX)**は、YouTubeで利用可能な人力輸送に関するビデオを作成しています。
+* **[Warpaint Magazine](https://www.warpaintmag.co/)**は、アウトドアスポーツのアスリートである黒人、先住民、有色人種、およびBIPOCの人々をアウトドアスポーツに紹介するために尽力しているコミュニティオーガナイザーを強調しています。
 
-## Sponsors
+## スポンサー
 
-Current:
+現在：
 
-* **[Umbrella](https://www.umbrellapdx.org)** is Shift's 501\(c)3 nonprofit sponsor and provides similar services for [a lot of other humans-in-the-streets organizations](https://www.umbrellapdx.org/projects)
-* **[RiseUp](https://riseup.net/)** is our mailing list host and an all-around great group of folks providing communication tools to communities like ours
-* **[BikeLoud PDX](https://bikeloudpdx.org/)** helps support Shift's technology costs, in addition to their amazing advocacy work
-* **[People like you](/pages/donate/)** — your support helps us make bike fun happen!
+* **[Umbrella](https://www.umbrellapdx.org)**は、Shiftの501\(c)3非営利スポンサーで、[他の多くの路上の人間組織](https://www.umbrellapdx.org/projects)に同様のサービスを提供しています
+* **[RiseUp](https://riseup.net/)**は、私たちのメーリングリストホストであり、私たちのようなコミュニティにコミュニケーションツールを提供する素晴らしいグループです
+* **[BikeLoud PDX](https://bikeloudpdx.org/)**は、素晴らしい擁護活動に加えて、Shiftのテクノロジーコストをサポートしています
+* **[あなたのような人々](/pages/donate/)** — あなたのサポートは、私たちが自転車の楽しみを実現するのに役立ちます！
 
-Past:
+過去：
 
-* **[The Portland Mercury](https://www.portlandmercury.com/)** is a weekly newspaper in Portland which has printed our events calendar for [Pedalpalooza](/pages/pedalpalooza) at their own expense for many years.
-* **[The Portland Bureau of Transportation](https://www.portlandoregon.gov/transportation/59969)** has provided **substantial** financial and practical sponsorship to Shift over the years and we are very thankful for their help in facilitating bike fun.
-* **[Double Darn](https://www.doubledarn.com/)** has donated some of their excellent cycling caps to support Shift events
+* **[The Portland Mercury](https://www.portlandmercury.com/)**は、ポートランドの週刊新聞で、長年にわたって自己負担で[Pedalpalooza](/pages/pedalpalooza)のイベントカレンダーを印刷してきました。
+* **[The Portland Bureau of Transportation](https://www.portlandoregon.gov/transportation/59969)**は、長年にわたってShiftに**実質的な**財政的および実践的なスポンサーシップを提供しており、自転車の楽しみを促進する彼らの助けに非常に感謝しています。
+* **[Double Darn](https://www.doubledarn.com/)**は、Shiftイベントをサポートするために彼らの優れたサイクリングキャップを寄付してきました

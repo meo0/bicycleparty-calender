@@ -1,80 +1,80 @@
 ---
-title: budget/finance stuff
+title: 予算/財務関連
 date: '2019-03-08T07:42:50-08:00'
 weight: '999'
 ---
-Shift has always run on a shoestring, largely powered by volunteers, DIY ethos, and entirely funded by donations.  Your donations are our only source of income.  So, is shift broke?  No, but we also don't usually end the year cash positive and someday our bank account (managed by our 501(c)3 partner, [Umbrella](https://www.umbrellapdx.org/)) will run out of money.
+Shiftは常に限られた予算で運営されており、主にボランティア、DIY精神、そして完全に寄付によって資金提供されています。あなたの寄付が私たちの唯一の収入源です。では、Shiftは破産していますか？いいえ、しかし、通常は年度末にキャッシュポジティブで終わることもなく、いつかは私たちの銀行口座（501(c)3パートナーの[Umbrella](https://www.umbrellapdx.org/)によって管理されています）が資金切れになります。
 
-As a volunteer-run organization, we feel like it's best to be transparent about expenditures, so here's everything shift has spent money on in the past few years.
+ボランティア運営の組織として、支出について透明であることが最善だと感じているので、ここ数年間にShiftがお金を使ったすべてのものを紹介します。
 
 ## 2018
 
-**upcoming expenses:**
+**今後の支出：**
 
-- $400 - poster art artist payment
-- $45 - pedalpalooza poster printing
+- $400 - ポスターアートアーティスト支払い
+- $45 - pedalpaloozaポスター印刷
 
-**expenses paid for:**
+**支払った支出：**
 
 $0
 
-**donations from the community:**
+**コミュニティからの寄付：**
 
-- annual webhosting and domain registration expenses - $120
+- 年間ウェブホスティングおよびドメイン登録費用 - $120
 
 
 ## 2017
 
-**expenses paid for:**
+**支払った支出：**
 
-- $400: pedalpalooza poster artist payment
-- $203: calendar release party food/drinks
+- $400: pedalpaloozaポスターアーティスト支払い
+- $203: カレンダーリリースパーティー食事/飲み物
 
-**donations from the community:**
+**コミュニティからの寄付：**
 
-- $45: pedalpalooza poster printing
-- $52: pedalpalooza postcard printing
-- $90: pedalpalooza - future of shift bike ride drinks for post-ride brainstorming with participants
-- $135: pedalpalooza sticker printing
+- $45: pedalpaloozaポスター印刷
+- $52: pedalpaloozaポストカード印刷
+- $90: pedalpalooza - 参加者とのライド後のブレインストーミングのためのshift自転車ライドの飲み物の未来
+- $135: pedalpaloozaステッカー印刷
 
 ## 2016
 
-**expenses paid for:**
-- $400: pedalpalooza poster artist payment
-- $150: poster printing
+**支払った支出：**
+- $400: pedalpaloozaポスターアーティスト支払い
+- $150: ポスター印刷
 
-** donations from the community:**
-- $120: webhosting
+** コミュニティからの寄付：**
+- $120: ウェブホスティング
 
 ## 2015
 
-**expenses paid for:**
-- $400: pedalpalooza poster artist payment
-- $230: Breakfast on the Bridges signage
-- $150: poster printing
+**支払った支出：**
+- $400: pedalpaloozaポスターアーティスト支払い
+- $230: Breakfast on the Bridgesサイネージ
+- $150: ポスター印刷
 
-** donations from the community:**
+** コミュニティからの寄付：**
 
-- $120: webhosting
+- $120: ウェブホスティング
 
 ## 2014
 
-**expenses paid for:**
-- $400: pedalpalooza poster artist payment
-- $386: pennant making supplies (offset by donations for pennants)
-- $340: Breakfast on the Bridges signage + artist payment
-- $150: poster printing
+**支払った支出：**
+- $400: pedalpaloozaポスターアーティスト支払い
+- $386: ペナント作成用品（ペナントの寄付によって相殺）
+- $340: Breakfast on the Bridgesサイネージ + アーティスト支払い
+- $150: ポスター印刷
 
 ## 2013
 
-**expenses paid for:**
+**支払った支出：**
 
-- $400 for pedalpalooza poster artist
-- $200 for pedalpalooza shirts
-- $200 to sponsor the bike smut road trip (pre-show slides brought shift's message all over the world)
-- $150 for poster printing
-- $81.00 webhosting
+- $400 pedalpaloozaポスターアーティスト
+- $200 pedalpaloozaシャツ
+- $200 bike smutロードトリップのスポンサー（プレショースライドがshiftのメッセージを世界中に届けました）
+- $150 ポスター印刷
+- $81.00 ウェブホスティング
 
-**donations from the community**
+**コミュニティからの寄付**
 
-- $40 domain registration
+- $40 ドメイン登録
