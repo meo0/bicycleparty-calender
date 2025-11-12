@@ -1,75 +1,75 @@
 ---
-title: Shift Board Bylaws
+title: Shift理事会規約
 weight: 3
 menu:
     main:
         parent: aboutmenu
 ---
-These bylaws are in no way intended to be legally binding, or even permanent. They are proposed to provide structure for the formation and operations of the Shift Board of Directors.
+これらの規約は、法的拘束力を持つことを意図したものでも、永続的なものでもありません。これらは、Shift理事会の形成と運営に構造を提供するために提案されています。
 
-## 1. Preamble
+## 1. 前文
 
-All members of the board agree to assume the best intent of other members, and to be respectful of each other, even when in disagreement. We aim to work toward resolutions and agreements, and will attempt to involve as many stakeholders as possible in our decision making processes, when relevant.
+理事会のすべてのメンバーは、他のメンバーの最善の意図を仮定し、意見が異なる場合でもお互いを尊重することに同意します。私たちは解決と合意に向けて努力し、関連する場合は、意思決定プロセスにできるだけ多くの利害関係者を関与させようとします。
 
-## 2. Purpose
+## 2. 目的
 
-The Board of Directors (henceforth known as “the board” or “BoD”) exists to direct the actions of Shift.
+理事会（以下「理事会」または「BoD」として知られる）は、Shiftの行動を指示するために存在します。
 
-## 3. Size and Composition
+## 3. 規模と構成
 
-The BoD will consist of a board of no more than 20 members. Each member of the board has equal power and no limits on the length of time they may serve on the board.
+BoDは、20人以下のメンバーで構成される理事会で構成されます。理事会の各メンバーは平等な権限を持ち、理事会で務める期間に制限はありません。
 
-Members of the board and the greater Shift community have expressed desires to have a diverse board. In the interest of equity, further board recruitment should focus on non-male-identifying, non-white members. These two factors were chosen because the cycling community in Portland is majority white, and majority male-identifying.
+理事会のメンバーとより広いShiftコミュニティは、多様な理事会を持ちたいという希望を表明しています。公平性のために、さらなる理事会の募集は、男性以外、白人以外のメンバーに焦点を当てるべきです。これらの2つの要素は、ポートランドのサイクリングコミュニティが大多数が白人で、大多数が男性であるため選ばれました。
 
-## 4. Voting
+## 4. 投票
 
-The BoD makes decisions based upon a modified consensus process.
+BoDは、修正されたコンセンサスプロセスに基づいて決定を下します。
 
-### Quorum
+### 定足数
 
-Quorum is required for a vote to be sustained. Quorum is more than half of the active board members. Votes collected online will count towards quorum. 
+投票が維持されるには定足数が必要です。定足数は、活動中の理事会メンバーの半数以上です。オンラインで収集された投票は定足数にカウントされます。
 
-### Process
+### プロセス
 
-Any member of the board may add an item to the agenda for a vote. Items requiring a vote from the board should be added to the agenda no less than 48 hours before the next meeting. During the vote, board members have four options: YES, NO, ABSTAIN, and MAYBE. If everyone votes yes, the item passes. If one person votes no, then the item fails. If three or more people vote maybe, the item fails. Otherwise the vote passes, as long as quorum has been reached, and there has been at least one yes.
+理事会のメンバーは誰でも、投票のために議題に項目を追加できます。理事会からの投票を必要とする項目は、次の会議の48時間前までに議題に追加する必要があります。投票中、理事会メンバーには4つのオプションがあります：YES、NO、ABSTAIN、MAYBE。全員がyesに投票すると、項目は可決されます。1人がnoに投票すると、項目は否決されます。3人以上がmaybeに投票すると、項目は否決されます。それ以外の場合、定足数に達し、少なくとも1つのyesがある限り、投票は可決されます。
 
-If an item is added to the agenda for a vote when there is less than 48 hours before a meeting, then all members have a period of 48 hours within which they can submit their vote, beginning from the moment when the item was added to the agenda. This gives the board flexibility to initiate a vote on short notice, but still gives board members a chance to consider the item on which they are voting. Votes submitted in this way will follow the rules for “Absentee Voting”.
+会議の48時間前未満に投票のために議題に項目が追加された場合、すべてのメンバーは、項目が議題に追加された瞬間から始まる48時間以内に投票を提出できる期間があります。これにより、理事会は短期間で投票を開始する柔軟性を持ちますが、理事会メンバーには投票する項目を検討する機会が与えられます。この方法で提出された投票は、「不在者投票」のルールに従います。
 
-### Absentee Voting
+### 不在者投票
 
-Board members may provide their vote on any items requiring a vote in that meeting’s agenda by email to the Shift BoD google group (shift-bod@googlegroups.com) in advance of a board meeting. This should happen 24 hours prior to the board meeting.
+理事会メンバーは、理事会会議の前に、その会議の議題で投票を必要とする項目について、Shift BoDグーグルグループ（shift-bod@googlegroups.com）にメールで投票を提供できます。これは、理事会会議の24時間前に行う必要があります。
 
-### Votes taken outside of meetings
+### 会議外で行われる投票
 
-This addresses how a vote functions that happens completely outside of a Shift BoD meeting. A vote can only take place entirely outside of a meeting if the vote pertains to urgent or time sensitive matters. It is the responsibility of the board member calling for the vote to explain why the vote is urgent or time sensitive. Quorum for these votes will be more than three quarters of the active board. Any member of the board may initiate a vote by emailing the Shift BoD google group. Voting will take place as described in the “Voting” section of the Bylaws. The voting period will be four days, beginning from the moment the email was posted to the google group.
+これは、Shift BоD会議の完全に外で行われる投票がどのように機能するかを扱います。投票が緊急または時間に敏感な問題に関係する場合にのみ、会議の完全に外で投票が行われることができます。投票が緊急または時間に敏感である理由を説明するのは、投票を求める理事会メンバーの責任です。これらの投票の定足数は、活動中の理事会の4分の3以上になります。理事会のメンバーは誰でも、Shift BоDグーグルグループにメールすることで投票を開始できます。投票は、規約の「投票」セクションで説明されているように行われます。投票期間は、メールがグーグルグループに投稿された瞬間から始まる4日間です。
 
-## 5. Removing a Board Member
+## 5. 理事会メンバーの削除
 
-Board members do not have term limits, but may resign voluntarily or be voted off the board. Any vote to remove a board member will count that member’s vote as abstain. Then the rest of the board may vote using the voting process outlined in the bylaws.
+理事会メンバーには任期制限はありませんが、自発的に辞任したり、理事会から投票で追放されたりする場合があります。理事会メンバーを削除するための投票は、そのメンバーの投票を棄権としてカウントします。その後、残りの理事会は、規約で概説されている投票プロセスを使用して投票できます。
 
-## 6. Inactive Board Members
-Board members must have attended at least two of the last four board meetings, including the current meeting if this count is tallied at a board meeting. Any board member who doesn’t meet that requirement becomes an inactive board member. Inactive board members may not vote on items presented to the board for voting and do not count for quorum. They may still serve on committees. If that person was a committee chairperson, that committee will need to choose a new chairperson. An inactive board member may become active again by attending two out of four consecutive meetings. No vote is necessary for this to happen. An inactive member still counts towards our total number of members.
+## 6. 非活動理事会メンバー
+理事会メンバーは、この数が理事会会議で集計される場合、現在の会議を含む過去4回の理事会会議のうち少なくとも2回に出席している必要があります。その要件を満たさない理事会メンバーは、非活動理事会メンバーになります。非活動理事会メンバーは、理事会に提出された投票項目に投票できず、定足数にカウントされません。彼らはまだ委員会に参加できます。その人が委員会の議長だった場合、その委員会は新しい議長を選ぶ必要があります。非活動理事会メンバーは、4回の連続した会議のうち2回に出席することで再び活動的になることができます。これが起こるために投票は必要ありません。非活動メンバーは、メンバーの総数に引き続きカウントされます。
 
-## 7. Adding New Board Members
+## 7. 新しい理事会メンバーの追加
 
-### Eligibility
+### 適格性
 
-Eligibility for membership to the Board requires that a person has attended two of the last four Board Meetings. If there are vacancies, eligible candidates can be approved as new Board members by a vote of the existing Board. The person can be voted on to the board at the second board meeting that they attend by a vote of the board. This vote can take place at the beginning of a meeting; if approved, the new member will immediately be able to vote and take part in other board business.
+理事会メンバーシップの適格性には、過去4回の理事会会議のうち2回に出席していることが必要です。空席がある場合、適格候補者は既存の理事会の投票によって新しい理事会メンバーとして承認されることができます。その人は、理事会の投票によって、出席する2回目の理事会会議で理事会に投票されることができます。この投票は会議の冒頭で行われることができます。承認された場合、新しいメンバーはすぐに投票し、他の理事会業務に参加できるようになります。
 
-## 8. Committees
+## 8. 委員会
 
-Committees can be created or dissolved by a vote of the Board as needed to conduct Board business. Committees may be permanent or temporary. 
+委員会は、理事会業務を実施するために必要に応じて理事会の投票によって作成または解散されることができます。委員会は永続的または一時的である可能性があります。
 
-Each committee has a chairperson, who must be a Board member. Other committee members are not required to be Board members. The board has the power to decide who will be the chairperson of each committee, though committees may choose their own chairpeople in absence of direction from the board.
+各委員会には議長がおり、理事会メンバーでなければなりません。他の委員会メンバーは理事会メンバーである必要はありません。理事会は各委員会の議長を誰にするかを決定する権限を持っていますが、理事会からの指示がない場合、委員会は独自の議長を選ぶことができます。
 
-Committees are expected to be able to report on their status at each Board meeting. Any member of a committee may report for that committee, including non-board members of that committee.
+委員会は、各理事会会議でそのステータスについて報告できることが期待されています。その委員会の非理事会メンバーを含む、委員会のメンバーは誰でもその委員会について報告できます。
 
-Committees may use the same voting model that the board uses, or they may choose to adopt a different model.
+委員会は、理事会が使用するのと同じ投票モデルを使用することも、異なるモデルを採用することもできます。
 
-## 9. Conflicts of Interest
+## 9. 利益相反
 
-Board members are expected to make a good faith effort to act in the best interests of the organization. Board members are responsible for disclosing any potential conflicts of interest to the Board. Board members must abstain from a vote if they have a conflict of interest.
+理事会メンバーは、組織の最善の利益のために行動するために誠実な努力をすることが期待されています。理事会メンバーは、潜在的な利益相反を理事会に開示する責任があります。理事会メンバーは、利益相反がある場合は投票を棄権する必要があります。
 
-## 10. Updating bylaws
+## 10. 規約の更新
 
-Changes to the bylaws require approval by a vote of the board.
+規約の変更には、理事会の投票による承認が必要です。

@@ -1,6 +1,6 @@
 ---
-title: Public Health
-description: Staying safe and healthy during a public health crisis
+title: 公衆衛生
+description: 公衆衛生危機中の安全と健康の維持
 keywords:
   - safety
   - tips
@@ -14,47 +14,47 @@ menu:
     parent: communitynav
 ---
 
-## Ride safely
+## 安全に走行する
 
-<p class="mission-statement" style="text-align: center; padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2; font-weight: bold; font-size: 24px;"><strong>Bike fun is for everyone!</strong></p>
+<p class="mission-statement" style="text-align: center; padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2; font-weight: bold; font-size: 24px;"><strong>自転車の楽しみはすべての人のためのものです！</strong></p>
 
-Biking is a great source of fun, exercise, and community, and we need everyone’s help to keep bike fun safe for all. While the COVID-19 pandemic has receded from its peak and governments are continuing to ease or drop safety guidelines, the pandemic isn't really "over." Certainly, it's not over for people with disabilities, who are immunocompromised, caring for elders, and many others. To help make biking safer for everyone, there are ways for all of us to chip in. Ride leaders are especially encouraged to consider what they can do to host events where everyone feels comfortable participating.
+自転車は楽しみ、運動、コミュニティの素晴らしい源であり、すべての人にとって自転車の楽しみを安全に保つためには全員の助けが必要です。COVID-19パンデミックはピークから後退し、政府は安全ガイドラインを緩和または撤廃し続けていますが、パンデミックは本当には「終わって」いません。確かに、障害を持つ人々、免疫不全の人々、高齢者の世話をしている人々、および他の多くの人々にとっては終わっていません。すべての人にとってより安全な自転車を作るために、私たち全員が協力できる方法があります。走行リーダーは特に、全員が快適に参加できるイベントを主催するために何ができるかを考えることが奨励されています。
 
-Some ways to improve safety when riding include:
+走行時の安全性を向上させる方法には次のものがあります：
 
-* **Staying home when sick:** Don't go to events if you have any symptoms of COVID-19 or feel sick.
-* **Making space:** Give yourself and others plenty of space out on the roads and at events.
-* **Wearing a mask:** Wear a mask when close to other people, particularly at larger gatherings. This is especially important at ride stops, such as when gathering at a starting location or a mid-ride stop. We support everyone who opts to wear a mask, regardless of the reason.
-* **Avoiding indoor stops:** Stay outdoors where there is more airflow and space for people to spread out. If a ride would normally make indoor stops (at at store, bar, or elsewhere), consider adjusting to avoid having a crowd gather indoors. For example, you might encourage people to buy supplies ahead of time in lieu of a supply stop, or have a meeting spot outside at a park instead of in a business.
-* **Managing ride size:** Keeping the group size small makes it easier to maintain distance and limit your exposure to others. This is important both while riding and during any stops. Events might ask for RSVPs or advance registration to cap the group size.
-* **Sanitizing frequently:** Sanitize your hands frequently, and avoid touching your face. Wash with soap and water for 20 seconds, or use hand sanitizer.
-* **Sharing carefully:** If sharing food or drinks, don't share the same utensils or dishes, or drink directly from the same container.
-* **Providing more info up front:** Ride leaders, consider adding more details to your calendar listings. Information about planned activities, locations, group size, and expected norms will help others decide if an event is a good fit for them. Provide at least one method of contact info so potential riders can reach out if they have questions.
+* **病気のときは家にいる：** COVID-19の症状がある場合や体調が悪い場合は、イベントに行かないでください。
+* **スペースを作る：** 道路上やイベントで自分自身と他の人に十分なスペースを与えてください。
+* **マスクを着用する：** 特に大規模な集まりで、他の人の近くにいるときはマスクを着用してください。これは、出発地点や途中の停留所に集まるときなど、走行停止時に特に重要です。理由に関係なく、マスクを着用することを選択するすべての人をサポートします。
+* **屋内の停留所を避ける：** 人々が広がるためのより多くの気流とスペースがある屋外にとどまってください。走行が通常屋内の停留所（店、バー、またはその他の場所）を作る場合は、群衆が屋内に集まることを避けるために調整することを検討してください。たとえば、供給停止の代わりに事前に供給品を購入するよう人々に勧めたり、ビジネスの中ではなく公園の外で集合場所を設けたりすることができます。
+* **走行サイズを管理する：** グループサイズを小さく保つことで、距離を維持し、他の人への露出を制限することが容易になります。これは、走行中と停止中の両方で重要です。イベントでは、グループサイズを制限するためにRSVPまたは事前登録を求める場合があります。
+* **頻繁に消毒する：** 手を頻繁に消毒し、顔に触れないようにしてください。石鹸と水で20秒間洗うか、手指消毒剤を使用してください。
+* **慎重に共有する：** 食べ物や飲み物を共有する場合は、同じ食器や皿を共有したり、同じ容器から直接飲んだりしないでください。
+* **事前により多くの情報を提供する：** 走行リーダーは、カレンダーリストにより詳細を追加することを検討してください。計画された活動、場所、グループサイズ、予想される規範に関する情報は、イベントが自分に適しているかどうかを他の人が判断するのに役立ちます。質問がある場合に潜在的なライダーが連絡できるように、少なくとも1つの連絡方法を提供してください。
 
-Be mindful that other people may have different risk factors and preferences than you and need to approach situations differently. Respect accommodations and requests that others have — bike fun is for everyone!
-
-
-## Ride differently
-
-Our community has continually adapted to find ways to keep bike fun safe for all during this pandemic. For a time, all rides were cancelled and the calendar was closed as lockdowns kept most of us at home. Slowly, the calendar reopened with new guidelines as we found new ways to come together while staying safe. Alternatives to the typical group ride format also emerged that didn't involve gathering in a group, such as:
-
-* **Distributed events:** Rides that happen at a specific time, but everyone participates from their own, separate location. The [May 2020 Midnight Mystery Ride](https://midnightmysteryride.wordpress.com/2020/05/05/may-ride-switching-things-up/) is a great example! 
-* **Ride anytime routes:** A specific route that people can ride at any time they'd like. Check out the special [Pedalpalooza 2020 calendar](/archive/pedalpalooza/pedalpalooza-2020/) for lots of great examples.
-* **Online events:** Bike-y online events like meetings, socials, livestreams, and more. The [Shift list](/pages/email-list/) is also always open for bikey discussion. Stay in touch with your fellow bike funnists and keep the conversation going even when you can't be in person.
-
-Ride leaders are encouraged to explore these options and come up with new ideas of their own! If you have any questions or ideas about how we can facilitate new approaches to inclusive bike fun, [contact us](/pages/contact/).
+他の人々があなたとは異なるリスク要因と好みを持っている可能性があり、状況に異なる方法でアプローチする必要があることに注意してください。他の人々が持っている配慮や要求を尊重してください - 自転車の楽しみはすべての人のためのものです！
 
 
-## Safety Plan
+## 異なる方法で走行する
 
-To help riders set expectations, we have a specific set of guidelines that ride leaders may choose to adopt: 
+私たちのコミュニティは、このパンデミック中にすべての人にとって自転車の楽しみを安全に保つ方法を継続的に適応させてきました。一時期、すべての走行がキャンセルされ、ロックダウンが私たちのほとんどを家に閉じ込めたため、カレンダーは閉鎖されました。ゆっくりと、安全を保ちながら集まる新しい方法を見つけたため、新しいガイドラインでカレンダーが再開されました。グループに集まることを含まない典型的なグループライド形式の代替案も登場しました。たとえば：
 
-* Maintain appropriate distance while riding and at stops, and respect others’ desire for distance.
-* While masks are not required while outside and appropriately distanced from others, expect that some participants will choose to mask according to their comfort and risk level. All participants are expected to support and accommodate those who continue to mask. Have a mask readily available, should it be requested.
-* Masks are recommended for all when indoors.
-* And as with all rides, don't attend or continue on a ride if you have any symptoms of COVID-19 or feel sick.
+* **分散イベント：** 特定の時間に行われる走行で、全員が自分の別々の場所から参加します。[2020年5月のMidnight Mystery Ride](https://midnightmysteryride.wordpress.com/2020/05/05/may-ride-switching-things-up/)は素晴らしい例です！
+* **いつでも走行ルート：** 人々がいつでも好きなときに走ることができる特定のルート。たくさんの素晴らしい例については、特別な[Pedalpalooza 2020カレンダー](/archive/pedalpalooza/pedalpalooza-2020/)をチェックしてください。
+* **オンラインイベント：** 会議、社交、ライブストリームなどの自転車に関連するオンラインイベント。[Shiftリスト](/pages/email-list/)も、自転車に関する議論のために常に開かれています。仲間の自転車愛好家と連絡を取り合い、直接会えないときでも会話を続けてください。
 
-If a ride leader agrees to follow these specific guidelines, a special marker will appear next to their ride on the calendar: 
+走行リーダーは、これらのオプションを探求し、自分自身の新しいアイデアを思いつくことが奨励されています！包括的な自転車の楽しみへの新しいアプローチを促進する方法について質問やアイデアがある場合は、[お問い合わせください](/pages/contact/)。
+
+
+## 安全計画
+
+ライダーが期待を設定するのを助けるために、走行リーダーが採用することを選択できる特定のガイドラインセットがあります：
+
+* 走行中および停止時に適切な距離を維持し、他の人の距離への希望を尊重してください。
+* 屋外で他の人から適切に距離を置いている間、マスクは必要ありませんが、一部の参加者が快適さとリスクレベルに応じてマスクを着用することを選択することを期待してください。すべての参加者は、マスクを着用し続ける人々をサポートし、配慮することが期待されています。要求された場合に備えて、マスクをすぐに利用できるようにしてください。
+* 屋内では全員にマスクが推奨されます。
+* そして、すべての走行と同様に、COVID-19の症状がある場合や体調が悪い場合は、走行に参加または続行しないでください。
+
+走行リーダーがこれらの特定のガイドラインに従うことに同意する場合、カレンダーの走行の横に特別なマーカーが表示されます：
 
 <span style="text-align: left; padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2; display: inline-block; padding: 0.5rem">
   <svg class="icon" role="img" aria-hidden="true" style="width: 22px; height: 22px; margin-right: 4px; vertical-align: middle; stroke: currentColor;">
@@ -63,12 +63,12 @@ If a ride leader agrees to follow these specific guidelines, a special marker wi
       <path d="M58 40H22" stroke-width="13.2467" stroke-linecap="square"></path>
     </symbol>
     <use href="#icon-safety"></use>
-</svg>COVID Safety Plan</span>
+</svg>COVID安全計画</span>
 
-**Ride participants are expected to follow these rules at rides which agree to this plan.** Should a ride leader set more stringent requirements than are in this COVID Safety Plan policy, **all riders are expected to follow the more stringent policy**. 
+**この計画に同意する走行では、走行参加者はこれらのルールに従うことが期待されます。** 走行リーダーがこのCOVID安全計画ポリシーよりも厳格な要件を設定する場合、**すべてのライダーはより厳格なポリシーに従うことが期待されます**。
 
-If you have questions or concerns about the safety policies for a ride, past or upcoming, reach out to the ride leaders or [contact us](/pages/contact/). Shift reserves the right to moderate calendar listings, and this may include removing the COVID Safety Plan designation from a ride if we are aware that it does not follow this policy.
+走行の安全ポリシーについて質問や懸念がある場合は、過去または今後の走行について、走行リーダーに連絡するか、[お問い合わせください](/pages/contact/)。Shiftはカレンダーリストをモデレートする権利を留保しており、このポリシーに従っていないことを認識している場合、走行からCOVID安全計画の指定を削除することが含まれる場合があります。
 
-Please note: These guidelines have changed over time as conditions and public health guidelines have evolved. For past rides, refer to the [page history](https://github.com/shift-org/shift-docs/commits/main/site/content/pages/public-health.md) on GitHub to determine the version of policies in place at that time.
+注意してください：これらのガイドラインは、状況と公衆衛生ガイドラインが進化するにつれて、時間とともに変更されました。過去の走行については、その時点で実施されていたポリシーのバージョンを確認するために、GitHubの[ページ履歴](https://github.com/shift-org/shift-docs/commits/main/site/content/pages/public-health.md)を参照してください。
 
-*Last updated: May 2023*
+*最終更新：2023年5月*

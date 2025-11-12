@@ -7,44 +7,44 @@ menu:
 ---
 <img src=/images/BonB_header.jpg align=center alt="Breakfast on the Bridges">
 
-On the last Friday of every month, volunteers serve breakfast to bicyclists on the Steel, Flanders, Blumenauer, and Tillikum bridges. Many bike commuters have come to look forward to hot coffee and delicious pastries on their way to work once a month - and you can't beat the views! Note: they generally arrive on the bridges around 7:00 a.m. and stay till 9:00. 
+毎月最終金曜日、ボランティアがSteel、Flanders、Blumenauer、Tillikumの各橋で自転車乗りに朝食を提供します。多くの自転車通勤者は、月に一度、仕事に行く途中でホットコーヒーとおいしいペストリーを楽しみにしています - そして景色は最高です！注：通常、午前7時頃に橋に到着し、午前9時まで滞在します。
 
-Join them for this fun, community-building event. Stop by on your way to work, school, shopping, or wherever you and your bike are going.
+このコミュニティ構築イベントに参加してください。仕事、学校、買い物、またはあなたとあなたの自転車が向かうどこへでも、途中で立ち寄ってください。
 
-## Schedule
+## スケジュール
 
-Breakfast on the Bridges happens **7:00 - 9:00 am on the last Friday of every month**. Well... pretty much. At the end of the year, both BonB's land near major holidays, so the Thanksgiving and Christmas BonB events are combined and placed near St. Lucia's day, Dec 13th.
+Breakfast on the Bridgesは**毎月最終金曜日の午前7時～9時**に開催されます。まあ...ほぼそうです。年末には、BonBの両方が主要な祝日の近くになるため、感謝祭とクリスマスのBonBイベントは組み合わされ、12月13日の聖ルチアの日の近くに配置されます。
 
-They occasionally host pop-up events on other days, so check the [calendar](/calendar/) for the latest!
+時々他の日にポップアップイベントを開催するので、最新情報については[カレンダー](/calendar/)をチェックしてください！
 
-## Locations
+## 場所
 
-### Current Locations
+### 現在の場所
 
-There are four regular serving locations as of 2023:
+2023年時点で4つの定期的な提供場所があります：
 
-1. **Steel Bridge**: Team Steel sets up just East of the entrance to the lower bike/ped path (north end of the Eastbank Esplanade). Great views of the river and downtown skyline. 
-2. **Tillikum Bridge**:  Team Tillikum sets up on the West side of the bridge, under the Red Balloons statue at the junction of S Bond Ave Multi-Use Path and the Bridge.
-3. **Blumenauer Bridge**: Team Blumenauer stations on the North end of the bridge. Now that the Hawthorne Bridge crew has relocated to the Blumenauer Bridge, all 4 BonB locations are car-free!
-4. **Flanders Crossing**: Expanding to four bridges for the first time! Say hi-diddly-ho to your bikey neighbors on one of the city's newest car-free bridges. 
+1. **Steel Bridge**：Team Steelは、下部の自転車/歩行者道への入口の東側（Eastbank Esplanadeの北端）に設置します。川とダウンタウンのスカイラインの素晴らしい景色。
+2. **Tillikum Bridge**：Team Tillikumは、S Bond Ave Multi-Use Pathと橋の接合点にあるRed Balloons像の下、橋の西側に設置します。
+3. **Blumenauer Bridge**：Team Blumenauerは橋の北端に駐留します。Hawthorne BridgeのクルーがBlumenauer Bridgeに移転したため、4つのBonB場所すべてが車なしになりました！
+4. **Flanders Crossing**：初めて4つの橋に拡大！市内の最新の車なしの橋の1つで、自転車仲間にこんにちはと言いましょう。
 
-### Past Locations
+### 過去の場所
 
-1. **Morrison Bridge**: Breakfast was served on the Morrison for a year or two around 2013–2014.  Thanks to Lance and Paul!
-2. **Broadway Bridge**: Is where the tradition started over a decade ago.  Thanks Carl, Ayleen, and Timo!
-3. **Hawthorne Bridge**: The Hawthorne crew stationed the west end of the bridge for many years, but moved to the Blumenauer Bridge late 2022. Stop by and say hi at their new location!
+1. **Morrison Bridge**：2013年から2014年頃の1、2年間、Morrisonで朝食が提供されました。LanceとPaulに感謝します！
+2. **Broadway Bridge**：10年以上前にこの伝統が始まった場所です。Carl、Ayleen、Timoに感謝します！
+3. **Hawthorne Bridge**：Hawthorneクルーは長年橋の西端に駐留していましたが、2022年後半にBlumenauer Bridgeに移動しました。新しい場所に立ち寄ってこんにちはと言ってください！
 
-## Volunteers
+## ボランティア
 
-BonB is brought to you by a team of bike-fun-loving morning people (and those of us who drink enough coffee to resemble morning people). It takes many hands and much energy to deliver breakfast to so many cyclists in the morning and they love to share the work load opportunity to spread joy. There's much brewing, baking, and donation retrieval to be done, but if you're not the type who plans ahead just show up and put your friendly smile to use - they always enjoy company on the bridges! If you're interested in helping out, [get in touch with BonB volunteers](mailto:bonb@lists.riseup.net).
+BonBは、自転車の楽しみを愛する朝型人間のチーム（そして朝型人間に似るために十分なコーヒーを飲む私たちの一部）によって提供されています。朝に多くのサイクリストに朝食を提供するには、多くの手と多くのエネルギーが必要で、彼らは喜びを広げる仕事量の機会を共有するのが大好きです。醸造、ベーキング、寄付の回収など、やるべきことがたくさんありますが、事前に計画するタイプでない場合は、ただ現れて友好的な笑顔を使ってください - 彼らは常に橋での仲間を楽しんでいます！手伝うことに興味がある場合は、[BonBボランティアに連絡してください](mailto:bonb@lists.riseup.net)。
 
-BonB is planned and organized through the occasional meeting and plenty of electronic correspondence through the [BonB mailing list](https://lists.riseup.net/www/info/bonb). Maybe handing out breakfast before the sun comes up isn't your thing? They're always looking for friendly and creative folks to help find donors, pick up and drop off donations, and promote BonB via creative signs and feeding logistics.
+BonBは、時折の会議と[BonBメーリングリスト](https://lists.riseup.net/www/info/bonb)を通じた豊富な電子通信を通じて計画および組織されています。太陽が昇る前に朝食を配るのはあなたのことではないですか？彼らは常に、寄付者を見つけたり、寄付を受け取ったり配達したり、創造的な標識や給餌ロジスティクスを通じてBonBを宣伝したりするのを手伝ってくれる友好的で創造的な人々を探しています。
 
-## Donors
+## 寄付者
 
-Free breakfast doesn't grow on trees! Unless it's fruit... BonB is happy to have the support of several local coffee and pastry shops as well as other food donors. And they're always looking for more! If you'd like to contribute to Breakfast on the Bridges, please [contact them](mailto:bonb@lists.riseup.net)!
+無料の朝食は木に生えません！果物でない限り...BonBは、地元のいくつかのコーヒーとペストリーショップおよびその他の食品寄付者のサポートを持って幸せです。そして、彼らは常にもっと探しています！Breakfast on the Bridgesに貢献したい場合は、[連絡してください](mailto:bonb@lists.riseup.net)！
 
-#### Recent Donors
+#### 最近の寄付者
 
 * [Rose City Coffee Company](https://www.rosecitycoffeecompany.com)
 * [Spielman Bagels and Cafe](https://www.spielmanbagels.com/)
@@ -63,7 +63,7 @@ Free breakfast doesn't grow on trees! Unless it's fruit... BonB is happy to have
 * [Coco Donuts](https://www.cocodonuts.com/)
 * [Saint Cupcake](https://www.saintcupcake.com/)
 
-#### Past Donors
+#### 過去の寄付者
 
 * [Elephant's Delicatessen](https://www.elephantsdeli.com/)
 * [Sunshine Dairy](https://www.sunshinedairyfoods.com/)
@@ -73,30 +73,29 @@ Free breakfast doesn't grow on trees! Unless it's fruit... BonB is happy to have
 * [Sweetpea Baking](https://www.sweetpeabaking.com/)
 * [People's Coop](https://www.peoples.coop/)
 
-Many thanks to these generous friends who make Breakfast on the Bridges possible.
+Breakfast on the Bridgesを可能にするこれらの寛大な友人に多くの感謝を。
 
-## Other
+## その他
 
-Tardy slips are often available for those who are running late. They may not get you out of trouble, but they'll probably lighten the mood. At least you won't be trying to explain yourself on an empty stomach. 
+遅刻している人のために、遅刻届がしばしば利用可能です。トラブルから抜け出すことはできないかもしれませんが、おそらく気分を明るくするでしょう。少なくとも、空腹で自分自身を説明しようとする必要はありません。
 
-BonB Superhero trading cards (on hand at special times) are a popular collectible commodity. You can expect them to triple in value over the next ten years. A whole set may someday go for eight times its original value at auction.
+BonBスーパーヒーロートレーディングカード（特別な時期に手元にあります）は人気のある収集品です。今後10年間で価値が3倍になることが期待できます。完全なセットは、いつかオークションで元の価値の8倍になるかもしれません。
 
-And check out [some pictures on Flickr](https://flickr.com/photos/tags/bonb/)!
+そして、[Flickrでいくつかの写真](https://flickr.com/photos/tags/bonb/)をチェックしてください！
 
-## Contact
+## 連絡先
 
 * Facebook: [bonbpdx](https://www.facebook.com/bonbpdx/)
 * Instagram: [@bonbpdx](https://www.instagram.com/bonbpdx/)
 * Mastodon: [@bonbpdx@social.ridetrans.it](https://social.ridetrans.it/@bonbpdx)
 * Bluesky: [@bonbpdx@bsky.social](https://bsky.app/profile/bonbpdx.bsky.social)
 
-## Support
+## サポート
 
-If you'd like to give money to support Breakfast on the Bridges, the below PayPal link is for Breakfast on the Bridges:
+Breakfast on the Bridgesをサポートするために寄付したい場合は、以下のPayPalリンクはBreakfast on the Bridges用です：
 
 <form action="https://www.paypal.com/donate" method="post" target="_blank">
 <input type="hidden" name="hosted_button_id" value="NZ9BJRJ43NMTC" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
