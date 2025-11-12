@@ -6,30 +6,30 @@ menu:
     parent: featuredevents
     name: Bike Summer (Pedalpalooza)
 ---
-## About
+## 概要
 
-[Bike Summer](https://www.bike-summer.org/) (aka Pedalpalooza) is an annual festival in metro Portland, Oregon.  During the festival, there are hundreds of volunteer-organized free bike events.
+[Bike Summer](https://www.bike-summer.org/)（別名Pedalpalooza）は、オレゴン州ポートランド都市圏で開催される年次フェスティバルです。フェスティバル中には、ボランティア主催の無料自転車イベントが数百あります。
 
-<p style="padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2;"><strong>Bike Summer 2025 is on!</strong> This year will be three months of bike fun — June, July, and August! <a href="/addevent/">List your rides now!</a></p>
+<p style="padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2;"><strong>Bike Summer 2025が開催されます！</strong>今年は3ヶ月の自転車の楽しみ — 6月、7月、8月！<a href="/addevent/">今すぐあなたの走行をリストしてください！</a></p>
 
-See all of the rides on the [Bike Summer calendar](/bike-summer-calendar/), and check [Bike-Summer.org](https://www.bike-summer.org/) for more updates!
+すべての走行を[Bike Summerカレンダー](/bike-summer-calendar/)で見て、[Bike-Summer.org](https://www.bike-summer.org/)で更なる更新を確認してください！
 
-## History
+## 歴史
 
-The tradition of a summer bike fun festival in Portland started in summer of 2002, when the nomadic [Bike Summer festival](https://criticalmass.wikia.com/wiki/Bike_Summer!) came to Portland. We had so much fun that we decided we should keep having bike fun festivals and went through a couple of iterations — including [Mini Bike Summer](/archive/pedalpalooza/pedalpalooza-2003/) in 2003 before Pedalpalooza was dreamed up in 2004. It's happened every year since then, and grown quite a bit! It grew from 2 weeks, to 3, to a whole month! After a semi-hiatus in 2020, in 2021 it adopted a three month long format. In 2022 we embraced our roots and went back to the original Bike Summer name.
+ポートランドでの夏の自転車楽しみフェスティバルの伝統は、2002年の夏に始まりました。その時、遊牧の[Bike Summerフェスティバル](https://criticalmass.wikia.com/wiki/Bike_Summer!)がポートランドに来ました。私たちはとても楽しかったので、自転車楽しみフェスティバルを開催し続けることにし、2003年の[Mini Bike Summer](/archive/pedalpalooza/pedalpalooza-2003/)を含むいくつかのイテレーションを経て、2004年にPedalpaloozaが夢見られました。それ以来毎年開催されており、かなり成長しました！2週間から3週間、そして1ヶ月全体に成長しました！2020年の半休止の後、2021年に3ヶ月の長い形式を採用しました。2022年には、私たちは私たちのルーツを受け入れ、元のBike Summer名に戻りました。
 
-## Past Festivals
+## 過去のフェスティバル
 
-Check out the [archives of previous years](/archive/pedal-palooza-archives/) for hundreds of bike fun events from years past.
+過去数年の何百もの自転車楽しみイベントについては、[以前の年のアーカイブ](/archive/pedal-palooza-archives/)を確認してください。
 
-## Contact
+## 連絡先
 
-* Website: [Bike-Summer.org](https://www.bike-summer.org/)
+* ウェブサイト: [Bike-Summer.org](https://www.bike-summer.org/)
 * Instagram: [@pedalpaloozapdx](https://www.instagram.com/pedalpaloozapdx/)
 * Facebook: [pedalpalooza](https://www.facebook.com/pedalpalooza)
 * Bluesky: [@bike-summer.org](https://bsky.app/profile/bike-summer.org)
-* Email: [bikesummerPDX@gmail.com](mailto:bikesummerPDX@gmail.com)
+* メール: [bikesummerPDX@gmail.com](mailto:bikesummerPDX@gmail.com)
 
-## Support
+## サポート
 
-Help make Bike Summer happen! [Donate to support Bike Summer.]({{% param "festival.donationsURL" %}})
+Bike Summerの実現を手助けしてください！[Bike Summerをサポートするために寄付してください。]({{% param "festival.donationsURL" %}})

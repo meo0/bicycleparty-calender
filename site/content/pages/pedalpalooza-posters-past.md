@@ -1,9 +1,9 @@
 ---
-title: Pedalpalooza Posters Past
+title: 過去のPedalpaloozaポスター
 draft: false
 weight: '12'
 ---
-Each year since 2004 we've commissioned art from local artists to use for posters and other related imagery.  Here's the gallery with links to artists where possible.
+2004年以来、毎年地元のアーティストにポスターやその他の関連画像用のアートを依頼しています。可能な限りアーティストへのリンク付きのギャラリーはこちらです。
 
 ## 2004
 ![2004 poster](/images/pp/posters/pp2004full.jpg)

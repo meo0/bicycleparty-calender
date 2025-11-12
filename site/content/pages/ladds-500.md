@@ -7,28 +7,28 @@ menu:
     parent: featuredevents
 ---
 
-## About
+## 概要
 
-> It's not a race, it's a relay
+> レースではなく、リレーです
 
-The Ladd's 500 is a free, one day, bicycle-themed public picnic and non-competitive bicycle relay event where teams complete 500 [laps around Ladd Circle](https://ridewithgps.com/routes/12292312).
+Ladd's 500は、無料で1日間の自転車をテーマにした公共ピクニックと非競争的な自転車リレーイベントで、チームが[Ladd Circleの周り](https://ridewithgps.com/routes/12292312)を500周完了します。
 
-500 laps of [Ladd Circle](https://www.portland.gov/parks/ladd-circle-park-and-rose-gardens) is a century (100 miles). Form teams of at least one person, switch riders or bikes at least 10 times during your laps, and turn left for a while. If you're not riding, party in the middle. 
+[Ladd Circle](https://www.portland.gov/parks/ladd-circle-park-and-rose-gardens)の500周は100マイル（センチュリー）です。少なくとも1人のチームを編成し、周回中に少なくとも10回ライダーまたは自転車を切り替え、しばらく左折してください。走っていない場合は、真ん中でパーティーをしてください。
 
-## Events
+## イベント
 
-> It's spring, let's do something stupid.
+> 春だから、何かバカなことをしよう。
 
-The Ladd's 500 is annual event. It takes place on the Saturday after the second Friday in April (i.e. the day after the April [Midnight Mystery Ride](/pages/mmr/)). Check the [calendar](/calendar/) to find details on the latest event!
+Ladd's 500は年次イベントです。4月の第2金曜日の翌日の土曜日（つまり、4月の[Midnight Mystery Ride](/pages/mmr/)の翌日）に開催されます。最新イベントの詳細については、[カレンダー](/calendar/)を確認してください！
 
-## Contact
+## 連絡先
 
-* Website: [Ladds500.com](https://ladds500.com/)
+* ウェブサイト: [Ladds500.com](https://ladds500.com/)
 * Instagram: [@ladds500](https://www.instagram.com/ladds500/)
 * Bluesky: [@ladds500.com](https://bsky.app/profile/ladds500.com)
 * Umbrella: [The Ladd's 500](https://www.umbrellapdx.org/projects)
 
-## Support
+## サポート
 
-Help make The Ladd's 500 happen! <a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=JB8YUKRB2KPV4" target="_blank">Donate to support The Ladd's 500</a>.
+The Ladd's 500の実現を手助けしてください！<a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=JB8YUKRB2KPV4" target="_blank">The Ladd's 500をサポートするために寄付</a>してください。
 

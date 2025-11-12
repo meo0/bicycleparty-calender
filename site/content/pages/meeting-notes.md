@@ -1,5 +1,5 @@
 ---
-title: Meeting notes
+title: 会議ノート
 date: 2018-11-11T15:19:34.000Z
 weight: 4
 menu:
@@ -7,25 +7,25 @@ menu:
     parent: aboutmenu
 ---
 
-## Meeting notes
+## 会議ノート
 
 
-Shift's operations have been facilitated by a board of directors since July 2018. All of the most recent notes for meetings held during 2021 and onward can be found here:
+Shiftの運営は、2018年7月以来、理事会によって促進されています。2021年以降に開催された会議の最新のノートはすべてここにあります：
 
-* [Google Drive link](https://drive.google.com/drive/folders/1RP9pl_sU_VelT_H-3a_9WyL8FsHLHVIv?usp=sharing)
+* [Google Driveリンク](https://drive.google.com/drive/folders/1RP9pl_sU_VelT_H-3a_9WyL8FsHLHVIv?usp=sharing)
 
-The meeting notes for the board from 2018-2020 can be found here:
+2018年から2020年までの理事会の会議ノートはここにあります：
 
-* [Google Drive link](https://drive.google.com/drive/folders/1Ap4BIWV2usuA_XqiGGM-HStbVjyisomD)
+* [Google Driveリンク](https://drive.google.com/drive/folders/1Ap4BIWV2usuA_XqiGGM-HStbVjyisomD)
 
-There are also [many years of legacy Shift meeting notes from 200x until 2014 or so](/archive/meeting-notes-archive/), when there was less organization.
+また、[200xから2014年頃までの多年のレガシーShift会議ノート](/archive/meeting-notes-archive/)もあり、その時はより少ない組織でした。
 
 
-## Playbooks
+## プレイブック
 
-Shift tries to be a transparent organization.  Here's some guides on how we run things.
+Shiftは透明な組織であろうとしています。私たちが物事を運営する方法についてのガイドをいくつか紹介します。
 
-- [What goes into facilitating Pedalpalooza](/playbooks/pedalpalooza-playbook/)
-- [How we work with fiscal sponsor Umbrella](/playbooks/shift-umbrella-playbook/)
-- [How we do social media](/playbooks/social-media-playbook/)
-- [Running our website and other related stuff](/playbooks/technology-playbook/)
+- [Pedalpaloozaを促進するために何が必要か](/playbooks/pedalpalooza-playbook/)
+- [財政スポンサーUmbrellaとどのように協力するか](/playbooks/shift-umbrella-playbook/)
+- [ソーシャルメディアをどのように行うか](/playbooks/social-media-playbook/)
+- [ウェブサイトとその他の関連するものを実行する](/playbooks/technology-playbook/)
