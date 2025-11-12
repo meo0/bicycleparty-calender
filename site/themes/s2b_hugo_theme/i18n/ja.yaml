@@ -1,0 +1,71 @@
+- id: home
+  translation: "ホーム"
+
+- id: templateBy
+  translation: "テンプレート提供:"
+
+- id: portedBy
+  translation: "Hugo移植:"
+
+- id: contactGoTo
+  translation: "お問い合わせページへ"
+
+- id: contactAddrTitle
+  translation: "住所"
+
+- id: contactTitle
+  translation: "お問い合わせ"
+
+- id: contactForm
+  translation: "お問い合わせフォーム"
+
+- id: contactName
+  translation: "お名前"
+
+- id: contactMail
+  translation: "メールアドレス"
+
+- id: contactMessage
+  translation: "メッセージ"
+
+- id: contactSend
+  translation: "送信"
+
+- id: navHome
+  translation: "ホームページへ戻る"
+
+- id: navToggle
+  translation: "ナビゲーション切り替え"
+
+- id: categoriesTitle
+  translation: "カテゴリー"
+
+- id: searchTitle
+  translation: "検索"
+
+- id: tagsTitle
+  translation: "タグ"
+
+- id: continueReading
+  translation: "続きを読む"
+
+- id: readMore
+  translation: "もっと読む"
+
+- id: authorBy
+  translation: "投稿者:"
+
+- id: recentPosts
+  translation: "最近の投稿"
+
+- id: aboutUs
+  translation: "私たちについて"
+
+- id: newer
+  translation: "新しい"
+
+- id: older
+  translation: "古い"
+
+- id: publishedOn
+  translation: "公開日:"
