@@ -56,19 +56,19 @@ disableKinds = ["taxonomy", "term"]
     parent = "カレンダー"
 
 [[menu.main]]
-    name = "Featured Events"
+    name = "オススメ"
     url  = ""
     weight = 2
     identifier = "featuredevents"
 
 [[menu.main]]
-    name = "Community"
+    name = "コミュニティ"
     url  = ""
     weight = 3
     identifier = "communitynav"
 
 [[menu.main]]
-    name = "About"
+    name = "BacyclePartyについて"
     url  = "/about/"
     weight = 6
     identifier = "aboutmenu"
