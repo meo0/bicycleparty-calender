@@ -2,9 +2,9 @@
 title: Bike Summer
 weight: 1
 menu:
-  main:
-    parent: featuredevents
-    name: Bike Summer (Pedalpalooza)
+#  main:
+    #parent: featuredevents
+    #name: Bike Summer (Pedalpalooza)
 ---
 ## 概要
 

@@ -1,10 +1,10 @@
 ---
 title: Ladd's 500
-draft: false
+draft: true
 weight: 6
-menu:
-  main:
-    parent: featuredevents
+# menu:
+#   main:
+#     parent: featuredevents
 ---
 
 ## 概要

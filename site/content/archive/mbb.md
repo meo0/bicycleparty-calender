@@ -1,9 +1,9 @@
 ---
 title: Move By Bike
 weight: 8
-menu:
-  main:
-    parent: featuredevents
+#menu:
+  #main:
+    #parent: featuredevents
 ---
 
 <img src="/images/move_by_bike_logo.jpg" alt="move by bike logo" style="float: right;">

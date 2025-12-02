@@ -2,9 +2,9 @@
 title: World Naked Bike Ride
 draft: false
 weight: 5
-menu:
-  main:
-    parent: featuredevents
+#menu:
+  #main:
+    #parent: featuredevents
 ---
 
 ## 世界中で

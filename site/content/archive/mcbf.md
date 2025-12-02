@@ -2,9 +2,9 @@
 title: Multnomah County Bike Fair
 draft: false
 weight: 7
-menu:
-  main:
-    parent: featuredevents
+#menu:
+  #main:
+    #parent: featuredevents
 ---
 ![mcbf header banner](/images/mcbf_entry_banner.jpg?classes=shadow&align=center)
 

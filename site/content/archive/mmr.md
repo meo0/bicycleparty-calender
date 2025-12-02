@@ -2,9 +2,9 @@
 title: "Midnight Mystery Ride"
 draft: false
 weight: 3
-menu:
-    main:
-        parent: featuredevents
+#menu:
+    #main:
+        #parent: featuredevents
 ---
 
 ## 概要

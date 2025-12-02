@@ -68,7 +68,7 @@ disableKinds = ["taxonomy", "term"]
     identifier = "communitynav"
 
 [[menu.main]]
-    name = "BacyclePartyについて"
+    name = "BicyclePartyについて"
     url  = "/about/"
     weight = 6
     identifier = "aboutmenu"

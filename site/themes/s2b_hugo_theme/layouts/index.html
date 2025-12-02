@@ -1,12 +1,12 @@
 {{ define "main" }}
-      {{ partial "carousel.html" . }}
+{{ partial "carousel.html" . }}
 
-      {{ partial "cal/up-next.html" . }}
+{{ partial "cal/up-next.html" . }}
 
-      {{ partial "alert_banner.html" . }}
+{{ partial "alert_banner.html" . }}
 
-      {{ partial "sponsors.html" . }}
+{{ partial "sponsors.html" . }}
 
-      {{/* include the .md file content if any */}}
-      {{ .Content }}
+{{/* include the .md file content if any */}}
+{{ .Content }}
 {{ end }}

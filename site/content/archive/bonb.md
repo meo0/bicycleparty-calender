@@ -1,9 +1,9 @@
 ---
 title: Breakfast on the Bridges
 weight: 4
-menu:
-  main:
-    parent: featuredevents
+#menu:
+  #main:
+    #parent: featuredevents
 ---
 <img src=/images/BonB_header.jpg align=center alt="Breakfast on the Bridges">
 
