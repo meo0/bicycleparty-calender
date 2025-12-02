@@ -31,14 +31,6 @@ disableKinds = ["taxonomy", "term"]
     identifier = ""
     parent = "カレンダー"
 
-# Child of Calendar
- [[menu.main]]
-    name = "イベント (Beta)"
-    url  = "/events/beta/"
-    weight = 1
-    identifier = ""
-    parent = "カレンダー"
-
  # Child of Calendar
  [[menu.main]]
     name = "イベントを追加"
@@ -47,13 +39,6 @@ disableKinds = ["taxonomy", "term"]
     identifier = ""
     parent = "カレンダー"
 
- # Child of Calendar
- [[menu.main]]
-    name = "Bike Summer (Pedalpalooza) calendar"
-    url  = "/bike-summer-calendar/"
-    weight = 3
-    identifier = ""
-    parent = "カレンダー"
 
 [[menu.main]]
     name = "オススメ"
