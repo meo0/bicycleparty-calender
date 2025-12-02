@@ -1,0 +1,70 @@
+<script type="text/javascript">
+  {{/*
+    this partial is used by the home page layout.
+    defaults to month view instead of week view.
+  */}}
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('fullcalendar');
+    var params = parseURL();
+
+    var default_view = 'dayGridMonth';
+    switch (params['view']) {
+      case 'day':
+        default_view = 'timeGridDay';
+        break;
+      case 'week':
+        default_view = 'timeGridWeek';
+        break;
+      case 'month':
+        default_view = 'dayGridMonth';
+        break;
+    }
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      plugins: [ 'dayGrid', 'timeGrid' ],
+      defaultView: default_view,
+      header: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'dayGridMonth,timeGridWeek,timeGridDay'
+      },
+      defaultDate: params['startdate'],
+      nowIndicator: true,
+      eventLimit: true,
+      navLinks: true,
+      eventSources: [
+        {
+          url: '{{ absURL "api/events.php" }}',
+          startParam: 'startdate',
+          endParam: 'enddate',
+          success: function( content ) {
+            // our API returns { "events": [ ] }
+            // and this will return just the inner array as fullcalendar expects
+            return content.events;
+          },
+          eventDataTransform: function( eventData ) {
+            // this transforms the data for individual rides
+            // into the format needed by fullcalendar
+            var event = {
+                id: eventData.caldaily_id,
+                title: (eventData.tinytitle ? eventData.tinytitle : eventData.title),
+                start: eventData.date + 'T' + eventData.time,
+                url: '/calendar/event-' + eventData.caldaily_id,
+            };
+
+            event.classNames = [];
+            if (eventData.cancelled == true) {
+              event.classNames.push('cancelled');
+            }
+            if (eventData.featured == true) {
+              event.classNames.push('featured');
+            }
+            return event;
+          },
+        }
+      ]
+    });
+
+    calendar.render();
+  });
+</script>
