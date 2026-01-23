@@ -19,9 +19,11 @@ const menu = { ...siteInfo.menu }; // *copy* in case we want the original
 if (menu.calendar) {
   menu.about.kids["calendar-faq"] = menu.calendar.kids["calendar-faq"];
   delete menu.calendar;
+  /*
   menu.subscribe = {  
     name: "Subscribe",
   }
+  */
 }
 
 const logo = "/img/cal/logos/shift-logo.svg#shift-logo";
@@ -44,7 +46,7 @@ export default {
   },
   // default page data when not provided by a particular view.
   defaultPageInfo: {
-    title:  "Shift",
+    title:  "Bicycle Party",
     desc: "Shift’s mission is to promote inclusive bike fun.",
     returnLink: false,
     // wait till the page loads to set a banner
@@ -57,5 +59,5 @@ export default {
   menu: menu,
   disclaimer: siteInfo.disclaimer,  
   socialapi: "/socialapi/",
-  title: "Shift",
+  title: "Bicycle Party",
 };

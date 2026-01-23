@@ -1,32 +1,32 @@
 {{ define "main" }}
-      <div id="content">
-        <div class="container">
-          <div class="row">
-            {{ block "page_body" . }}
-            {{ end }}
-          </div>{{/* /.row */}}
-        </div>{{/* /.container */}}
-      </div>{{/* /#content */}}
+<div id="content">
+  <div class="container">
+    <div class="row">
+      {{ block "page_body" . }}
+      {{ end }}
+    </div>{{/* /.row */}}
+  </div>{{/* /.container */}}
+</div>{{/* /#content */}}
 {{ end }}
 {{ define "page_body" }}
-            <div class="col-md-12">
+<div class="col-md-12">
 
-              <div>
-                {{ .Content }}
-              </div>
+  <div>
+    {{ .Content }}
+  </div>
 
-              {{ partial "cal/shift-feed.html" . }}
-              {{ partial "cal/view-options.html" . }}
 
-              <div id="fullcalendar"></div>
+  {{ partial "cal/view-options.html" . }}
 
-              {{ partial "alert_banner.html" . }}
+  <div id="fullcalendar"></div>
 
-              {{ partial "disclaimer.html" . }}
+  {{ partial "alert_banner.html" . }}
 
-            </div>
+  {{ partial "disclaimer.html" . }}
+
+</div>
 {{ end }}
 {{ define "postscript" }}
-  {{ partial "cal/scripts.html" . }}
-  {{ partial "cal/fullcal-home.html" . }}
+{{ partial "cal/scripts.html" . }}
+{{ partial "cal/fullcal-home.html" . }}
 {{ end }}

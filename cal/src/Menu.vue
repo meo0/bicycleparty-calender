@@ -80,11 +80,7 @@ export default {
           </li>
         </ul>
         <div v-else class="c-menu-item_kids" role="presentation">
-          <div class="c-subscribe" role="menuitem">
-            <p>Want to see rides using your device's calendar?</p>
-            <p><a class="c-subscribe__button" href="webcal://www.shift2bikes.org/cal/shift-calendar.php">Subscribe to the Shift calendar</a></p>
-            <p>If the subscribe link doesn't automatically open your calendar app, see other ways to <a href="/pages/calendar-faq/#subscribing-to-the-calendar">subscribe.</a></p>
-          </div>
+       <!-- subscribe removed -->
         </div>
       </template>
     </li>

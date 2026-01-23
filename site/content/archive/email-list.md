@@ -7,7 +7,7 @@ menu:
 ---
 ## 概要
 
-[走行カレンダー](/calendar/)に加えて、Shiftは[メール討論リスト](https://lists.riseup.net/www/info/shift)も管理しています。Shiftのリストは、自転車に関するあらゆることについて話す素晴らしい場所です：自分の走行を宣伝したり、[Pedalpalooza](/pages/pedalpalooza/)について計画したり、自転車ルートについてのアドバイスを得たり、自転車の楽しみに対する危険について警告したり、その他自転車に関連することなら何でも。
+[走行カレンダー](/calendar/)に加えて、Bicycle Partyは[メール討論リスト](https://lists.riseup.net/www/info/shift)も管理しています。Bicycle Partyのリストは、自転車に関するあらゆることについて話す素晴らしい場所です：自分の走行を宣伝したり、[Pedalpalooza](/pages/pedalpalooza/)について計画したり、自転車ルートについてのアドバイスを得たり、自転車の楽しみに対する危険について警告したり、その他自転車に関連することなら何でも。
 
 ## 参加
 

@@ -72,7 +72,7 @@ MAX_TRIES=5
 function nodeIsReady() {
   # todo: need a new docker version to use --since
   # use --since 1 minute to try to filter out old log messages
-  sub_compose logs node | grep "SHIFT to Bikes listening"
+  sub_compose logs node | grep "listening at"
 }
 
 function waitUntilServiceIsReady() {

@@ -37,7 +37,7 @@ const config = {
   // a nodemailer friendly config, or false if smtp is not configured.
   smtp: getSmtpSettings(),
   site: {
-    name: "SHIFT to Bikes",
+    name: "Bicycle Party",
     listen,
     path: "/",
     // used for crawl url, shareable links, and the manage url sent in email
@@ -74,7 +74,7 @@ const config = {
   // https://nodemailer.com/message/addresses/
   email: {
     sender: {
-      name: 'SHIFT to Bikes',
+      name: 'Bicycle Party',
       address: 'bikefun@shift2bikes.org'
     },
     // the confirmation emailer sets this as the reply-to
@@ -117,7 +117,7 @@ const config = {
   },
   crawl: {
     image: 'https://www.shift2bikes.org/images/shiftLogo_plain.gif',
-    title: 'Shift/Pedalpalooza Calendar',
+    title: 'Bicycle Party/Pedalpalooza Calendar',
     description: `Find fun bike events and make new friends!` +
       `Shift helps groups and individuals to promote their "bike fun" events.`,
   },
@@ -129,7 +129,7 @@ const config = {
       filename: 'pedalpalooza-calendar',
     },
     shift: {
-      name: 'Shift Community Calendar',
+      name: 'Bicycle Party Community Calendar',
       desc: 'Find fun bike events all year round.',
       guid: 'community@shift2bikes.org',
       filename: 'shift-calendar',

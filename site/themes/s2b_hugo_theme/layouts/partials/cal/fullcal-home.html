@@ -1,9 +1,11 @@
 <script type="text/javascript">
-  {{/*
+  {
+    {/*
     this partial is used by the home page layout.
     defaults to month view instead of week view.
-  */}}
-  document.addEventListener('DOMContentLoaded', function() {
+  */}
+  }
+  document.addEventListener('DOMContentLoaded', function () {
     var calendarEl = document.getElementById('fullcalendar');
     var params = parseURL();
 
@@ -21,7 +23,8 @@
     }
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      plugins: [ 'dayGrid', 'timeGrid' ],
+      plugins: ['dayGrid', 'timeGrid'],
+      locale: 'ja',
       defaultView: default_view,
       header: {
         left: 'prev,next today',
@@ -37,19 +40,19 @@
           url: '{{ absURL "api/events.php" }}',
           startParam: 'startdate',
           endParam: 'enddate',
-          success: function( content ) {
+          success: function (content) {
             // our API returns { "events": [ ] }
             // and this will return just the inner array as fullcalendar expects
             return content.events;
           },
-          eventDataTransform: function( eventData ) {
+          eventDataTransform: function (eventData) {
             // this transforms the data for individual rides
             // into the format needed by fullcalendar
             var event = {
-                id: eventData.caldaily_id,
-                title: (eventData.tinytitle ? eventData.tinytitle : eventData.title),
-                start: eventData.date + 'T' + eventData.time,
-                url: '/calendar/event-' + eventData.caldaily_id,
+              id: eventData.caldaily_id,
+              title: (eventData.tinytitle ? eventData.tinytitle : eventData.title),
+              start: eventData.date + 'T' + eventData.time,
+              url: '/calendar/event-' + eventData.caldaily_id,
             };
 
             event.classNames = [];
