@@ -12,7 +12,7 @@ menu:
 
 <p style="padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2;"><strong>Bike Summer 2025が開催されます！</strong>今年は3ヶ月の自転車の楽しみ — 6月、7月、8月！<a href="/addevent/">今すぐあなたの走行をリストしてください！</a></p>
 
-すべての走行を[Bike Summerカレンダー](/bike-summer-calendar/)で見て、[Bike-Summer.org](https://www.bike-summer.org/)で更なる更新を確認してください！
+すべての走行を[Bike-Summer.org](https://www.bike-summer.org/)で更なる更新を確認してください！
 
 ## 歴史
 

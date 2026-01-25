@@ -70,32 +70,37 @@ disableKinds = ["taxonomy", "term"]
     # forceCurrentTime =  "06-13-2024 19:00"
 
     # used by footer.html
-    about = "Bicycle Partyは<a href='https://www.umbrellapdx.org/' rel='external'>Umbrella</a>のプロジェクトです。"
-    copyright = "Photo credit to Eric Thornburg | Insta <a href='https://www.instagram.com/no.lens.cap/' rel='external'>@no.lens.cap</a> | eric@kd5vmo.com"
+    # NOTE: 協力団体が決まったら、ここにリンクを追加できます
+    # 例: about = "Bicycle Partyは<a href='https://example.org/' rel='external'>団体名</a>と協力して運営しています。"
+    about = "Bicycle Partyは筑波大学ADPプロジェクトの一環として開発されています。"
+    # NOTE: 写真クレジットが必要な場合はここに記載
+    copyright = ""
 
     # notice used by disclaimer.html
-    disclaimer = "Bicycle Partyはこのカレンダーを公共サービスとして運営しています。ライドやイベントはコミュニティメンバーによって投稿されており、Bicycle Partyによるものではありません。Bicycle Partyのカレンダーに投稿されたライドやイベントは、Bicycle Partyまたはその財政スポンサーであるUmbrellaによって主催されているわけではありません。"
+    disclaimer = "Bicycle Partyはこのカレンダーを公共サービスとして運営しています。ライドやイベントはコミュニティメンバーによって投稿されており、Bicycle Party運営チームによるものではありません。"
 
     # Format dates with Go's time formatting ( used by layout/list )
     date_format = "2006年1月2日"
 
     # Logo for the main page and 404 header
+    # NOTE: つくば市/BicycleParty用のロゴ画像を用意したらパスを変更してください
     logo = "images/shift-logo-large.jpg"
 
-    # mastodon verification
-    verificationURL = "https://pdx.social/@shift2bikes"
+    # SNS verification (設定する場合はURLを記載)
+    # verificationURL = ""
 
-# links for accepting donations
-[params.donations]
-    primaryURL = "https://www.zeffy.com/donation-form/donate-to-shift"
-    secondaryURL = "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=BNL2NY7U8GH3Q"
+# NOTE: 寄付機能が必要になったら以下のコメントを解除してURLを設定
+# [params.donations]
+#     primaryURL = ""
+#     secondaryURL = ""
 
-# Festival details
+# Festival details (特別イベント期間用の設定)
+# NOTE: フェスティバル名が決まったら変更してください
 [params.festival]
-    name = "Bike Summer"
-    active = true # set to true when festival is happening soon or now
+    name = "（イベント名未定）"
+    active = false # set to true when festival is happening soon or now
     merchSaleActive = false # set to true when merch sales are open
-    donationsURL = "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=NQAUFEUSM49ZJ"
+    # donationsURL = ""
 
 # Main page image carousel
 [params.carousel]

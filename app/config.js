@@ -64,23 +64,27 @@ const config = {
       // loads http://localhost:3080/events/index.html
       url: "/events/:series_id/:caldaily_id/:slug?",
       filePath: path.posix.resolve(staticFiles, 'events', 'index.html')
-    },{
-      url: "/socialapi",
-      remoteUrl: "https://pdx.social/@shift2bikes.rss",
-    }],
+    },
+    // NOTE: SNSフィードを設定する場合は以下のコメントを解除
+    // {
+    //   url: "/socialapi",
+    //   remoteUrl: "https://example.com/feed.rss",
+    // }
+    ],
   },
   // various useful email addresses
   // ( for sendConfirmationEmail() )
   // https://nodemailer.com/message/addresses/
+  // NOTE: メールアドレスが決まったら以下を更新してください
   email: {
     sender: {
       name: 'Bicycle Party',
-      address: 'bikefun@shift2bikes.org'
+      address: 'contact@example.com' // TODO: 実際のメールアドレスに変更
     },
     // the confirmation emailer sets this as the reply-to
-    support: "bikecal@shift2bikes.org",
+    support: "contact@example.com", // TODO: 実際のメールアドレスに変更
     // the confirmation emailer blind copies this address
-    moderator: "shift-event-email-archives@googlegroups.com",
+    moderator: "contact@example.com", // TODO: 実際のメールアドレスに変更
     logfile: function() {
       const logfile = env_default('SHIFT_EMAIL_LOG');
       return logfile ? path.resolve(appPath, logfile) : false;
@@ -116,30 +120,33 @@ const config = {
     },
   },
   crawl: {
-    image: 'https://www.shift2bikes.org/images/shiftLogo_plain.gif',
-    title: 'Bicycle Party/Pedalpalooza Calendar',
-    description: `Find fun bike events and make new friends!` +
-      `Shift helps groups and individuals to promote their "bike fun" events.`,
+    // NOTE: OGP画像URLを設定してください
+    image: '/images/shift-logo-large.jpg',
+    title: 'Bicycle Party - つくば市自転車イベントカレンダー',
+    description: '楽しい自転車イベントを見つけよう！' +
+      'Bicycle Partyは、つくば市の自転車イベント情報を共有するコミュニティです。',
   },
   cal: {
+    // NOTE: 特別イベント用カレンダー（フェスティバル名が決まったら更新）
     pedalp: {
-      name: 'Pedalpalooza Bike Calendar',
-      desc: 'Find fun Pedalpalooza bike events!',
-      guid: 'shift@shift2bikes.org',
-      filename: 'pedalpalooza-calendar',
+      name: 'Bicycle Party 特別イベントカレンダー',
+      desc: '特別イベント期間中の自転車イベントを探そう！',
+      guid: 'event@bicycleparty.example.com', // TODO: 実際のドメインに変更
+      filename: 'bicycleparty-event-calendar',
     },
     shift: {
-      name: 'Bicycle Party Community Calendar',
-      desc: 'Find fun bike events all year round.',
-      guid: 'community@shift2bikes.org',
-      filename: 'shift-calendar',
+      name: 'Bicycle Party コミュニティカレンダー',
+      desc: '年間を通じた自転車イベントを探そう。',
+      guid: 'community@bicycleparty.example.com', // TODO: 実際のドメインに変更
+      filename: 'bicycleparty-calendar',
     },
     // shared properties:
     base: {
       ext: '.ics',
       maxage: 60*60*3, // 3 hours
       // the software that created the calendar
-      prod: '-//shift2bikes.org//NONSGML shiftcal v2.1//EN',
+      // NOTE: 実際のドメインに変更してください
+      prod: '-//bicycleparty.example.com//NONSGML bicycleparty-cal v1.0//JP',
     },
   },
 };
