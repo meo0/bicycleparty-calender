@@ -3,6 +3,7 @@ title: 参加する
 weight: "1"
 menu:
   main:
+    identifier: get-involved-page
     parent: communitynav
 ---
 BicyclePartyは、敬意を持ったすべての参加者を歓迎します。参加する方法はたくさんあります：

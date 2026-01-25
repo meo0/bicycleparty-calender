@@ -3,6 +3,7 @@ title: 参加する
 weight: 6
 menu:
   main:
+    identifier: donate-page
     parent: aboutmenu
 ---
 ## 一緒に活動しませんか？

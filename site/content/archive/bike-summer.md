@@ -32,4 +32,4 @@ menu:
 
 ## サポート
 
-Bike Summerの実現を手助けしてください！[Bike Summerをサポートするために寄付してください。]({{% param "festival.donationsURL" %}})
+Bike Summerの実現を手助けしてください！詳細は[Bike Summer公式サイト](https://www.bike-summer.org/)をご確認ください。
