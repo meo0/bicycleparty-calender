@@ -72,7 +72,7 @@ disableKinds = ["taxonomy", "term"]
     # used by footer.html
     # NOTE: 協力団体が決まったら、ここにリンクを追加できます
     # 例: about = "Bicycle Partyは<a href='https://example.org/' rel='external'>団体名</a>と協力して運営しています。"
-    about = "Bicycle Partyは筑波大学ADPプロジェクトの一環として開発されています。"
+    about = "Bicycle Partyは筑波大学ADPプロジェクトの一環として開発されています。本サイトは<a href='https://github.com/shift-org/shift-docs' rel='external'>Shift2Bikes</a>のオープンソースプロジェクトをベースにローカライズしたものです。"
     # NOTE: 写真クレジットが必要な場合はここに記載
     copyright = ""
 

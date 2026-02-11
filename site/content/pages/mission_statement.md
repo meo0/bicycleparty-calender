@@ -19,6 +19,8 @@ menu:
 
 2025年4月、筑波大学のArtDesignProduceという授業のプロジェクトとして開始されました。
 
+本サイトは、ポートランドの自転車コミュニティ [Shift2Bikes](https://www.shift2bikes.org/) が開発・運営するオープンソースプロジェクト [shift-docs](https://github.com/shift-org/shift-docs) をフォークし、日本語にローカライズしたものです。
+
 ## 私たちの活動
 
 BicyclePartyは自転車を通じた活動に興味のある学生が、さまざまなイベントを企画したり、広報活動をしたりしています。
