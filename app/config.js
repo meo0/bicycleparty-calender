@@ -79,12 +79,12 @@ const config = {
   email: {
     sender: {
       name: 'Bicycle Party',
-      address: 'contact@example.com' // TODO: 実際のメールアドレスに変更
+      address: env_default('SMTP_USER', 'contact@example.com')
     },
     // the confirmation emailer sets this as the reply-to
-    support: "contact@example.com", // TODO: 実際のメールアドレスに変更
+    support: env_default('SMTP_USER', 'contact@example.com'),
     // the confirmation emailer blind copies this address
-    moderator: "contact@example.com", // TODO: 実際のメールアドレスに変更
+    moderator: env_default('SMTP_USER', 'contact@example.com'),
     logfile: function() {
       const logfile = env_default('SHIFT_EMAIL_LOG');
       return logfile ? path.resolve(appPath, logfile) : false;
