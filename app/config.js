@@ -190,10 +190,8 @@ function getSmtpSettings() {
     // ( and returns a nodemailer config: https://nodemailer.com/smtp/ )
     return {
       host: host,
-      port:  587,
-      // secure should be true for 465;
-      // false for everything else; and everyone seems to want 587.
-      secure: false,
+      port:  465,
+      secure: true,
       auth: {
         user: env_default('SMTP_USER'),
         pass: env_default('SMTP_PASS'),
