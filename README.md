@@ -1,12 +1,12 @@
-# Overview
+# Bicycle Party Calendar
 
-The purpose of the Shift/Pedalpalooza Calendar is to empower citizens to create and view bike events and to spread bike fun.
+本プロジェクトは、ポートランドの自転車コミュニティ [Shift2Bikes](https://www.shift2bikes.org/) が開発・運営するオープンソースプロジェクト [shift-docs](https://github.com/shift-org/shift-docs) をフォークし、筑波大学 ArtDesignProduce（ADP）の授業プロジェクトとして日本語にローカライズしたものです。
 
-You can see the production site here: [https://www.shift2bikes.org](https://www.shift2bikes.org)
+自転車イベントの作成・閲覧を通じて、自転車の楽しみを広めることを目的としています。
 
 # Software
 
-The calendar is split into two main parts: a frontend, and a backend. The frontend is what most people think of the as the Shift website: it includes all of the webpages and static content. The backend holds all of the user submitted rides, and sends emails to users when they create new rides.
+カレンダーはフロントエンドとバックエンドの2つに分かれています。フロントエンドはWebページと静的コンテンツ、バックエンドはユーザーが投稿したイベントの管理とメール送信を担当しています。
 
 The frontend uses:
 
