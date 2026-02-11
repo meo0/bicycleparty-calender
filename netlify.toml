@@ -1,176 +1,29 @@
 # build settings for netlify
 
-# [build] and [build.environment] are defaults, will apply to all builds unless overridden in a context stanza below
-
 [build]
-  base = "site"
-  # note: this is configured as "public" on netlify.com but this overrides.
-  # perhaps we should adjust hugo and vite to output to that root "public" instead?
   publish = "site/public/"
 
-[build.environment]
-  # extra environment variables if needed.
-
-# we need to manually copy the 404 page over for now, in every environment
-# cf https://github.com/shift-org/shift-docs/issues/862
 [context.deploy-preview]
-  # -D builds draft content for deploy previews
-  # ( the doubledash is needed to pass the argument through to hugo )
-  # cf https://docs.netlify.com/site-deploys/deploy-previews/
   command = 'npm run deploy -- -D'
 
 [context.branch-deploy]
-  # operates on custom branches, same as deploy-preview.
   command = 'npm run deploy -- -D'
 
 [context.production]
-  # see this guide about why we do this funky thing with ssh: 
-  # https://answers.netlify.com/t/support-guide-using-an-ssh-key-via-environment-variable-during-build/2457
-  #
-  # comment out the following command if you are using the Netlify cli locally
-  # and replace with one of the 'npm run deploy' commands from above.
-  #
-  # NOTE: This pulls new code to the api server!
-  # drafts are excluded (no `-D` option) for prod build.  
-  #  
-  command = 'npm run deploy && mkdir -p ~/.ssh && echo -e "${SSH_KEY//_/\\n}" > ~/.ssh/id_rsa && chmod og-rwx ~/.ssh/id_rsa && ssh -v -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no ubuntu@api.shift2bikes.org "cd /opt/shift-docs && ./shift pull" || (echo "you seem to be building without ssh access - see https://github.com/shift-org/shift-docs#netlify-deployment for details" ; /bin/false)'
+  command = 'npm run deploy'
 
-## ---------------------------------------------------------------------------
-## domain redirects to serve alternative domains.  First, we canonicalize
-## so that we can serve just the "best" version (NETLIFY DNS record)
-## such redirects must be first redirects in this file!
-## ---------------------------------------------------------------------------
-
-[[redirects]]
-  from = "https://shift2bikes.com/*"
-  to = "https://www.shift2bikes.org/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.shift2bikes.com/*"
-  to = "https://www.shift2bikes.org/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://shifttobikes.org/*"
-  to = "https://www.shift2bikes.org/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.shifttobikes.org/*"
-  to = "https://www.shift2bikes.org/:splat"
-  status = 301
-  force = true
-
-## ---------------------------------------------------------------------------
-## dynamic backend + event images stored on our API server
-## Solves CORS problems to proxy via Netlify
-## cf https://docs.netlify.com/routing/redirects/rewrites-proxies/
-## ---------------------------------------------------------------------------
-
+# --- APIプロキシ（Railway） ---
 [[redirects]]
   from = "/api/*"
-  to = "https://api.shift2bikes.org/api/:splat"
+  to = "https://YOUR_RAILWAY_APP.up.railway.app/api/:splat"
   status = 200
 
 [[redirects]]
   from = "/eventimages/*"
-  to = "https://api.shift2bikes.org/eventimages/:splat"
+  to = "https://YOUR_RAILWAY_APP.up.railway.app/eventimages/:splat"
   status = 200
 
-[[redirects]]
-  from = "/socialapi/"
-  to = "https://pdx.social/@shift2bikes.rss"
-  status = 200
-
-## ---------------------------------------------------------------------------
-## ical feeds
-## ---------------------------------------------------------------------------
-
-## legacy (people have been using it for years) ical feed for pedalpalooza.
-[[redirects]]
-  from = "/cal/icalpp.php"
-  to = "https://api.shift2bikes.org/api/shift-calendar.php"
-  status = 200
-  force = true
-
-## the official pedalpalooza feed
-[[redirects]]
-  from = "/cal/pedalpalooza-calendar.php"
-  to = "https://api.shift2bikes.org/api/shift-calendar.php"
-  status = 200
-  force = true
-
-## the official "all events" feed.
-[[redirects]]
-  from = "/cal/shift-calendar.php"
-  to = "https://api.shift2bikes.org/api/shift-calendar.php"
-  status = 200
-  force = true
-
-## ---------------------------------------------------------------------------
-## legacy links
-## ---------------------------------------------------------------------------
-
-## we can't translate REALLY legacy links (<2017) - they used some odd format.  
-## But let's at least land on the calendar page in case someone clicks one.
-[[redirects]]
-  from = "/cal/*"
-  to = "/calendar/"
-  status = 301
-
-## a special redirect for a URL that someone made up
-[[redirects]]
-  from = "/calendar/pedalpalooza"
-  to = "/pages/pedalpalooza"
-  status = 301
-
-## old Pedalpalooza page should link to new one
-[[redirects]]
-  from = "/pedalpalooza"
-  to = "/pages/bike-summer"
-  status = 301
-
-## old Pedalpalooza page should link to newer Bike Summer one
-[[redirects]]
-  from = "/pages/pedalpalooza"
-  to = "/pages/bike-summer"
-  status = 301
-
-## Older Pedalpalooza calendar should link to newer Bike Summer one
-[[redirects]]
-  from = "/pedalpalooza-calendar"
-  to = "/bike-summer-calendar"
-  status = 301
-
-## old bike rack webpage linked from PBoT and other offsite pages we can't fix
-[[redirects]]
-  from = "/wiki/shift-shop:rack-rental"
-  to = "/pages/bike-racks/"
-  status = 301
-
-## moved playbooks content onto meeting notes page
-[[redirects]]
-  from = "/pages/playbooks"
-  to = "/pages/meeting-notes"
-  status = 301
-
-#------------------------------------------------------------------------------------
-# handlers for the various "single page applications".
-#
-# these map all urls under a starting path to a single page.
-# ex. all urls starting with /calendar/ to the singular calendar page.
-#
-# currently, those singular pages are generated by hugo or vite.
-# ie. `/calendar/event-ID` is handled by `content/calendar/event.md`
-# and `/addevent/edit-ID-PASSWORD` by `content/addevent.md`
-#
-# note: this only works so long as there is no *actual* page stored at the full url.
-# netlify will serve real pages before processing the redirects.
-#------------------------------------------------------------------------------------
+# --- SPAハンドラー ---
 [[redirects]]
   from = "/addevent/*"
   to = "/addevent"
@@ -184,14 +37,4 @@
 [[redirects]]
   from = "/events/*"
   to = "/events"
-  status = 200
-
-# ---------------------------------------------------------------------------
-# android progressive web app helper
-# https://developers.google.com/digital-asset-links/v1/getting-started
-# ---------------------------------------------------------------------------
-
-[[redirects]]
-  from = "/.well-known/assetlinks.json"
-  to = "/events/assetlinks.json"
   status = 200
