@@ -42,21 +42,15 @@
     };
 
     function populateTimeOptions(currentValue) {
-        var h, m, s, meridian,
+        var h, m, s,
             displayHour, displayMinute;
         var option = {};
         var options = [];
 
-        // add 15 minute increments for entire day: 12:00 AM, 12:15 AM, 12:30 AM, etc.
+        // add 15 minute increments for entire day: 0:00, 0:15, 0:30, etc.
         for ( h = 0; h < 24; h++ ) {
             for ( m = 0; m < 60; m += 15 ) {
-                if ( h === 0 ) {
-                    displayHour = 12;
-                } else if ( h > 12 ) {
-                    displayHour = h - 12;
-                } else {
-                    displayHour = h;
-                }
+                displayHour = h;
 
                 if ( m === 0 ) {
                     displayMinute = '00';
@@ -66,14 +60,8 @@
 
                 s = '00'; // seconds are always zero
 
-                if ( h > 11 ) {
-                    meridian = 'PM';
-                } else {
-                    meridian = 'AM';
-                }
-
                 option = {
-                    time: displayHour + ':' + displayMinute + ' ' + meridian,
+                    time: displayHour + ':' + displayMinute,
                     value: h + ':' + displayMinute + ':' + s
                 };
                 if (h < 10) {
@@ -90,7 +78,7 @@
 
         // special value for "just before midnight"
         option = {
-            time: '11:59 PM',
+            time: '23:59',
             value: '23:59:00'
         };
         if (option.value === currentValue) {
@@ -208,7 +196,7 @@
                         _isFormDirty = false;
                     }
                     if (!isNew) {
-                      $('#success-message').text('Your event has been updated!');
+                      $('#success-message').text('イベントが更新されました！');
                       $('#success-modal').modal('show');
                       // update the image in case it was changed.
                       let imgDisplay = $('div.image-display').find('a');
@@ -220,7 +208,7 @@
                         // hide the edit button on the page
                         $('.edit-buttons').prop('hidden', true);
                         // set the text of the page
-                        $('#mustache-html').html('<p>Event submitted! Check your email to finish publishing your event.</p><p><a href="/calendar/">See all upcoming events</a> or <a href="/addevent/">add another event</a>.</p>');
+                        $('#mustache-html').html('<p>イベントが送信されました！メールを確認してイベントの公開を完了してください。</p><p><a href="/calendar/">今後のイベントを見る</a>または<a href="/addevent/">別のイベントを追加</a></p>');
                         _isFormDirty = false;
                         $('#submit-email').text(postVars.email);
                         $('#submit-modal').modal('show');
@@ -237,14 +225,14 @@
                       // 413 - "Request Entity Too Large" gets sent by nginx above its client_max_body_size;
                       // so the error message sent by flourish.
                       err = {
-                        message: 'There were errors in your fields',
+                        message: '入力内容にエラーがあります',
                         fields: {
-                          file: 'Your image was too large.',
+                          file: '画像のサイズが大きすぎます。',
                         }
                       };
                     } else {
                       err = {
-                       message: 'Server error saving event!'
+                       message: 'イベントの保存中にサーバーエラーが発生しました'
                       };
                     }
                     // munge the "file" errors to be "image" errors
@@ -323,13 +311,13 @@
         var $form = $('#event-entry');
         $.extend(previewEvent, shiftEvent, eventFromForm());
 
-        previewEvent['displayStartTime'] = dayjs(previewEvent['time'], 'hh:mm:ss').format('h:mm A');
+        previewEvent['displayStartTime'] = dayjs(previewEvent['time'], 'HH:mm:ss').format('H:mm');
         if ( previewEvent['eventduration'] ){
-            var endTime = dayjs(previewEvent['time'], 'hh:mm:ss')
+            var endTime = dayjs(previewEvent['time'], 'HH:mm:ss')
                 .add(previewEvent['eventduration'], 'minutes')
                 .format('HH:mm');
             previewEvent['endtime'] = endTime; // e.g. 18:00
-            previewEvent['displayEndTime'] = dayjs(endTime, 'HH:mm').format('h:mm A'); // e.g. 6:00 PM
+            previewEvent['displayEndTime'] = dayjs(endTime, 'HH:mm').format('H:mm');
         }
 
         // set values for print contact fields if enabled
@@ -345,7 +333,6 @@
         });
 
         previewEvent['audienceLabel'] = $form.getAudienceLabel(previewEvent['audience']);
-        previewEvent['length'] += ' miles';
         previewEvent['mapLink'] = $form.getMapLink(previewEvent['address']);
         previewEvent['webLink'] = $form.getWebLink(previewEvent['weburl']);
         previewEvent['contactLink'] = $form.getContactLink(previewEvent['contact']);
@@ -357,8 +344,8 @@
             expanded: true
         };
         $.each(previewEvent.datestatuses, function(index, value) {
-            var date = dayjs(value.date).format('dddd, MMMM D, YYYY');
-            var displayDate = dayjs(value.date).format('ddd, MMM D, YYYY');
+            var date = dayjs(value.date).format('YYYY年M月D日(dddd)');
+            var displayDate = dayjs(value.date).format('YYYY年M月D日(ddd)');
             var newsflash = value['newsflash'];
             var cancelled = (value['status'] === 'C');
             mustacheData.dates.push({
@@ -402,7 +389,7 @@
             cache: false,
             data: data,
             success: function(returnVal) {
-                var msg = 'Your event has been deleted';
+                var msg = 'イベントが削除されました';
                 $('#success-message').text(msg);
                 $('#success-modal').modal('show');
                 $('#success-ok').on('click',function() {
@@ -412,7 +399,7 @@
             error: function(returnVal) {
                 var err = returnVal.responseJSON
                     ? returnVal.responseJSON.error
-                    : { message: 'Server error deleting event!' };
+                    : { message: 'イベントの削除中にサーバーエラーが発生しました' };
                 $('.save-result').addClass('text-danger').text(err.message);
             }
         };

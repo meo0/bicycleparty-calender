@@ -17,7 +17,7 @@
     };
 
     $.fn.getMapLink = function(address) {
-        if (!address || address == 'TBA' || address == 'TBD') {
+        if (!address || address == 'TBA' || address == 'TBD' || address == '未定') {
             // if address is null or not available yet, don't try to map it
             return null;
         }
@@ -29,7 +29,7 @@
         } else {
             // otherwise, map it with Google Maps
             return 'https://maps.google.com/' +
-                '?bounds=45.389771,-122.829208|45.659647,-122.404175&q=' +
+                '?bounds=36.0,-140.2|36.2,-139.9&q=' +
                 encodeURIComponent(address);
         }
     };
@@ -89,7 +89,7 @@
 
         googleCalUrl.search = new URLSearchParams({
           action: "TEMPLATE",
-          text: `shift2Bikes: ${event.title}`,
+          text: `Bicycle Party: ${event.title}`,
           location: event.address,
           details: `${event.details}\n\n${event.shareable}`,
           dates: calendarDates,

@@ -12,7 +12,7 @@
       [[#events]]
 
       <li class="event row [[#cancelled]]cancelled[[/cancelled]] [[#featured]]featured[[/featured]]" data-event-id="[[id]]">
-        [[#featured]]<p class="featured-text" id="featured[[caldaily_id]]"><span aria-hidden="true">★ </span>Featured Event<span aria-hidden="true"> ★</span></p>[[/featured]]
+        [[#featured]]<p class="featured-text" id="featured[[caldaily_id]]"><span aria-hidden="true">★ </span>注目イベント<span aria-hidden="true"> ★</span></p>[[/featured]]
         <div class="time col-xs-2">
           [[#cancelled]]<del>[[/cancelled]]
 
@@ -71,7 +71,7 @@
                       [[title]]
 
                       [[#cancelled]]
-                    </del> <ins><span class="cancelled-text">cancelled</span></ins>
+                    </del> <ins><span class="cancelled-text">中止</span></ins>
                       [[/cancelled]]
 
                     </button>
@@ -103,7 +103,7 @@
                     [[/areaLabel]]
                     <p>
                       [[#mapLink]]
-                      <a href="[[mapLink]]" target="_blank" rel="noopener nofollow external"  title="Opens in a new window">
+                      <a href="[[mapLink]]" target="_blank" rel="noopener nofollow external"  title="新しいウィンドウで開きます">
                       [[/mapLink]]
                       <svg class="icon" role="img">
                         <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-location" }}"/>
@@ -143,7 +143,7 @@
           <div class="eventImg">
             [[# image]]
             <a href="[[image]]">
-              <img class="lazy" src="{{ absURL "img/cal/icons/blank.svg" }}" data-src="[[image]]" alt="User-uploaded image for [[title]]" />
+              <img class="lazy" src="{{ absURL "img/cal/icons/blank.svg" }}" data-src="[[image]]" alt="[[title]]のアップロード画像" />
             </a>
             [[/ image]]
           </div>
@@ -191,9 +191,9 @@
             <p>
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-endlocation" }}" />
-                <title>End location</title>
+                <title>終了場所</title>
               </svg>
-              End location: [[locend]]
+              終了場所: [[locend]]
             </p>
             [[/locend]]
           </div>
@@ -226,7 +226,7 @@
 
           [[ #weburl ]]
           <p class="contactInfo">
-            <a href="[[webLink]]" target="_blank" rel="noopener nofollow external" title="Opens in a new window">
+            <a href="[[webLink]]" target="_blank" rel="noopener nofollow external" title="新しいウィンドウで開きます">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-website" }}" />
                 <title>Webサイト</title>
@@ -241,7 +241,7 @@
 
           [[#contactLink]]
           <p class="contactInfo">
-            <a href="[[contactLink]]" target="_blank" rel="noopener nofollow external" title="Opens in a new window">
+            <a href="[[contactLink]]" target="_blank" rel="noopener nofollow external" title="新しいウィンドウで開きます">
               <svg class="icon" role="img">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-website" }}" />
                 <title>追加の連絡先</title>
@@ -296,11 +296,11 @@
           </div>
           [[#preview]]
           <hr>
-          <p>The following will show on the print calendar.</p>
+          <p>以下の内容が印刷カレンダーに表示されます。</p>
           <ul>
-            <li>title: [[tinytitle]]</li>
-            <li>description: [[printdescr]]</li>
-            <li>contact info:
+            <li>タイトル：[[tinytitle]]</li>
+            <li>説明：[[printdescr]]</li>
+            <li>連絡先：
               <ul>
                 <li>[[organizer]]</li>
                 [[# printpreviewemail]]<li>[[printpreviewemail]]</li>[[/ printpreviewemail]]
@@ -327,5 +327,5 @@
 </script>
 
 <script id="request-error" type="text/template">
-  <p class="error">Error: [[ error ]]</p>
+  <p class="error">エラー：[[ error ]]</p>
 </script>

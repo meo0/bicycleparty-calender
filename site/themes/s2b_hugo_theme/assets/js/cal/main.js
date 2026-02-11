@@ -26,7 +26,7 @@ $(document).ready(function() {
                 var mustacheData = { dates: [] };
                 $.each(data.events, function( index, value ) {
 
-                    var date = dayjs(value.date).format('dddd, MMMM D, YYYY');
+                    var date = dayjs(value.date).format('YYYY年M月D日(dddd)');
                     if (groupedByDate[date] === undefined) {
                         groupedByDate[date] = {
                             yyyymmdd: value.date,
@@ -36,10 +36,10 @@ $(document).ready(function() {
                         mustacheData.dates.push(groupedByDate[date]);
                     }
 
-                    value.displayStartTime = dayjs(value.time, 'hh:mm:ss').format('h:mm A');
-                    value.displayDate = dayjs(value.date).format('ddd, MMM D, YYYY');
+                    value.displayStartTime = dayjs(value.time, 'HH:mm:ss').format('H:mm');
+                    value.displayDate = dayjs(value.date).format('YYYY年M月D日(ddd)');
                     if (value.endtime) {
-                      value.displayEndTime = dayjs(value.endtime, 'hh:mm:ss').format('h:mm A');
+                      value.displayEndTime = dayjs(value.endtime, 'HH:mm:ss').format('H:mm');
                     }
 
                     value.audienceLabel = container.getAudienceLabel(value.audience);
@@ -80,7 +80,7 @@ $(document).ready(function() {
                         }
                         $('meta[property="og:description"]')[0].setAttribute("content", descr);
                     }
-                    document.title = event.title + " - Calendar - " + SITE_TITLE;
+                    document.title = event.title + " - カレンダー - " + SITE_TITLE;
                 }
                 callback(info);
             },
