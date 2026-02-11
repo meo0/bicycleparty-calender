@@ -6,3 +6,4 @@ id: calendargrid
 type: calgrid
 
 ---
+{{< generateExtras >}}
