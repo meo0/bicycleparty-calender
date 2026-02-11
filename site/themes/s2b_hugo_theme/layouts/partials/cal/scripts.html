@@ -5,20 +5,20 @@
 <script type="text/javascript">
   function parseURL() {
     var urlParams = {};
-    var path = window.location.pathname.split('/');
-    var lastPart = path[path.length-1];
+    var path = window.location.pathname.split("/");
+    var lastPart = path[path.length - 1];
 
     var singleEventRe = /event-([0-9]+)/g;
     var singleEvent = singleEventRe.exec(lastPart);
     if (singleEvent && singleEvent.length === 2) {
-      urlParams['eventId'] = parseInt(singleEvent[1]);
+      urlParams["eventId"] = parseInt(singleEvent[1]);
     }
 
     var editEventRe = /edit-([0-9]+)-([0-9a-zA-Z]*)/g;
     var editEvent = editEventRe.exec(lastPart);
     if (editEvent && editEvent.length === 3) {
-      urlParams['editId'] = parseInt(editEvent[1]);
-      urlParams['editSecret'] = editEvent[2];
+      urlParams["editId"] = parseInt(editEvent[1]);
+      urlParams["editSecret"] = editEvent[2];
     }
 
     // IE doesn't support URLSearchParams, so IE will
@@ -26,18 +26,18 @@
     if (typeof URLSearchParams === "function") {
       var query = new URLSearchParams(location.search);
 
-      if (query.has('startdate')) {
-        urlParams['startdate'] = query.get('startdate');
+      if (query.has("startdate")) {
+        urlParams["startdate"] = query.get("startdate");
       }
-      if (query.has('enddate')) {
-        urlParams['enddate'] = query.get('enddate');
+      if (query.has("enddate")) {
+        urlParams["enddate"] = query.get("enddate");
       }
-      if (query.has('show_details')) {
-        urlParams['show_details'] = true;
+      if (query.has("show_details")) {
+        urlParams["show_details"] = true;
       }
-      if (query.has('view')) {
-        if (['day', 'week', 'month'].includes(query.get('view'))) {
-          urlParams['view'] = query.get('view');
+      if (query.has("view")) {
+        if (["day", "week", "month"].includes(query.get("view"))) {
+          urlParams["view"] = query.get("view");
         }
       }
     }
@@ -48,122 +48,124 @@
 
 <!-- load on list, single ride, edit, and festival pages; not needed for grid view page -->
 {{ if or (eq .Type "calevents") (eq .Type "calevent") (eq .Type "caledit") (eq .Type "calfestival") }}
-  {{ $jsCalHelpers := resources.Get "js/cal/helpers.js" | minify }}
-  <script src="{{ $jsCalHelpers.Permalink }}"></script>
-  {{ $jsCalMain := resources.Get "js/cal/main.js" | minify }}
-  <script src="{{ $jsCalMain.Permalink }}"></script>
+{{ $jsCalHelpers := resources.Get "js/cal/helpers.js" | minify }}
+<script src="{{ $jsCalHelpers.Permalink }}"></script>
+{{ $jsCalMain := resources.Get "js/cal/main.js" | minify }}
+<script src="{{ $jsCalMain.Permalink }}"></script>
 
-  <script src="{{ absURL "lib/mustache/mustache.min.js" }}"></script>
+<script src="{{ absURL "lib/mustache/mustache.min.js" }}"></script>
 
-  {{ partial "cal/dayjs.html" . }}
+{{ partial "cal/dayjs.html" . }}
 
-  <script type="text/javascript">
-    $(document).ready(function() {
-      var params = parseURL();
+<script type="text/javascript">
+  $(document).ready(function () {
+    var params = parseURL();
 
-      if ('eventId' in params) {
-        // view single event
-        viewEvent(params['eventId']);
+    if ("eventId" in params) {
+      // view single event
+      viewEvent(params["eventId"]);
 
-      } else if ('editId' in params) {
-        // edit specific event
-        var eventid = params["editId"];
-        var secret = params["editSecret"];
-        viewAddEventForm(eventid, secret);
+    } else if ("editId" in params) {
+      // edit specific event
+      var eventid = params["editId"];
+      var secret = params["editSecret"];
+      viewAddEventForm(eventid, secret);
 
-      } else if (window.cal_renderpage == "addevent") {
-        // show blank form to add new event
-        viewAddEventForm();
-      } else {
-        // view list of events
-        if ({{ .Param "pp" }}) {
-          params["pp"] = {{ .Param "pp" }};
-          params["startdate"] = {{ .Param "startdate" }};
-          params["enddate"] = {{ .Param "enddate" }};
-        }
-
-        viewEvents(params);
+    } else if (window.cal_renderpage == "addevent") {
+      // show blank form to add new event
+      viewAddEventForm();
+    } else {
+      // view list of events
+      if ({{ .Param "pp" }}) {
+        params["pp"] = {{ .Param "pp" }};
+        params["startdate"] = {{ .Param "startdate" }};
+        params["enddate"] = {{ .Param "enddate" }};
       }
-    });
-  </script>
+
+      viewEvents(params);
+    }
+  });
+</script>
 {{ end }}
 
 <!-- load FullCal scripts on calendar grid and festival pages only; not needed on list, single ride, or edit pages -->
 {{ if or (eq .Type "calgrid") (eq .Type "calfestival") (eq .Type "pp-theme-cal") }}
-  <script src="{{ absURL "lib/fullcalendar/core/main.min.js" }}"></script>
-  <script src="{{ absURL "lib/fullcalendar/daygrid/main.min.js" }}"></script>
-  <script src="{{ absURL "lib/fullcalendar/timegrid/main.min.js" }}"></script>
+<script src="{{ absURL "lib/fullcalendar/core/main.min.js" }}"></script>
+<script src="{{ absURL "lib/fullcalendar/core/locales-all.min.js" }}"></script>
+<script src="{{ absURL "lib/fullcalendar/daygrid/main.min.js" }}"></script>
+<script src="{{ absURL "lib/fullcalendar/timegrid/main.min.js" }}"></script>
+<script src="{{ absURL "lib/fullcalendar/list/main.min.js" }}"></script>
 {{ end }}
 
 <!-- only render grid view for festival pages, 2008 or later -->
 {{ if and (eq .Type "calfestival") (ge .Params.year 2008) }}
 <script type="text/javascript">
-  document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener("DOMContentLoaded", function () {
     // the values are pulled from the .md page file
     // all PP pages require start and enddates
-    const today = dayjs().startOf('day');
+    const today = dayjs().startOf("day");
     const range = {
-      start: dayjs( {{ .Params.startdate }} ),
-      end : dayjs( {{ .Params.enddate }} ),
+      start: dayjs({{ .Params.startdate }} ),
+    end : dayjs({{ .Params.enddate }}),
     };
-    // use today as the initially focused day, if its within the range;
-    // otherwise use the start of the range.
-    const initialDate = (today >= range.start && today <= range.end) ?
-                        today : range.start;
+  // use today as the initially focused day, if its within the range;
+  // otherwise use the start of the range.
+  const initialDate = (today >= range.start && today <= range.end) ?
+    today : range.start;
 
-    const calendarEl = document.getElementById('fullcalendar');
-    const calendar = new FullCalendar.Calendar(calendarEl, {
-      plugins: [ 'dayGrid', 'timeGrid' ],
-      defaultView: 'dayGridMonth',
-      header: {
-        left: 'prev,next today',
-        center: 'title',
-        right: 'dayGridMonth,timeGridWeek,timeGridDay'
-      },
-      defaultDate: initialDate.toDate(),
-      validRange: {
-        start: range.start.toDate(),
-        // warning: fullcal enddate is exclusive.
-        end: range.end.add(1, 'day').toDate(),
-      },
-      nowIndicator: true,
-      eventLimit: true,
-      navLinks: true,
-      eventSources: [
-        {
-          url: '{{ absURL "api/events.php" }}',
-          startParam: 'startdate',
-          endParam: 'enddate',
-          success: function( content ) {
-            // our API returns { "events": [ ] }
-            // and this will return just the inner array as fullcalendar expects
-            return content.events;
-          },
-          eventDataTransform: function( eventData ) {
-            // this transforms the data for individual rides
-            // into the format needed by fullcalendar
-            var event = {
-                id: eventData.caldaily_id,
-                title: (eventData.tinytitle ? eventData.tinytitle : eventData.title),
-                start: eventData.date + 'T' + eventData.time,
-                url: '/calendar/event-' + eventData.caldaily_id,
-            };
-
-            event.classNames = [];
-            if (eventData.cancelled == true) {
-              event.classNames.push('cancelled');
-            }
-            if (eventData.featured == true) {
-              event.classNames.push('featured');
-            }
-
-            return event;
-          },
+  const calendarEl = document.getElementById("fullcalendar");
+  const calendar = new FullCalendar.Calendar(calendarEl, {
+    plugins: ["dayGrid", "timeGrid"],
+    defaultView: "dayGridMonth",
+    header: {
+      left: "prev,next today",
+      center: "title",
+      right: "dayGridMonth,timeGridWeek,timeGridDay"
+    },
+    defaultDate: initialDate.toDate(),
+    validRange: {
+      start: range.start.toDate(),
+      // warning: fullcal enddate is exclusive.
+      end: range.end.add(1, "day").toDate(),
+    },
+    nowIndicator: true,
+    eventLimit: true,
+    navLinks: true,
+    eventSources: [
+      {
+        url: "{{ absURL "api/events.php" }}",
+        startParam: "startdate",
+        endParam: "enddate",
+        success: function (content) {
+          // our API returns { "events": [ ] }
+          // and this will return just the inner array as fullcalendar expects
+          return content.events;
         },
-      ]
-    });
+        eventDataTransform: function (eventData) {
+          // this transforms the data for individual rides
+          // into the format needed by fullcalendar
+          var event = {
+            id: eventData.caldaily_id,
+            title: (eventData.tinytitle ? eventData.tinytitle : eventData.title),
+            start: eventData.date + "T" + eventData.time,
+            url: "/calendar/event-" + eventData.caldaily_id,
+          };
 
-    calendar.render();
+          event.classNames = [];
+          if (eventData.cancelled == true) {
+            event.classNames.push("cancelled");
+          }
+          if (eventData.featured == true) {
+            event.classNames.push("featured");
+          }
+
+          return event;
+        },
+      },
+    ]
+  });
+
+  calendar.render();
   });
 </script>
 {{ end }}

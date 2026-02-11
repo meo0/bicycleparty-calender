@@ -1,40 +1,40 @@
 ---
-title: Leading a Social Ride
+title: ソーシャルライドをリードする
 weight: "5"
 menu:
     main:
         parent: communitynav
 ---
 
-**Please read our [Public health](/pages/public-health/) page** for info on riding safely during the pandemic and beyond.
+**安全な走行については、[公衆衛生](/pages/public-health/)ページをお読みください。**
 
 ----
 
-You should consider the below points when creating your ride.  They're all optional, but strongly suggested to keep things going smoothly.  For more details than this checklist, check out this [detailed guide (PDF)](/docs/ride-leading-guide.pdf)!
+走行を作成する際は、以下の点を検討してください。これらはすべてオプションですが、物事をスムーズに進めるために強くお勧めします。
 
 <!-- not sure this is the best way to get the graphic shown here, but seems to work -->
 
 <a href="/images/rideleadingcomiccolor.jpg"><img alt="Ride-Leading Tips comic" style="float: right; margin: 0px 0px 15px 15px;" src="/images/rideleadingcomiccolor.jpg" width="400" /></a>
 
-- **Consider your ridership**:
-Will the ride be for family-types or for the independently-natured? Give your riders some idea about the ride's behaviorial tone.
-- **Determine a start location**:
-If it is not in the biker-hive of central Portland, then consider a place not too far from a [Trimet transit center](https://trimet.org/transitcenters/) to allow folks to get there easily while saving their energy for your ride.
-- **Plan a safe route**:
-Since most Shift rides are social rides, consider use a bike map to make for a safe, leisurely route. If you plan to ride on 'challenging' roads, be sure to tell your participants this both in the ride description AND at the start of the ride.
-- **Be a leader**:
-It's nice when one takes charge, has a voice, and lets everyone know what is going on before and during the ride.
-- **Pre-announce Dress Code and other relevant details**:
-Shift rides offer the out-of-the-ordinary because they are about a celebration versus a race or challenge. Many rides feature a theme which participants are encouraged to dress/accesorize to match.  For best success you should be very clear in the ride description what you're hoping to see your riders do.  This crowd loves to get theatrical!
-- **Food and beverage**:
-People tend to connect well when sharing sustenance or celebratory libations in close proximity to one another. Not recommended to eat or drink while riding, but one successful pattern is to create a potluck and/or feature a food store stop along the route.
-- **An appropriate time**:
-To assure your ride receives maximum ridership, avoid conflicts with other rides. Please check our [fabulous calendar](/calendar/) when scheduling your ride!
-- **Get the word out**:
-The best means of getting riders for your event is telling people about it!  Things like creating a facebook event about your ride, passing out a flyer about your ride at similar rides happening before yours, and otherwise "advertising" your ride is a great idea to supplement your event listing on our calendar.
-- **Estimated departure**:
-Chill out! Whatever your specified ride time, you should leave fifteen minutes or more later (known as "bikey time").  This allows those running late some time to arrive. Since Shift rides are not a race,  punctuality of ride departure isn't first priority. Besides, you'll allow early or on-time arrivals to make friends and find out about the ride before you leave.
-- **A feeling of rejection**:
-Sometimes people just don't show up to a ride; it happens. When it happens, be glad of the effort you made, and know your bicycle will ever always bring you happiness. We creative bikers are a fickle bunch, yet we are compassionate. Consider pinging the [Shift mailing list](/pages/email-list/) and asking for advice in rescheduling your ride to attract more participants.
+- **ライダーを考慮する**：
+走行はファミリータイプ向けですか、それとも独立志向の人向けですか？ライダーに走行の行動トーンについてのアイデアを与えてください。
+- **出発地点を決定する**：
+アクセスしやすい場所を選びましょう。駅やバス停から近い場所、駐輪スペースがある場所が便利です。
+- **安全なルートを計画する**：
+ソーシャルライドでは、安全で余暇的なルートを作成することを検討してください。「挑戦的な」道路を走る予定がある場合は、走行の説明と走行の開始時にこれを参加者に伝えてください。
+- **リーダーになる**：
+誰かが主導権を握り、声を持ち、走行の前と最中に何が起こっているかを全員に知らせることは素晴らしいことです。
+- **ドレスコードとその他の関連詳細を事前に発表する**：
+多くの走行には、参加者がマッチするように着飾ったりアクセサリーをつけたりすることが奨励されるテーマがあります。最高の成功のためには、走行の説明でライダーに何をしてほしいかを非常に明確にする必要があります。
+- **食べ物と飲み物**：
+人々は、互いに近接して栄養やお祝いの飲み物を共有するときによくつながります。成功するパターンの1つは、ルートに沿って休憩スポットを設けることです。
+- **適切な時間**：
+走行が最大のライダー数を受け取るようにするには、他の走行との競合を避けてください。走行をスケジュールするときは、[カレンダー](/calendar/)を確認してください！
+- **情報を広める**：
+イベントにライダーを集める最良の方法は、それについて人々に伝えることです！SNSでイベントを作成したり、チラシを配ったりして、カレンダーのイベントリストを補完しましょう。
+- **推定出発**：
+リラックスしてください！指定された走行時間が何であれ、15分以上遅れて出発する必要があります（「自転車時間」として知られています）。これにより、遅れている人が到着する時間が与えられます。
+- **拒否の感覚**：
+時々、人々は走行に現れないことがあります。起こります。それが起こったとき、あなたがした努力を喜び、あなたの自転車が常にあなたに幸せをもたらすことを知ってください。
 
-Happy Riding!
+ハッピーライディング！

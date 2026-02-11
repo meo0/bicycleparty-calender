@@ -1,26 +1,26 @@
 ---
-title: Mission Statement
+title: ミッションステートメント
 weight: 1
 menu:
   main:
     parent: aboutmenu
 ---
-## Our mission
+## 私たちの使命
 
-<p class="mission-statement" style="text-align: center; padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2; font-weight: bold; font-size: 24px;"><strong>Shift’s mission is to promote inclusive bike fun.</strong></p>
+<p class="mission-statement" style="text-align: center; padding: 1em; color: #663300; border: 1px solid #FFDD66; background: #FCFAF2; font-weight: bold; font-size: 24px;"><strong>BicyclePartyの使命は、包括的な自転車の楽しみを促進することです。</strong></p>
 
-As a loose-knit and informal bunch of bike-loving folks, we ask for no membership, nor dues, only a shared passion for the bicycle in all its glory: as toy, as transportation, as a tool for social and environmental change!
+自転車を愛する緩やかで非公式な仲間として、私たちは会員資格や会費を求めず、自転車へのあらゆる栄光への共有された情熱のみを求めます：おもちゃとして、交通手段として、社会的および環境的変化のためのツールとして！
 
-Shift, then, is open to everyone sharing in this passion.
+つまり、BicyclePartyはこの情熱を共有するすべての人に開かれています。
 
-And where would the fun be if we weren't at least semi-organized?! Yes, Shift folks do plan, execute, publicize, and get involved in the celebration of bicycle events. We hope you'll be inspired to join in on the bike fun too!
+そして、私たちが少なくとも半組織的でなければ、楽しみはどこにあるでしょうか？！はい、BicyclePartyの人々は自転車イベントのお祝いを計画し、実行し、宣伝し、参加しています。あなたも自転車の楽しみに参加するようインスピレーションを得ることを願っています！
 
-## Our history
+## 私たちの歴史
 
-In August 2002, Portland hosted Bike Summer, a month-long celebration of bicycles and bike culture that drew more than 5,000 participants to events including bike-in movies, family rides, bike-repair workshops and more. A combination of the overwhelming Community response to the month’s activities and the strong feelings of comradery and energy among the primary Bike Summer organizers led to the formation of Shift in September 2002.
+2025年4月、筑波大学のArtDesignProduceという授業のプロジェクトとして開始されました。
 
-Bike Summer also provided an organizational model for Shift: a central committee creates a communications infrastructure for events designed and executed by anyone in the bicycle community. You have an idea for an event? Great! We will help you get the word out. For starters, you can [submit your bike event to our calendar](/calendar/).
+本サイトは、ポートランドの自転車コミュニティ [Shift2Bikes](https://www.shift2bikes.org/) が開発・運営するオープンソースプロジェクト [shift-docs](https://github.com/shift-org/shift-docs) をフォークし、日本語にローカライズしたものです。
 
-## Our activities
+## 私たちの活動
 
-Shift also facilitates lots of events. Examples of Shift-related activities include [breakfast give-aways](/pages/bonb), social rides, educational bike tours, actions to raise awareness about cyclist injuries or deaths, information-sharing events, art-bike parades and more.
+BicyclePartyは自転車を通じた活動に興味のある学生が、さまざまなイベントを企画したり、広報活動をしたりしています。

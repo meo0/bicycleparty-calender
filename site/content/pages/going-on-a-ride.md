@@ -1,50 +1,45 @@
 ---
-title: Going on a ride
+title: 走行に参加する
 weight: "4"
 menu:
   main:
     parent: communitynav
 ---
 
-**Please read our [Public health](/pages/public-health/) page** for info on riding safely during the pandemic and beyond.
+**安全な走行については、[公衆衛生](/pages/public-health/)ページをお読みください。**
 
 ----
 
-## Social Rides 101
+## ソーシャルライド101
 
-Want to know what to expect on a [group ride](/calendar/)? Check out our Social Rides 101 video, created in collaboration with [Bike Stuff PDX](https://www.youtube.com/@BikeStuffPDX)!
+グループライドで何を期待できるか知りたいですか？以下のガイドラインを参考にしてください。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TAPTfIItyBE?si=TSsI11DwqhZbCGpQ" title="Social Rides 101 — YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-## Ride riding guidelines
+## 走行ガイドライン
 
 <img src="/images/ride_riding_comic.png" alt="Ride riding comic, described below" height=800>
 
-Comic by [Shawn Granton](https://urbanadventureleague.bigcartel.com/about)
+コミック：[Shawn Granton](https://urbanadventureleague.bigcartel.com/about)
 
-### Know your ride.
+### 自分の走行を知る
 
-Every ride is different. Some are casual, slow, meanderings. Some are hammer-it-out sufferfests. Check the online Pedalpalooza calendar for more detailed info.
+すべての走行は異なります。カジュアルでゆっくりとした蛇行もあれば、しっかり走る走行もあります。詳細については、[カレンダー](/calendar/)を確認してください。
 
+### 予期しないことを予期する
 
-### Expect the unexpected.
+走行が何であるかを知っていると思っても、実際は異なることがあります。ストレスを感じないでください。リラックスして、流れに身を任せてください。楽しめるかもしれません！
 
-Just because you think you know what the ride is about, doesn't mean that you know what the ride is about. Don't stress out. Chill out, go with the flow. You might enjoy yourself! 
+### 数の安全は、警戒を解くことを意味しない
 
+大きなグループにいるからといって、交通法規や物理法則が適用されないわけではありません。周囲と仲間のライダーに注意してください。
 
-### Safety in numbers does not mean let your guard down.
+### 準備しよう！
 
-Just because you're in a big group doesn't mean that traffic laws — or the laws of physics — don't apply. Be aware of your surroundings and your fellow riders. 
+走行に参加する際の持ち物チェックリスト：
 
-
-### Be prepared!
-
-A Pedalpalooza readiness kit should include:
-* flyers for your event
-* snacks
-* condoms
-* TriMet fare
-* tool kit
-* bike map
-* Pedalpalooza calendar 
+* ヘルメット
+* ライト（前後）
+* スナック・飲み物
+* パンク修理キット
+* 現金・交通系ICカード
+* スマートフォン（緊急連絡用）
+* 雨具（天候に応じて）

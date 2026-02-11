@@ -1,12 +1,32 @@
 {{ define "main" }}
-      {{ partial "carousel.html" . }}
+<div id="content">
+  <div class="container">
+    <div class="row">
+      {{ block "page_body" . }}
+      {{ end }}
+    </div>{{/* /.row */}}
+  </div>{{/* /.container */}}
+</div>{{/* /#content */}}
+{{ end }}
+{{ define "page_body" }}
+<div class="col-md-12">
 
-      {{ partial "cal/up-next.html" . }}
+  <div>
+    {{ .Content }}
+  </div>
 
-      {{ partial "alert_banner.html" . }}
 
-      {{ partial "sponsors.html" . }}
+  {{ partial "cal/view-options.html" . }}
 
-      {{/* include the .md file content if any */}}
-      {{ .Content }}
+  <div id="fullcalendar"></div>
+
+  {{ partial "alert_banner.html" . }}
+
+  {{ partial "disclaimer.html" . }}
+
+</div>
+{{ end }}
+{{ define "postscript" }}
+{{ partial "cal/scripts.html" . }}
+{{ partial "cal/fullcal-home.html" . }}
 {{ end }}

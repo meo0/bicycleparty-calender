@@ -1,204 +1,107 @@
 ---
-title: Calendar FAQ
+title: カレンダーFAQ
 weight: "4"
 menu:
   main:
-    parent: Calendar
+    parent: カレンダー
 ---
-<style>
-  .toc-box {
-    float: right;
-    width: 280px;
-    background: #f0f4f8;
-    border: 1px solid #cbd5e1;
-    padding: 12px 16px;
-    margin: 0 0 16px 16px;
-    border-radius: 6px;
-    font-size: 0.95em;
-  }
-  .toc-box ul {
-      margin: 8px 0 0 0.2em;
-      padding-left: 0.2em;
-      list-style-position: inside;
-  }
-  .toc-box li {
-    margin: 2px 0;
-  }
-  @media (max-width: 900px) {
-    .toc-box {
-      float: none;
-      width: auto;
-      margin: 0 0 16px 0;
-    }
-  }
-</style>
+## イベントに参加する
 
-<div class="toc-box">
-<strong>Table of Contents</strong><br/>
-<p>Going to events</p>
-<ul>
-<li><a href="#who-organizes-these-events">Who organizes events?</a></li>
-<li><a href="#are-rides-free">Are rides free?</a></li>
-<li><a href="#do-rides-return-to-the-start-location">Are rides a loop?</a></li>
-<li><a href="#i-have-questions-about-a-specific-ride-how-can-i-find-out-more-info">Asking about a specific ride</a></li>
-<li><a href="#a-ride-leader-didnt-post-any-contact-info-how-can-i-contact-them">Contacting ride leaders</a></li>
-</ul>
-<p>Posting events</p>
-<ul>
-<li><a href="#who-can-post-events-to-the-calendar">Who can post events?</a></li>
-<li><a href="#what-info-do-i-need-to-provide-about-my-event">Event Info</a></li>
-<li><a href="#do-i-have-to-use-my-real-name">Real Name?</a></li>
-<li><a href="#what-if-i-dont-have-all-of-the-details-ready-yet">What if I don't know all the details?</a></li>
-<li><a href="#can-i-post-events-that-have-fees">Can I post events that have fees?</a></li>
-<li><a href="#is-my-contact-info-public">Is my contact info public?</a></li>
-<li><a href="#do-i-have-to-provide-my-email">Do I have to provide my email?</a></li>
-<li><a href="#what-do-the-different-audience-types-mean">Audience types</a></li>
-<li><a href="#how-do-i-edit-my-event">Editing events</a></li>
-<li><a href="#how-do-i-reschedule-or-cancel-my-event">Rescheduling or cancelling</a></li>
-<li><a href="#can-i-post-bike-related-events-that-arent-bike-rides">Non-ride events</a></li>
-<li><a href="#im-having-trouble-posting-a-ride-or-making-changes-who-do-i-contact">Trouble editing rides</a></li>
-</ul>
-<p>Subscribing to the calendar</p>
-<ul>
-<li><a href="#android-and-google-calendar">Android and Google Calendar</a></li>
-<li><a href="#other-common-cases">Other common cases</a></li>
-</ul>
-<p><a href="#glossary">Glossary</a></p>
-</div>
+### これらのイベントは誰が主催していますか？
+
+誰でも！カレンダーは、コミュニティメンバーが使用する無料サービスです。
+
+**注意してください：** Bicycle Partyはカレンダーを公共サービスとしてホストしています。走行とイベントは、Bicycle Partyではなく、コミュニティメンバーによって投稿されます。Bicycle Partyカレンダーに投稿された走行とイベントは、Bicycle Party運営チームによって主催されているわけではありません。
+
+### 走行は無料ですか？
+
+ほとんどのイベントは無料です。料金がある場合は、説明に記載する必要があります。
+
+### 走行は出発地点に戻りますか？
+
+場合によります。戻る走行もあれば、戻らない走行もあります。走行リーダーは、走行がループであるかどうかを示し、終了地点に関する情報も提供するオプションがあります。不明な場合は、主催者に連絡してください。
+
+### 特定の走行について質問があります。詳細情報を見つけるにはどうすればよいですか？
+
+主催者に連絡するには、イベントリストの連絡先情報を使用してください。
+
+### 走行リーダーが連絡先情報を投稿していません。どのように連絡できますか？
+
+すべての走行リーダーに少なくとも1つの公開連絡方法を含めることをお勧めしますが、すべてがそうするわけではありません。走行リーダーに質問があるが連絡する方法がない場合は、[お問い合わせ](/pages/contact/)ください。走行リーダーの許可なく連絡先情報を共有することはできませんが、メッセージを転送することはできます。
 
 
-## Going to events
+## イベントを投稿する
 
-### Who organizes these events?
+### カレンダーにイベントを投稿できるのは誰ですか？
 
-Anyone! The calendar is free service for community members to use.
+誰でも！
 
-**Please note:** Shift hosts the calendar as a public service. Rides and events are posted to the Shift calendar by community members, not by Shift. Rides and events posted to the Shift calendar are not sponsored by Shift or Shift’s fiscal sponsor, Umbrella.
+### イベントについて提供する必要がある情報は何ですか？
 
-### Are rides free?
+イベントを投稿するには、少なくとも次の基本事項を提供する必要があります：
 
-Most events are free. If there's a fee, it has to be listed in the description.
+* タイトル
+* 主催者の名前
+* 開始日時
+* 出発地点
 
-### Do rides return to the start location?
+提供する情報が多いほど良いです！走行が自分に適しているかどうかを人々が判断するのに役立ちます。
 
-It depends. Some rides do, and some don't. Ride leaders have the option to indicate whether the ride is a loop or not, and can also provide info about the end location. Contact the organizer if you're not sure.
+### 本名を使用する必要がありますか？
 
-### I have questions about a specific ride. How can I find out more info?
+できますが、する必要はありません。走行を主催している人を特定する必要がありますが、ニックネームや組織の名前でも構いません。
 
-Use the contact info on the event listing to contact the organizer.
+### まだすべての詳細が準備できていない場合はどうすればよいですか？
 
-### A ride leader didn't post any contact info. How can I contact them?
+投稿できますが、イベントの前にリストを更新してください。まだ開始地点がわからない場合、またはイベントに近づくまで秘密にしておきたい場合は、出発地点に「TBA」を使用できます。
 
-We recommend that all ride leaders include at least 1 public contact method, but not all do. If you have a question for a ride leader but don't have a way to contact them, email the [Shift calendar crew](mailto:bikecal@shift2bikes.org). We can't share the ride leader's contact info without their permission, but we can forward your message to them. The ride leader may then choose to respond or not — it's up to them.
+### 料金があるイベントを投稿できますか？
+
+はい、ただし説明で**必ず**言及してください。そうしないと、人々はイベントが無料だと思い込みます。
+
+### 私の連絡先情報は公開されますか？
+
+共有したいものだけです。公開リストに含める連絡先情報を選択できます。連絡先情報を公開で共有する必要はありませんが、人々があなたに連絡する方法を少なくとも1つ含めることをお勧めします - メール、電話、またはWebリンク。
+
+### メールを提供する必要がありますか？
+
+はい、リストを管理するためのリンクを送信できるように、実際のメールアドレスが必要です。ただし、公開リストから非表示にすることを選択できます。
+
+### 異なるオーディエンスタイプは何を意味しますか？
+
+簡単に言うと、イベントオーディエンスは次のことを意味します：
+
+* 一般：ほとんどの自転車走行
+* ファミリーフレンドリー：距離、内容、ペースが子供に適している
+* 大人のみ（21歳以上）：飲酒またはその他の大人の活動
+
+詳細については、[行動規範](/pages/bicycleparty-code-of-conduct/)を確認してください。
+
+### イベントを編集するにはどうすればよいですか？
+
+メールで送信されたリンクを使用してください。それはパスワードのように機能します - それを持っている人は誰でもイベントを管理できるので、非公開にしてください。編集リンクが含まれているメールが見つからない場合は、[お問い合わせ](/pages/contact/)いただければお手伝いします。
+
+### イベントを再スケジュールまたはキャンセルするにはどうすればよいですか？
+
+メールで送信されたリンクを使用してイベントを編集します。日付ピッカーまでスクロールし、走行日を見つけます。日付の横にあるメニューを「スケジュール済み」から「キャンセル」に変更します。「ニュース速報」エリアにオプションのメモを追加して、ライダーに新しい計画を知らせることもできます。
+
+新しい日付に再スケジュールする場合は、日付ピッカーの新しい日付をクリックして追加します。新しい日付にオプションのニュース速報メッセージを追加することもできます。
+
+### 自転車に乗る走行ではない自転車関連のイベントを投稿できますか？
+
+はい、ただし、イベントが走行ではないことを明確に示すことをお願いします。そうしないと、走行を期待する人が現れる可能性があります！自転車交換、自転車に焦点を当てた会議、およびその他の非走行自転車イベントなどは、カレンダーに投稿してもかまいません。
+
+### 走行を投稿または変更するのに問題があります。誰に連絡すればよいですか？
+
+助けが必要な場合は、[お問い合わせ](/pages/contact/)ください。
 
 
-## Posting events
+## 用語集
 
-### Who can post events to the calendar?
+走行リストで使用される可能性のある用語は次のとおりです：
 
-Anyone!
-
-### What info do I need to provide about my event?
-
-To post an event you need to provide at least these basics:
-
-* Title
-* The name of the organizer
-* Start date & time
-* Start location
-
-The more info you provide, the better! It helps people figure out if the ride is a good fit for them.
-
-### Do I have to use my real name?
-
-You can, but you don't have to. You need to identify who is organizing the ride, but it could be a nickname, a *nom de velo*, or the name of an organization.
-
-### What if I don't have all of the details ready yet?
-
-You can post it, but make sure you update the listing before the event. You can use "TBA" for a start location if you don't know yet where it will start, or if you want to keep it a secret until closer to the event.
-
-### Can I post events that have fees?
-
-Yes, but you **must** mention that in the description. If you don't, people will assume the event is free.
-
-### Is my contact info public?
-
-Only what you want to share. You can choose what contact info you want to include on the public listing. You aren't required to share any contact info publicly, but we recommend including at least one way for people to contact you — email, phone, or web link.
-
-### Do I have to provide my email?
-
-Yes, we need a real email address so we can send you a link to manage the listing. But you can choose to hide it from the public listing.
-
-### What do the different audience types mean?
-
-Briefly, event audience means: 
-
-* General: most bike rides
-* Family friendly: distance, content, and pace is appropriate for kids
-* Adults only (21+): drinking or other adult activities (nudity, etc)
-
-Check out the details in our [Code of Conduct](/pages/shift-code-of-conduct/#3-expected-behavior) for more info.
-
-### How do I edit my event?
-
-Use the link that's emailed to you. It acts like a password — anyone who has it can manage the event, so keep it private. If you can't find the email we sent you that contains the edit link, contact us and we'll help you out.
-
-### How do I reschedule or cancel my event?
-
-Edit your event using the link that's emailed to you. Scroll down to the date picker, and find your ride date. Change the menu next to your date from "Scheduled" to "Cancelled." You can also add an optional note in the "newsflash" area to let your riders know the new plan.
-
-If you're rescheduling to a new date, click on the new date in the date picker to add it. You can also add an optional newsflash message to the new date.
-
-![Screenshot of date picker with cancelled date and rescheduled date. June 27th is cancelled with newsflash "Moved to July 11"; July 11th has newsflash "New date."](/images/uploads/rescheduling-a-ride.png)
-
-### Can I post bike-related events that aren't bike rides?
-
-Yes, but we ask that you clearly indicate that the event isn't a ride, or you may get folks showing up who expect a ride! Things like bike swaps, meetings for bike-focused advocacy groups, and other non-ride bike events are OK to post to the calendar. We recommend using the "newsflash" area to indicate that the event isn't a ride, and also mention it in the description.
-
-### I'm having trouble posting a ride or making changes. Who do I contact?
-
-Email the [Shift calendar crew](mailto:bikecal@shift2bikes.org) if you need help.
-
-## Subscribing to the calendar
-
-You can see events using your phone or computer's built-in calendar app. As new rides are created, they will show up on your calendar automatically (usually within 24 hours of the ride being posted by the organizer). Keep in mind, events are posted to the Shift calendar by community members, not by Shift; you will see all sorts of rides.
-
-[webcal://www.shift2bikes.org/cal/shift-calendar.php](webcal://www.shift2bikes.org/cal/shift-calendar.php)
-
-On many devices, clicking the above link will open your calendar app automatically. It should then guide you through the steps to subscribe. If that doesn't work, you will need to follow these instructions:
-
-### Android and Google Calendar:
-
-1. Copy the calendar link above. (On Android, by pressing and holding the link until the "Copy link address" menu appears, and then selecting that option.)
-2. Visit [Google Calendar](https://calendar.google.com/calendar/u/0/r/settings/addbyurl) and if asked log into your Google account.
-3. On that Google Calendar page, paste the link you copied into the "URL of Calendar" box (press on that box and hold until the "Paste" menu appears, then choose that option).
-4. Finally, click the "Add calendar" button.
-5. 🎉 ( Now find a ride you like, and bike on over! )
-
-For additional help with Android and Google Calendar, please see this [Google support page](https://support.google.com/calendar/answer/37100) under "Use a link to add a public calendar."
-
-### Other common cases:
-
-1. [iPhone Calendar App](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios) - use the instructions under "Set up a calendar: Subscribe to an external, read-only calendar."
-1. [Mac Mail](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac) - follow the instructions for "Subscribe to a calendar."
-1. [Outlook](https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df) - follow the instructions for "Subscribing to a calendar."
-1. [Thunderbird](https://support.mozilla.org/en-US/kb/adding-a-holiday-calendar) - follow the instructions for subscribing to an "internet holiday calendar", substituting one of the calendar links from above.  ( Pedalpalooza is basically a holiday anyway, right? 😊 )
-
-## Glossary
-
-Here are some acronyms and phrases that might be used in a ride listing: 
-
-* PP: [Pedalpalooza](/pages/pedalpalooza/)
-* MMR: [Midnight Mystery Ride](/pages/mmr/)
-* BonB: [Breakfast on the Bridges](/pages/bonb/)
-* WNBR: [World Naked Bike Ride](/pages/wnbr/)
-* MCBF: [Multnomah County Bike Fair](/pages/mcbf/)
-* MBB, MXB: [Move By Bike](/pages/mbb/)
-* S2B: [Shift2Bikes](/pages/mission_statement/) :)
-* BP: [BikePortland](https://bikeportland.org/)
-* LNT: [Leave no trace](https://en.wikipedia.org/wiki/Leave_No_Trace)
-* VKS: [Vera Katz Statue](https://en.wikipedia.org/wiki/Statue_of_Vera_Katz), on the Eastbank Esplanade; often used as a ride start location
-* R2R: "ride to the ride"; a ride specifically for arriving at another ride
-* corkers, corking: riders who block traffic from side roads at an intersection so that the rest of the ride can freely proceed through without interruption
-* no-drop: a ride where no one gets left behind — the ride waits for all riders in the event of mechanical difficulties, slower riders, etc; contrast with a drop ride, which isn't expected to wait for everyone
-
+* LNT: [Leave no trace](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%96%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%82%B9) - 痕跡を残さない
+* R2R: 「ride to the ride」；別の走行に到着するための走行
+* corkers, corking: 交差点で脇道からの交通をブロックして、走行の残りが中断なく自由に通過できるようにするライダー
+* no-drop: 誰も置き去りにされない走行 — 機械的な困難、遅いライダーなどの場合に、走行はすべてのライダーを待ちます
+* drop ride: 全員を待つことが期待されていない走行

@@ -193,7 +193,7 @@
             });
         }
         // the vertically oriented label on the side of the picker
-        weeks[0]['monthTitle'] = date.format("MMMM YYYY") // ex. January 2024
+        weeks[0]['monthTitle'] = date.format("YYYY年M月") // ex. 2024年1月
         // indicates the height of the label: the number of rows (weeks) it should span
         weeks[0]['weeksInMonth'] = weeks.length;
         return {weeks};

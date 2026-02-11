@@ -57,7 +57,7 @@ So - now you can hopefully access the site.  But a real end-toend test of yourse
 1. visit https://localhost:4443/addevent/
 2. fill out all required fields (ones marked with an asterisk), for a date a day or two in the future.
 3. save the event (fix any validation errors around missing fields to ensure it saves)
-4. In production, we send you an email with a link to confirm the ride listing; we also write a copy of that email to the file `services/node/shift-mail.log`. For local development, we don't actually send the email, so get the confirmation link from that mail log, visit it, and hit publish event
+4. In production, we send you an email with a link to confirm the ride listing. A copy of this email is also written to the log output, which you can view by running ./shift logs node. In local development, we do not send the email, so you will need to get the confirmation link from the log, visit the link, and click 'Publish Event'.
 5. hopefully see your event on the https://localhost:4443/calendar page!
 
 ## Important Project Files

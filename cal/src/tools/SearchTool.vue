@@ -6,9 +6,9 @@ export default {
   components: { InputText },
   data() {
     return {
-     attrs: {
+      attrs: {
         type: "text",
-        placeholder: "enter keywords",
+        placeholder: "イベントタイトルを検索...",
       },
       model: {
         // the text in the input box should be filled with the query search string.
@@ -40,9 +40,9 @@ export default {
 <form class="c-search" method="dialog">
   <!--  -->
   <div class="c-search__controls">
-    <InputText name="search" label="Search" :attrs :model :shouldSelect/>
+    <InputText name="search" label="検索" :attrs :model :shouldSelect/>
     <span class="c-search__past">
-      <label for="all">Include past events </label>
+      <label for="all">過去のイベントを含む </label>
       <input type="checkbox" id="all" v-model="searchAll"/>
     </span>
   </div>
@@ -50,7 +50,7 @@ export default {
     note: prevents default to avoid form submission 
     ( chrome issues a warning when the form disappears due to navigation. )
   -->
-  <button class="c-search__go" @click.prevent="goSearch()">Go</button>
+  <button class="c-search__go" @click.prevent="goSearch()">移動</button>
 </form>
 </template>
 <style>

@@ -11,12 +11,12 @@
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
       <div class="modal-body">
-        <h4>Are you sure you want to cancel?</h4>
-        <p>This event won't be saved.</p>
+        <h4>キャンセルしてもよろしいですか？</h4>
+        <p>このイベントは保存されません。</p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn" data-dismiss="modal">Back</button>
-        <button type="button" id="confirm-cancel" data-dismiss="modal" class="btn btn-warning">Discard event</button>
+        <button type="button" class="btn" data-dismiss="modal">戻る</button>
+        <button type="button" id="confirm-cancel" data-dismiss="modal" class="btn btn-warning">イベントを破棄</button>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -26,13 +26,13 @@
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
       <div class="modal-body">
-        <h4>Are you sure you want to delete this event?</h4>
-        <p>The event will be permanently deleted. This can't be undone.</p>
+        <h4>このイベントを削除してもよろしいですか？</h4>
+        <p>イベントは完全に削除されます。この操作は元に戻せません。</p>
       </div>
       <div class="modal-footer">
 
-        <button type="button" class="btn" data-dismiss="modal">Back</button>
-        <button type="button" id="confirm-delete" data-dismiss="modal" class="btn btn-warning">Delete Event</button>
+        <button type="button" class="btn" data-dismiss="modal">戻る</button>
+        <button type="button" id="confirm-delete" data-dismiss="modal" class="btn btn-warning">イベントを削除</button>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -57,11 +57,11 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
-        <h4>Event Submitted</h4>
-        <p>A confirmation email has been sent to you at <span id="submit-email">example@example.com</span>.
-        <p>You <em>must</em> use the link in the email to publish your event.
-        <p>If you don't receive your confirmation within 20 minutes please contact <a href="mailto:bikecal@shift2bikes.org">bikecal@shift2bikes.org</a> for help.
-        <p>Thanks!
+        <h4>イベントが送信されました</h4>
+        <p>確認メールを <span id="submit-email">example@example.com</span> 宛に送信しました。
+        <p>メール内のリンクからイベントを公開する<em>必要があります</em>。
+        <p>20分以内に確認メールが届かない場合は、<a href="mailto:bikecal@shift2bikes.org">bikecal@shift2bikes.org</a> までお問い合わせください。
+        <p>ありがとうございます！
       </div>
       <div class="modal-footer">
         <button type="button" class="btn" data-dismiss="modal" id="submit-ok">OK</button>
@@ -72,15 +72,15 @@
 
 <script id="mustache-edit" type="text/template">
 
-  [[^ id ]]<h1>Add Event</h1>[[/ id ]]
-  [[# id ]]<h1>Edit Event</h1>[[/ id ]]
+  [[^ id ]]<h1>イベントを追加</h1>[[/ id ]]
+  [[# id ]]<h1>イベントを編集</h1>[[/ id ]]
 
   [[# id ]]
   [[^ published ]]
   <!-- event has been created, but is not yet published -->
   <div class="unpublished-event">
-    <p>Almost there! Publish the event to go live on the calendar.</p>
-    <button type="button" class="publish-button btn btn-add-event">Publish</button>
+    <p>あと少しです！カレンダーに公開するには、下のボタンをクリックしてください。</p>
+    <button type="button" class="publish-button btn btn-add-event">公開する</button>
   </div>
   [[/ published ]]
   [[/ id ]]
@@ -94,7 +94,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#general-fields" aria-expanded="true">
-              Event Description
+              イベント内容
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -105,18 +105,18 @@
         <div id="general-fields" class="panel-collapse collapse in">
           <div class="panel-body">
             <div class="form-group">
-              <label class="control-label req-label" for="title">Event name</label>
+              <label class="control-label req-label" for="title">イベント名</label>
               <input type="text" class="form-control" name="title" id="title" value="[[title]]" required="true" aria-invalid="false"/>
             </div>
 
             <div class="form-group">
-              <label class="control-label req-label" for="details">Details</label>
+              <label class="control-label req-label" for="details">詳細</label>
               <textarea class="form-control" name="details" id="details" required="true" aria-invalid="false" aria-describedby="details-help" rows="8">[[details]]</textarea>
-              <p class="input-help" id="details-help">If there are fees, you <strong>must</strong> list them here. If you don't, people will assume the event is free.</p>
+              <p class="input-help" id="details-help">参加費がある場合は、<strong>必ず</strong>ここに記載してください。記載がない場合、参加者は無料のイベントだと判断します。</p>
             </div>
 
             <div class="form-group">
-              <label class="control-label req-label" for="audience">Audience</label>
+              <label class="control-label req-label" for="audience">対象</label>
               <select name="audience" class="form-control" id="audience">
                 [[# audienceOptions ]]
                 <option value="[[code]]" [[# isSelected ]]selected[[/ isSelected ]]>[[text]]</option>
@@ -128,14 +128,14 @@
               <div>
                 <label class="control-label optional-label" for="safetyplan">
                   <input type="checkbox" name="safetyplan" id="safetyplan" value="1" [[# safetyplan ]]checked[[/ safetyplan ]] />
-                  My ride follows the COVID safety plan
+                  感染症安全対策プランに従います
                 </label>
-                <p class="input-help">We need your help to keep bike fun safe for all! If you follow this <a href="/pages/public-health/#safety-plan" target="_blank" title="opens in a new window">COVID safety plan</a>, we'll put a special marker next to your ride on the calendar so people know what to expect.</p>
+                <p class="input-help">自転車イベントを安全に楽しむためにご協力をお願いします！この<a href="/pages/public-health/#safety-plan" target="_blank" title="新しいウィンドウで開きます">感染症安全対策プラン</a>に従う場合、カレンダー上のイベントに特別なマークが表示されます。</p>
               </div>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="image">Image</label>
+              <label class="control-label optional-label" for="image">画像</label>
 
               <div class="image-form">
                 <div class="image-display">
@@ -143,19 +143,19 @@
                   <img src="{{ absURL "img/cal/icons/image.svg" }}" alt="" class="event-image placeholder" />
                   [[/ image]]
                   [[# image]]
-                  <a href="[[image]]" target="_blank" title="View full size in a new window">
-                    <img src="[[image]]" alt="User-uploaded image" class="event-image" />
+                  <a href="[[image]]" target="_blank" title="フルサイズを新しいウィンドウで表示">
+                    <img src="[[image]]" alt="アップロード画像" class="event-image" />
                   </a>
                   [[/ image]]
                 </div>
                 <div class="image-input">
                   [[^ id ]]
                   <input type="file" class="form-control" name="image" id="image" aria-describedby="image-help" disabled />
-                  <p class="input-help" id="image-help">To add an image, save and confirm the event first.</p>
+                  <p class="input-help" id="image-help">画像を追加するには、まずイベントを保存・確認してください。</p>
                   [[/ id ]]
                   [[# id ]]
                   <input type="file" class="form-control" name="image" id="image" aria-describedby="image-help" />
-                  <p class="input-help" id="image-help">Images must be a JPG, PNG, or GIF file less than 5 <abbr title="megabytes">MB</abbr>.</p>
+                  <p class="input-help" id="image-help">画像はJPG、PNG、またはGIF形式で5<abbr title="メガバイト">MB</abbr>以下にしてください。</p>
                   [[/ id ]]
                 </div>
               </div>
@@ -169,7 +169,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#dateandtime-fields" aria-expanded="true">
-              Date and Time
+              日時
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -179,25 +179,19 @@
         <div id="dateandtime-fields" class="panel-collapse collapse in">
           <div class="panel-body">
 
-            {{ if .Site.Params.festival.active }}
-            <div class="pp-banner">
-              <a href="/pages/bike-summer/" target="_blank" title="opens in a new window">Bike Summer</a> (aka Pedalpalooza) returns for all of June, July, and August! Add your events now!
-            </div>
-            {{ end }}
-
             <div class="form-group">
-              <label class="control-label req-label" for="datestring">Date</label>
+              <label class="control-label req-label" for="datestring">日付</label>
               <div id="date-select-container" class="date-select-container-style form-group">
                 <table class="day-of-week">
                   <tr>
                     <td class="calendar-month-title"></td>
-                    <td>Sun</td>
-                    <td>Mon</td>
-                    <td>Tue</td>
-                    <td>Wed</td>
-                    <td>Thu</td>
-                    <td>Fri</td>
-                    <td>Sat</td>
+                    <td>日</td>
+                    <td>月</td>
+                    <td>火</td>
+                    <td>水</td>
+                    <td>木</td>
+                    <td>金</td>
+                    <td>土</td>
                   </tr>
                 </table>
                 <div id="date-select" class="date-select-style">
@@ -206,39 +200,39 @@
                 </div>
                 <div id="date-picker-actions">
                   <div>
-                    <button type="button" id="date-picker-prev-month" aria-label="Earlier">←</button> <button type="button" id="date-picker-next-month" aria-label="Later">→</button>
+                    <button type="button" id="date-picker-prev-month" aria-label="前へ">←</button> <button type="button" id="date-picker-next-month" aria-label="次へ">→</button>
                   </div>
                   <div>
-                    <button type="button" id="date-picker-today">Today</button>
+                    <button type="button" id="date-picker-today">今日</button>
                   </div>
                 </div>
                 <div id="date-selected-container">
-                  Selected dates:
+                  選択した日付：
                   <ul id="date-selected"></ul>
                 </div>
               </div>
             </div>
 
             <div class="form-group">
-              <label class="control-label req-label" for="time">Time</label>
+              <label class="control-label req-label" for="time">時間</label>
               <select name="time" class="form-control" id="time" aria-describedby="time-help">
                 [[# timeOptions ]]
                 <option value="[[value]]" [[# isSelected ]]selected[[/ isSelected ]]>[[time]]</option>
                 [[/ timeOptions ]]
               </select>
-              <p class="input-help" id="time-help">If your event has multiple times (for example, a "meet time" and a "ride time"), put the first time here. Describe the later times in the time details field, below.</p>
+              <p class="input-help" id="time-help">複数の時間がある場合（例：「集合時間」と「出発時間」）は、最初の時間をここに入力してください。それ以降の時間は下の「時間詳細」欄に記入してください。</p>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="timedetails">Time details</label>
+              <label class="control-label optional-label" for="timedetails">時間詳細</label>
               <input type="text" class="form-control" name="timedetails" id="timedetails" value="[[timedetails]]" aria-describedby="timedetails-help" />
-              <p class="input-help" id="timedetails-help">More detail about your event's time, if needed. Try to keep it short. Example: "Meet at 5:00pm, ride at 5:30pm."</p>
+              <p class="input-help" id="timedetails-help">時間に関する追加情報があれば記入してください。短めに書くことをおすすめします。例：「17:00集合、17:30出発」</p>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="eventduration">Event duration, in minutes</label>
+              <label class="control-label optional-label" for="eventduration">イベントの所要時間（分）</label>
               <input type="text" class="form-control" name="eventduration" id="eventduration" value="[[eventduration]]" aria-describedby="eventduration-help" />
-              <p class="input-help" id="eventduration-help">Help your riders understand the minimum proposed duration of your ride!</p>
+              <p class="input-help" id="eventduration-help">参加者がイベントのおおよその所要時間を把握できるようにしましょう！</p>
             </div>
 
           </div>
@@ -249,7 +243,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#location-fields" aria-expanded="true">
-              Location
+              場所
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -260,7 +254,7 @@
           <div class="panel-body">
 
             <div class="form-group">
-              <label class="control-label" for="area">Area</label>
+              <label class="control-label" for="area">エリア</label>
               <select name="area" class="form-control" id="area">
                 [[# areaOptions ]]
                 <option value="[[code]]" [[# isSelected ]]selected[[/ isSelected ]]>[[text]]</option>
@@ -269,42 +263,42 @@
             </div>
 
             <div class="form-group">
-              <label class="control-label req-label" for="venue">Location name</label>
+              <label class="control-label req-label" for="venue">集合場所名</label>
               <input type="text" class="form-control" name="venue" id="venue" value="[[venue]]" required="true" aria-invalid="false" />
             </div>
             <div class="form-group">
-              <label class="control-label req-label" for="address">Address</label>
+              <label class="control-label req-label" for="address">住所</label>
               <input type="text" class="form-control" name="address" id="address" value="[[address]]" required="true" aria-invalid="false" aria-describedby="address-help" />
-              <p class="input-help" id="address-help">Provide either a street address or cross streets. This should be mappable by online maps such as Google Maps. If you haven't chosen a location yet, enter "TBA" for now.</p>
+              <p class="input-help" id="address-help">住所または交差点名を入力してください。Googleマップなどで検索できる形式が望ましいです。場所が未定の場合は「未定」と入力してください。</p>
             </div>
             <div class="form-group">
-              <label class="control-label optional-label" for="locdetails">Location details</label>
+              <label class="control-label optional-label" for="locdetails">場所の詳細</label>
               <input type="text" class="form-control" name="locdetails" id="locdetails" value="[[locdetails]]" aria-describedby="locdetails-help" />
-              <p class="input-help" id="locdetails-help">More detail about your event's start location, if needed. Example: "Meet near the clock tower."</p>
+              <p class="input-help" id="locdetails-help">集合場所に関する追加情報があれば記入してください。例：「時計台の近くに集合」</p>
             </div>
 
             <div class="form-group">
               <div>
                 <label class="control-label optional-label" for="loopride">
                   <input type="checkbox" name="loopride" id="loopride" value="1" [[# loopride ]]checked[[/ loopride ]] aria-describedby="loopride-help" />
-                  Ride is a loop
+                  ルートは周回コースです
                 </label>
-              <p class="input-help" id="loopride-help">Does your ride end at the same location where it began?</p>
+              <p class="input-help" id="loopride-help">ライドは出発地点に戻りますか？</p>
               </div>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="locend">End location details</label>
+              <label class="control-label optional-label" for="locend">終了場所の詳細</label>
               <input type="text" class="form-control" name="locend" id="locend" value="[[locend]]" aria-describedby="locend-help" />
-              <p class="input-help" id="locend-help">Your event's end location, if known.</p>
+              <p class="input-help" id="locend-help">終了場所がわかっている場合は記入してください。</p>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="length">Length of route</label>
-              <select name="ridelength" class="form-control" id="ridelength">
-                [[# rideLengthOptions ]]
+              <label class="control-label optional-label" for="length">ルートの距離</label>
+              <select name="length" class="form-control" id="length">
+                [[# lengthOptions ]]
                 <option value="[[code]]" [[# isSelected ]]selected[[/ isSelected ]]>[[text]]</option>
-                [[/ rideLengthOptions ]]
+                [[/ lengthOptions ]]
               </select>
             </div>
 
@@ -316,7 +310,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#contact-fields" aria-expanded="true">
-              Contact Info
+              連絡先情報
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -326,28 +320,28 @@
         <div id="contact-fields" class="panel-collapse collapse in">
           <div class="panel-body">
             <div class="form-group">
-              <label class="control-label req-label" for="organizer">Organizer</label>
+              <label class="control-label req-label" for="organizer">主催者</label>
               <input type="text" class="form-control" name="organizer" id="organizer" value="[[organizer]]" required="true" aria-invalid="false" />
             </div>
 
             <div class="form-group">
-              <label class="control-label req-label" for="email">Email</label>
+              <label class="control-label req-label" for="email">メールアドレス</label>
               <input type="text" class="form-control" name="email" id="email" value="[[email]]" autocomplete="email" aria-describedby="email-help email-suggestion" required="true" aria-invalid="false" />
-              <p class="input-help" id="email-help">This must be a valid email address where we can reach you. A confirmation message will be mailed to this address.</p>
+              <p class="input-help" id="email-help">連絡可能な有効なメールアドレスを入力してください。このアドレスに確認メールが送信されます。</p>
               <div id="email-suggestion" aria-live="polite"></div>
 
               <div>
                 <label class="control-label" for="hideemail">
                   <input type="checkbox" name="hideemail" id="hideemail" value="1" [[^ id ]]checked[[/ id ]] [[# hideemail ]]checked[[/ hideemail ]] />
-                  Don't publish my email address online
+                  メールアドレスを公開しない
                 </label>
               </div>
             </div>
 
-            <div>Website for additional details</div>
+            <div>追加の詳細情報用Webサイト</div>
             <div class="row">
               <div class="form-group col-xs-12 col-sm-6">
-                <label class="control-label optional-label" for="webname">Website Name</label>
+                <label class="control-label optional-label" for="webname">Webサイト名</label>
                 <input type="text" class="form-control" name="webname" id="webname" value="[[webname]]" />
               </div>
               <div class="form-group col-xs-12 col-sm-6">
@@ -357,23 +351,23 @@
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="phone">Phone</label>
+              <label class="control-label optional-label" for="phone">電話番号</label>
               <input type="text" class="form-control optional-label" name="phone" id="phone" value="[[phone]]" />
 
               <label class="control-label" for="hidephone">
                 <input type="checkbox" name="hidephone" id="hidephone" value="1" [[# hidephone ]]checked[[/ hidephone ]] />
-                Don't publish my phone number online
+                電話番号を公開しない
               </label>
             </div>
 
             <div class="form-group">
-              <label class="control-label optional-label" for="contact">Additional Contact Info</label>
+              <label class="control-label optional-label" for="contact">その他の連絡先</label>
               <input type="text" class="form-control" name="contact" id="contact" value="[[contact]]" aria-describedby="contact-help" />
-              <p class="input-help" id="contact-help">This can be a name, an email address, another web URL, social media link, PO Box, or anything else!</p>
+              <p class="input-help" id="contact-help">名前、メールアドレス、WebサイトURL、SNSリンク、私書箱など、何でも入力できます！</p>
 
               <label class="control-label" for="hidecontact">
                 <input type="checkbox" name="hidecontact" id="hidecontact" value="1" [[# hidecontact ]]checked[[/ hidecontact ]] />
-                Don't publish additional contact information online
+                その他の連絡先を公開しない
               </label>
             </div>
           </div>
@@ -386,7 +380,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#print-fields" aria-expanded="true">
-              Print Calendar Info
+              印刷カレンダー情報
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -395,47 +389,47 @@
         </div>
         <div id="print-fields" class="panel-collapse collapse in">
           <div class="panel-body">
-            <p class="input-help">The printed calendar has limited space for each event, so we must limit the amount of info for some fields. Be as brief as reasonably possible!</p>
-            <p class="input-help">You must submit at least 3 weeks in advance of the print deadline. We can't guarantee that all submitted rides will be printed, sorry!</p>
+            <p class="input-help">印刷カレンダーではスペースが限られているため、一部の項目は文字数を制限する必要があります。できるだけ簡潔に記入してください！</p>
+            <p class="input-help">印刷締め切りの3週間前までに送信してください。すべてのイベントが印刷される保証はありませんのでご了承ください。</p>
             <div class="form-group">
-              <label class="control-label optional-label" for="tinytitle">Print title (24 characters)</label>
+              <label class="control-label optional-label" for="tinytitle">印刷用タイトル（24文字）</label>
               <input type="text" class="form-control" name="tinytitle" id="tinytitle" value="[[tinytitle]]" maxlength="24" />
             </div>
             <div class="form-group">
-              <label class="control-label optional-label" for="printdescr">Print description (120 characters)</label>
+              <label class="control-label optional-label" for="printdescr">印刷用説明（120文字）</label>
               <textarea class="form-control" name="printdescr" id="printdescr" maxlength="120" rows="5" >[[printdescr]]</textarea>
             </div>
 
             <fieldset>
-              <legend>Print contact info</legend>
+              <legend>印刷用連絡先</legend>
               <div class="checkbox">
                 <label class="control-label" for="printorganizer">
                   <input type="checkbox" name="printorganizer" id="printorganizer" value="1" checked disabled />
-                  Organizer
+                  主催者
                 </label>
               </div>
               <div class="checkbox">
                 <label class="control-label" for="printemail">
                   <input type="checkbox" name="printemail" id="printemail" value="1" [[# printemail ]]checked[[/ printemail ]] />
-                  Email address
+                  メールアドレス
                 </label>
               </div>
               <div class="checkbox">
                 <label class="control-label" for="printphone">
                   <input type="checkbox" name="printphone" id="printphone" value="1" [[# printphone ]]checked[[/ printphone ]] />
-                  Phone number
+                  電話番号
                 </label>
               </div>
               <div class="checkbox">
                 <label class="control-label" for="printweburl">
                   <input type="checkbox" name="printweburl" id="printweburl" value="1" [[# printweburl ]]checked[[/ printweburl ]] />
-                  Web link
+                  Webリンク
                 </label>
               </div>
               <div class="checkbox">
                 <label class="control-label" for="printcontact">
                   <input type="checkbox" name="printcontact" id="printcontact" value="1" [[# printcontact ]]checked[[/ printcontact ]] />
-                  Additional contact info
+                  その他の連絡先
                 </label>
               </div>
             </fieldset>
@@ -449,7 +443,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#terms-fields" aria-expanded="true">
-              Terms
+              利用規約
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -458,18 +452,18 @@
         </div>
         <div id="terms-fields" class="panel-collapse collapse in">
           <div class="panel-body">
-            <p class="input-help">Rides posted to the Shift calendar must abide by the <a href="/pages/shift-code-of-conduct/" target="_blank" title="opens in a new window">Code of Conduct</a>.</p>
+            <p class="input-help">カレンダーに掲載するイベントは<a href="/pages/shift-code-of-conduct/" target="_blank" title="新しいウィンドウで開きます">行動規範</a>を遵守する必要があります。</p>
             <div class="checkbox">
               <label class="control-label" for="code_of_conduct">
                 <input type="checkbox" name="code_of_conduct" id="code_of_conduct" value="1" [[# codeOfConduct ]]checked[[/ codeOfConduct ]] />
-                I agree to the Code of Conduct
+                行動規範に同意します
               </label>
             </div>
-            <p class="input-help">For tips on making your ride successful, we ask that you read the <a href="/images/rideleadingcomiccolor.jpg" target="_blank" title="opens in a new window">Ride Leading Comic</a> at least once before submitting an event.</p>
+            <p class="input-help">イベントを成功させるためのヒントとして、イベント送信前に<a href="/images/rideleadingcomiccolor.jpg" target="_blank" title="新しいウィンドウで開きます">ライドリーダーガイド</a>を一度お読みください。</p>
             <div class="checkbox">
               <label class="control-label" for="read_comic">
                 <input type="checkbox" name="read_comic" id="read_comic" value="1" [[# readComic ]]checked[[/ readComic ]] />
-                I have read the Ride Leading Comic
+                ライドリーダーガイドを読みました
               </label>
             </div>
 
@@ -483,7 +477,7 @@
         <div class="panel-heading">
           <h2>
             <a role="button" data-toggle="collapse" href="#delete-event-fields" aria-expanded="true">
-              Delete Event
+              イベントを削除
               <svg class="icon expand" role="img" aria-hidden="true">
                 <use href="{{ absURL "img/cal/icons/icon-set.svg#icon-arrow-down" }}"/>
               </svg>
@@ -494,11 +488,11 @@
         <div id="delete-event-fields" class="panel-collapse collapse in">
           <div class="panel-body">
             <div class="form-group">
-              <p class="input-help">If an event is no longer happening, we recommend <a href="#dateandtime-fields">cancelling</a> instead of deleting. Cancelling it gives you an opportunity to post a message to inform riders, like if it's been rescheduled to another date.</p>
-              <p class="input-help">If this is a series of repeating events, <strong>this will delete the entire series</strong>.</p>
-              <p class="input-help"><strong>Once an event is deleted, it can't be restored!</strong> If you're sure: </p>
+              <p class="input-help">イベントが開催されなくなった場合は、削除するよりも<a href="#dateandtime-fields">中止</a>にすることをおすすめします。中止にすれば、別の日程への変更など、参加者へのメッセージを掲載できます。</p>
+              <p class="input-help">繰り返しイベントの場合、<strong>シリーズ全体が削除されます</strong>。</p>
+              <p class="input-help"><strong>一度削除したイベントは復元できません！</strong> よろしければ：</p>
 
-              <button id="delete-button" type="button" class="btn btn-add-event" data-toggle="modal" data-target="#delete-modal">Delete</button>
+              <button id="delete-button" type="button" class="btn btn-add-event" data-toggle="modal" data-target="#delete-modal">削除</button>
             </div>
           </div>
         </div>
@@ -509,15 +503,15 @@
     </div>
   </form>
   <div class="edit-buttons" >
-      <button type="button" class="preview-edit-button btn btn-add-event" style="display: none;">Edit</button>
-      <button type="button" class="preview-button btn btn-add-event">Preview</button>
+      <button type="button" class="preview-edit-button btn btn-add-event" style="display: none;">編集</button>
+      <button type="button" class="preview-button btn btn-add-event">プレビュー</button>
       [[# id ]]
-      <button type="button" class="save-button published-save-button btn btn-add-event" style="display: none;">Save</button>
-      <button type="button" class="duplicate-button btn btn-add-event" style="display: none;">Duplicate</button>
+      <button type="button" class="save-button published-save-button btn btn-add-event" style="display: none;">保存</button>
+      <button type="button" class="duplicate-button btn btn-add-event" style="display: none;">複製</button>
       [[/ id ]]
       [[^ id ]]
-      <button type="button" class="save-button btn btn-add-event">Save</button>
-      <button type="button" class="cancel-button btn btn-add-event" data-toggle="modal" data-target="#cancel-modal">Discard</button>
+      <button type="button" class="save-button btn btn-add-event">保存</button>
+      <button type="button" class="cancel-button btn btn-add-event" data-toggle="modal" data-target="#cancel-modal">破棄</button>
       [[/ id ]]
 
       <span class="save-result"></span>
@@ -531,7 +525,7 @@
     <td rowspan="[[weeksInMonth]]" class="calendar-month-title"><span>[[monthTitle]]</span></td>
     [[/monthTitle]]
     [[#days]]
-    <td class="calendar-day [[classes]]" data-date="[[date]]" [[#today]]aria-current="date" title="today"[[/today]]>[[day]]</td>
+    <td class="calendar-day [[classes]]" data-date="[[date]]" [[#today]]aria-current="date" title="今日"[[/today]]>[[day]]</td>
     [[/days]]
   </tr>
   [[/weeks]]
@@ -542,11 +536,11 @@
   <li data-id="[[ id ]]">
     <span>[[ date ]]</span>
     <select class="status-selector">,
-      <option value="A" [[# scheduled ]]selected[[/ scheduled ]]>Scheduled</option>
-      <option value="C" [[# cancelled ]]selected[[/ cancelled ]]>Cancelled</option>
+      <option value="A" [[# scheduled ]]selected[[/ scheduled ]]>開催予定</option>
+      <option value="C" [[# cancelled ]]selected[[/ cancelled ]]>中止</option>
     </select>
     <label>
-      newsflash message (optional)
+      更新メッセージ（任意）
       <input type="text" class="newsflash" value="[[ newsflash ]]">
     </label>
   </li>
@@ -554,6 +548,6 @@
 </script>
 
 <script id="email-suggestion-template" type="text/template">
-  <button type="button" data-js-correction>Did you mean <span class="email-address">[[ suggestion ]]</span>?</button>
-  <button type="button" data-js-dismiss><span class="glyphicon glyphicon-remove" role="img" aria-label="Dismiss"></span></button>
+  <button type="button" data-js-correction>もしかして <span class="email-address">[[ suggestion ]]</span>？</button>
+  <button type="button" data-js-dismiss><span class="glyphicon glyphicon-remove" role="img" aria-label="閉じる"></span></button>
 </script>
