@@ -15,12 +15,12 @@
 # --- APIプロキシ（Railway） ---
 [[redirects]]
   from = "/api/*"
-  to = "https://YOUR_RAILWAY_APP.up.railway.app/api/:splat"
+  to = "https://genuine-delight-production-a46d.up.railway.app/api/:splat"
   status = 200
 
 [[redirects]]
   from = "/eventimages/*"
-  to = "https://YOUR_RAILWAY_APP.up.railway.app/eventimages/:splat"
+  to = "https://genuine-delight-production-a46d.up.railway.app/eventimages/:splat"
   status = 200
 
 # --- SPAハンドラー ---
