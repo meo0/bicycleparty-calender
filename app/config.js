@@ -34,6 +34,8 @@ const config = {
     name: env_default('MYSQL_DATABASE', 'shift'),
     type: "mysql2", // name of driver, installed by npm
   },
+  // Resend API key (HTTPS-based email delivery; used in production on Railway)
+  resendApiKey: env_default('RESEND_API_KEY'),
   // a nodemailer friendly config, or false if smtp is not configured.
   smtp: getSmtpSettings(),
   site: {
@@ -190,8 +192,8 @@ function getSmtpSettings() {
     // ( and returns a nodemailer config: https://nodemailer.com/smtp/ )
     return {
       host: host,
-      port:  465,
-      secure: true,
+      port:  587,
+      secure: false,
       auth: {
         user: env_default('SMTP_USER'),
         pass: env_default('SMTP_PASS'),
